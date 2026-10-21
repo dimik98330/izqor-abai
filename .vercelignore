@@ -1,0 +1,24 @@
+# Deploy sources only. Production credentials are configured in Vercel.
+.env*
+.git
+.git/**
+.vercel
+.vercel/**
+node_modules
+node_modules/**
+dist
+dist/**
+.research
+.research/**
+output
+output/**
+.agents
+.agents/**
+coverage
+coverage/**
+docs
+docs/**
+playwright-report
+test-results
+*.log
+*.tsbuildinfo

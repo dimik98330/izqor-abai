@@ -6,7 +6,8 @@
   "outputDirectory": "dist",
   "functions": {
     "api/guide.ts": { "maxDuration": 60 },
-    "api/guide/status.ts": { "maxDuration": 10 }
+    "api/guide/status.ts": { "maxDuration": 10 },
+    "api/guide/view.ts": { "maxDuration": 60 }
   },
   "headers": [
     {
