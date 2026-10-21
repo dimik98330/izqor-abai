@@ -1,0 +1,6 @@
+.load-failure { min-height: 65vh; max-width: 760px; margin: auto; padding: 64px 28px; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; color: var(--ink, #263e3b); }
+.load-failure[data-scope=app] { min-height: 100svh; }
+.load-failure h2 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.25; margin-bottom: 18px; }
+.load-failure p { font-size: 1rem; line-height: 1.8; margin-bottom: 28px; }
+.load-failure-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 20px; }
+.load-failure-actions a { text-underline-offset: 4px; }

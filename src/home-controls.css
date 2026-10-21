@@ -1,0 +1,126 @@
+@import './landing-fonts.css';
+
+/* Journey page only: the single reference is docs/journey-visual-contract.md. */
+.app.page-home{
+  --landing-display:'Literata',Georgia,serif;
+  --landing-sans:'Geologica',sans-serif;
+  --landing-ink:#113633;
+  --landing-muted:#56675f;
+  --landing-paper:#f5f3ec;
+  --landing-brass:#d7ba80;
+  --landing-white:#f6f3e8;
+  --landing-gutter:clamp(24px,5.555vw,80px);
+  --landing-shell:1280px;
+  --landing-radius:6px;
+  --landing-ease:cubic-bezier(.16,1,.3,1);
+  background:var(--landing-paper);color:var(--landing-ink);
+  font-family:var(--landing-sans);-webkit-font-smoothing:antialiased
+}
+.page-home :is(.site-header,.mobile-nav,main,.site-footer){font-family:var(--landing-sans)}
+.page-home main :is(h1,h2){font-family:var(--landing-display)}
+.page-home :is(.site-header,main) svg.lucide{stroke-width:1.6}
+.page-home ::selection{background:var(--landing-brass);color:var(--landing-ink)}
+.page-home main{caret-color:var(--landing-brass)}
+html:has(.page-home){scrollbar-color:#5b7563 #f5f3ec;scrollbar-width:thin}
+.page-home .site-header{
+  position:fixed;inset:0 0 auto;height:88px;
+  display:grid;grid-template-columns:auto minmax(0,1fr) auto;
+  padding-inline:max(var(--landing-gutter),calc((100vw - var(--landing-shell))/2));
+  gap:30px;background:transparent;border-bottom:1px solid #ffffff20;
+  color:var(--landing-white);transition:background-color 180ms ease-out
+}
+.page-home .site-header.is-scrolled{background:#113633fa;backdrop-filter:none;box-shadow:none}
+.page-home .site-header .brand-lockup{width:158px;height:52px}
+.page-home .desktop-nav{height:auto;justify-self:center;align-items:center;gap:26px;padding:0;background:none;border:0;border-radius:0;backdrop-filter:none}
+.page-home .desktop-nav button{position:relative;min-height:48px;padding:13px 0;background:none;border:0;border-bottom:2px solid transparent;border-radius:0;color:#eeeede;font:400 13px/1.5 var(--landing-sans);letter-spacing:0}
+.page-home .desktop-nav button:after{display:none}
+.page-home .desktop-nav button[aria-current=page]{border-bottom-color:var(--landing-brass);color:var(--landing-white);background:none}
+.page-home .desktop-nav button:hover{color:var(--landing-brass);background:none}
+.page-home .header-actions{gap:11px}
+.page-home .language-switch{display:flex;gap:5px;padding:0;background:none;border:0;border-radius:0}
+.page-home .language-switch button{min-height:44px;min-width:27px;padding:10px 3px;border:0;border-radius:0;font:400 11px/1.5 var(--landing-sans);color:#f1f0e5;background:none}
+.page-home .language-switch button[aria-pressed=true]{background:none;color:var(--landing-brass);text-decoration:underline;text-underline-offset:6px;text-decoration-thickness:1px}
+.page-home .header-actions .icon-button{width:38px;min-width:38px;height:44px;background:none;border:0;border-radius:var(--landing-radius);color:var(--landing-white)}
+.page-home .header-actions .icon-button:hover{background:#ffffff10}
+.page-home .header-actions svg{width:18px;height:18px}
+.page-home .mobile-menu-button{display:none}
+.page-home .mobile-nav{top:var(--header-height,88px);left:24px;right:24px;padding:12px;border:1px solid #ffffff30;border-radius:var(--landing-radius);background:#113633;backdrop-filter:none;animation:journey-panel-enter 160ms ease-out}
+.page-home .mobile-nav button{min-height:50px;padding:12px 14px;font-size:16px;line-height:1.5;border-radius:3px}
+.page-home .mobile-nav button:hover{background:#ffffff10}
+.page-home main .section{width:min(100% - var(--landing-gutter)*2,var(--landing-shell));max-width:none;margin-inline:auto;padding:0}
+
+/* One action system: solid brass, quiet text, and a simple outline. */
+.page-home main .button{min-height:54px;padding:14px 22px;gap:12px;font:500 14px/1.5 var(--landing-sans);border-radius:var(--landing-radius);box-shadow:none;white-space:normal;transition:background-color 160ms ease-out,color 160ms ease-out,border-color 160ms ease-out}
+.page-home main .button-outline{background:transparent;border:1px solid #11363385;color:var(--landing-ink)}
+.page-home main .button-outline:hover{background:#e6e8de;border-color:var(--landing-ink)}
+.page-home main .button-recording{background:#9c3a32;color:#fff9ee;border-color:#9c3a32}
+.page-home main :is(button,a):focus-visible{outline:2px solid #8b6d32;outline-offset:5px}
+.page-home :is(.site-header,.mobile-nav,.expedition-hero) :is(button,a):focus-visible{outline-color:#f2d99e}
+
+/* The continuation is editorial content, not another card catalogue. */
+.page-home .journey-statement{
+  width:min(100% - var(--landing-gutter)*2,var(--landing-shell));
+  display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.95fr);align-items:center;
+  gap:64px;margin:0 auto;padding:88px 0 76px;background:transparent;border-radius:0;
+  color:var(--landing-ink);text-align:left
+}
+.journey-editorial-photo{min-width:0;margin:0}
+.journey-editorial-photo>img,.journey-editorial-photo>.photo-fallback{width:100%;height:340px;object-fit:cover;object-position:50% 55%;border-radius:2px}
+.journey-editorial-photo figcaption{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:13px;color:var(--landing-muted);font-size:11px;line-height:1.7}
+.journey-editorial-photo figcaption a{display:inline-flex;align-items:center;gap:6px;text-decoration:none;text-underline-offset:3px}
+.journey-editorial-photo figcaption a:hover{text-decoration:underline}
+.journey-editorial-copy{min-width:0}
+.page-home .journey-editorial-copy h2{font:400 clamp(36px,3vw,44px)/1.18 var(--landing-display);letter-spacing:-.025em;text-wrap:balance;max-width:19ch;margin:0 0 25px}
+.page-home .journey-editorial-copy p{font:400 16px/1.85 var(--landing-sans);max-width:47ch;margin:0 0 26px;color:var(--landing-muted)}
+.journey-editorial-copy h2:focus-visible{outline:2px solid #8b6d32;outline-offset:8px}
+.journey-text-action{display:inline-flex;align-items:center;gap:24px;min-height:48px;padding:10px 0;background:none;border:0;border-bottom:1px solid var(--landing-brass);border-radius:0;color:var(--landing-ink);font:500 15px/1.5 var(--landing-sans)}
+.journey-text-action:hover{color:#756035;border-bottom-color:#756035}
+
+/* Recording keeps its existing permission, storage and recovery behavior. */
+.page-home main .memory-section{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:60px;align-items:center;padding:55px 0 65px;border-top:1px solid #11363335}
+.page-home .memory-section h2{font:400 clamp(32px,2.8vw,40px)/1.22 var(--landing-display);letter-spacing:-.025em;max-width:26ch;margin:0 0 18px}
+.page-home .memory-section p{font-size:16px;line-height:1.85;max-width:60ch;margin-bottom:12px;color:var(--landing-muted)}
+.page-home .memory-section small{display:block;font-size:12px;line-height:1.7;color:var(--landing-muted)}
+.page-home .memory-actions{grid-column:auto;min-width:0;align-items:stretch}
+.page-home .memory-actions>.button{width:300px;max-width:100%;min-height:56px}
+.page-home .recording-result{max-width:100%}
+.page-home .recording-result audio{width:100%;max-width:300px}
+.page-home .site-footer{padding:30px max(var(--landing-gutter),calc((100vw - var(--landing-shell))/2));background:var(--landing-ink);font-family:var(--landing-sans)}
+.page-home .site-footer p{font-size:13px;line-height:1.7;color:#c4d2c4}
+.app.page-home .floating-guide.guide-chat-launcher{width:50px;height:50px;min-height:50px;padding:5px;gap:0;right:20px;bottom:20px;background:#113633;border:1px solid #c9c9aa60;border-radius:8px;box-shadow:0 3px 10px #082b3030}
+.page-home .guide-chat-launcher .guide-trigger-portrait{width:38px;height:38px;background:none}
+.page-home .guide-chat-launcher .guide-trigger-copy,.app.page-home .guide-chat-launcher>svg{display:none}
+.page-home .guide-chat-launcher:hover{background:#214b41}
+@keyframes journey-panel-enter{from{opacity:0}to{opacity:1}}
+@media(max-width:1260px){.page-home .desktop-nav{gap:18px}.page-home .desktop-nav button{font-size:13px}.page-home .site-header{gap:22px}.page-home .site-header .brand-lockup{width:140px}.page-home .header-actions{gap:6px}}
+@media(max-width:1120px){.page-home .desktop-nav{display:none}.page-home .mobile-menu-button{display:grid}.page-home .site-header{grid-template-columns:auto 1fr}.page-home .header-actions{justify-self:end}.page-home .site-header .brand-lockup{width:156px}.page-home .header-actions{gap:10px}}
+@media(max-width:900px){.page-home .journey-statement{gap:38px;padding-block:64px}.journey-editorial-photo>img,.journey-editorial-photo>.photo-fallback{height:300px}.page-home .journey-editorial-copy h2{font-size:36px}.page-home main .memory-section{grid-template-columns:1fr;gap:28px}.page-home .memory-actions{width:max-content;max-width:100%}}
+@media(max-width:700px){
+  .page-home .site-header{height:76px;gap:10px}
+  .page-home .site-header .brand-lockup{width:104px;height:44px}
+  .page-home .header-actions{gap:3px}
+  .page-home .language-switch{gap:2px}
+  .page-home .language-switch button{min-width:26px;min-height:44px;font-size:10px;padding-inline:3px}
+  .page-home .header-actions .icon-button{width:36px;min-width:36px;height:44px}
+  .page-home .header-actions .music-toggle{display:none}
+  .page-home .journey-statement{grid-template-columns:1fr;gap:32px;padding-block:52px}
+  .journey-editorial-photo>img,.journey-editorial-photo>.photo-fallback{height:260px}
+  .journey-editorial-photo figcaption{font-size:10px;line-height:1.7}
+  .page-home .journey-editorial-copy h2{font-size:34px;max-width:21ch;margin-bottom:22px}
+  .page-home .journey-editorial-copy p{font-size:15px;margin-bottom:18px}
+  .journey-text-action{font-size:15px;min-height:48px}
+  .page-home main .memory-section{padding-block:40px 52px;gap:26px}
+  .page-home .memory-section h2{font-size:32px;max-width:20ch}
+  .page-home .memory-section p{font-size:15px}
+  .page-home .memory-section small{font-size:11px}
+  .page-home .memory-actions,.page-home .memory-actions>.button{width:100%}
+  .page-home .site-footer{padding-block:24px}
+  .page-home .site-footer p{font-size:12px}
+  .app.page-home .floating-guide.guide-chat-launcher{right:12px;bottom:12px;width:48px;height:48px;min-height:48px}
+  .page-home .guide-chat-launcher .guide-trigger-portrait{width:36px;height:36px}
+}
+html[data-large=true] .page-home .journey-editorial-copy p,html[data-large=true] .page-home .memory-section p{font-size:20px}
+html[data-large=true] .page-home .memory-section small{font-size:15px}
+html[data-contrast=true] .page-home :is(.journey-editorial-copy p,.memory-section p,.memory-section small,.journey-editorial-photo figcaption){color:#173c31}
+html[data-reduce=true] .page-home *,html[data-reduce=true] .page-home *:before,html[data-reduce=true] .page-home *:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+@media(prefers-reduced-motion:reduce){.page-home *,.page-home *:before,.page-home *:after{animation:none!important;transition:none!important}}

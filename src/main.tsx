@@ -1,0 +1,10 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import LoadBoundary from './LoadBoundary';
+import './styles.css';
+import './guide-integration.css';
+import './brand.css';
+import './home-controls.css';
+import './living-atlas.css';
+ReactDOM.createRoot(document.getElementById('root')!).render(<React.StrictMode><LoadBoundary><App/></LoadBoundary></React.StrictMode>);

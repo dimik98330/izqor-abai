@@ -1,0 +1,129 @@
+:root {
+  --guide-night: #092b2f;
+  --guide-surface: #10383b;
+  --guide-text: #f8f1df;
+  --guide-secondary: #bfcfc7;
+  --guide-muted: #8fa89f;
+  --guide-brass: #e1c18a;
+  --guide-line: #e1c18a26;
+  --guide-radius: 14px;
+  --guide-font: 'Golos Text', sans-serif;
+  --guide-ease: cubic-bezier(.2,.7,.2,1);
+}
+
+/* Every entry to the companion uses the same mark and action language. */
+.introduction-launch {
+  position: relative; display: inline-flex; align-items: center; gap: 10px;
+  min-height: 44px; padding: 10px 0; margin-top: 16px;
+  background: transparent; color: var(--guide-brass); font: 500 15px/1.5 var(--guide-font);
+  text-decoration: none;
+}
+.introduction-launch::after {
+  content: ''; position: absolute; left: 24px; right: 0; bottom: 6px; height: 1px;
+  background: currentColor; transform: scaleX(.32); transform-origin: left;
+  transition: transform 180ms var(--guide-ease);
+}
+.introduction-launch:hover::after,.introduction-launch:focus-visible::after { transform: scaleX(1); }
+.settings-introduction {
+  width: 100%; display: flex; align-items: center; gap: 14px; min-height: 80px;
+  padding: 19px; margin-bottom: 24px; border: 0; border-radius: 10px;
+  background: var(--guide-night); color: var(--guide-text); text-align: left;
+  transition: background-color 160ms var(--guide-ease), transform 120ms var(--guide-ease);
+}
+.settings-introduction>svg { color: var(--guide-brass); }
+.settings-introduction>span { flex: 1; }
+.settings-introduction strong { display: block; font: 500 16px/1.5 var(--guide-font); }
+.settings-introduction small { display: block; margin-top: 4px; font: 400 14px/1.6 var(--guide-font); color: var(--guide-secondary); }
+.settings-introduction:hover { background: var(--guide-surface); }
+.settings-introduction:active { transform: translateY(1px); }
+
+.app .floating-guide.guide-chat-launcher {
+  display: flex; align-items: center; gap: 12px; min-height: 66px;
+  right: 24px; bottom: 24px; padding: 11px 15px 11px 11px;
+  max-width: calc(100vw - 48px);
+  color: var(--guide-text); background: var(--guide-night);
+  border: 1px solid #e1c18a52; border-radius: 12px;
+  box-shadow: 0 8px 26px #061c2226;
+  transition: border-color 160ms var(--guide-ease), background-color 160ms var(--guide-ease), transform 120ms var(--guide-ease);
+}
+.guide-trigger-portrait {
+  width: 48px; height: 48px; flex-shrink: 0; overflow: hidden;
+  display: grid; place-items: center; border-radius: 50%;
+  background: #e1c18a16;
+}
+.guide-trigger-portrait img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.guide-trigger-copy { min-width: 0; text-align: left; }
+.guide-trigger-copy small { display: block; color: var(--guide-secondary); font: 400 12px/1.4 var(--guide-font); }
+.guide-trigger-copy strong { display: block; color: var(--guide-text); font: 500 15px/1.5 var(--guide-font); }
+.app .floating-guide.guide-chat-launcher>svg { width: 18px; color: var(--guide-brass); margin-left: 4px; transition: transform 160ms var(--guide-ease); }
+.app .floating-guide.guide-chat-launcher:hover { background: var(--guide-surface); border-color: var(--guide-brass); }
+.app .floating-guide.guide-chat-launcher:hover>svg { transform: translate(2px,-2px); }
+.app .floating-guide.guide-chat-launcher:active { transform: translateY(1px); }
+.app .floating-guide.guide-chat-launcher:focus-visible { outline: 2px solid var(--guide-text); outline-offset: 4px; }
+
+/* The conversation keeps its request/history logic and receives the companion skin. */
+.dialog:has(.izqor-conversation) {
+  border: 1px solid var(--guide-line); background: var(--guide-night);
+  border-radius: var(--guide-radius); box-shadow: 0 20px 70px #061c2238;
+}
+.dialog .izqor-conversation {
+  --chat-paper: var(--guide-night);
+  --chat-ink: var(--guide-text);
+  --chat-teal: var(--guide-brass);
+  --chat-muted: var(--guide-secondary);
+  --chat-wash: var(--guide-surface);
+  --chat-line: var(--guide-line);
+  --chat-gold: var(--guide-brass);
+  --chat-focus: var(--guide-brass);
+  --chat-xs: .875rem; --chat-sm: 1rem; --chat-body: 1rem;
+  --chat-lead: 1.125rem; --chat-name: 1.5rem; --chat-display: clamp(1.75rem,3vw,2.1rem);
+}
+.dialog .izqor-conversation-header { grid-template-columns: 82px minmax(0,1fr) auto; gap: 18px; padding: 20px 26px; }
+.dialog .izqor-conversation-portrait { width: 82px; height: 96px; border-radius: 0; background: transparent; }
+.dialog .izqor-conversation-identity h2 { font-weight: 500; letter-spacing: -.02em; }
+.dialog .izqor-conversation .izqor-conversation-new,.dialog .izqor-conversation .izqor-conversation-close { border-radius: 7px; }
+.dialog .izqor-conversation .izqor-conversation-close { color: var(--guide-text); }
+.dialog .izqor-conversation-context { padding-block: 12px; }
+.dialog .izqor-conversation-context select { color-scheme: dark; }
+.dialog .izqor-conversation-context option { background: var(--guide-surface); color: var(--guide-text); }
+.dialog .izqor-conversation-welcome { padding-top: 34px; }
+.dialog .izqor-conversation-welcome h3 { font: 500 var(--chat-display)/1.22 var(--guide-font); letter-spacing: -.025em; color: var(--guide-text); }
+.dialog .izqor-conversation-welcome>p { font-size: var(--chat-body); line-height: 1.7; }
+.dialog .izqor-conversation .izqor-conversation-prompts button { padding: 17px 4px; }
+.dialog .izqor-conversation .izqor-conversation-prompts button>svg:first-child { color: var(--guide-secondary); }
+.dialog .izqor-conversation .izqor-conversation-prompts button>svg:last-child { transition: transform 160ms var(--guide-ease); }
+.dialog .izqor-conversation .izqor-conversation-prompts button:hover>svg:last-child { transform: translate(2px,-2px); }
+.dialog .izqor-conversation .izqor-conversation-question { border-radius: 10px 3px 10px 10px; }
+.dialog .izqor-conversation .izqor-conversation-composer { background: var(--guide-surface); border: 1px solid #e1c18a48; border-radius: 10px; padding: 10px; }
+.dialog .izqor-conversation .izqor-conversation-composer:focus-within { outline: 2px solid var(--guide-brass); outline-offset: 3px; }
+.dialog .izqor-conversation .izqor-conversation-send { border-radius: 7px; min-height: 44px; }
+.dialog .izqor-conversation .izqor-conversation-send:hover:not(:disabled) { background: #edd2a5; color: var(--guide-night); }
+.dialog .izqor-conversation .izqor-conversation-send:disabled { color: var(--guide-secondary); background: #e1c18a18; opacity: .6; }
+.dialog .izqor-conversation .izqor-conversation-source-number { color: var(--guide-brass); }
+.dialog .izqor-conversation .guide-inline-citation { color: var(--guide-brass); text-decoration-color: #e1c18a80; text-underline-offset: 4px; }
+.dialog .izqor-conversation .izqor-conversation-source-list>a:hover { background: #e1c18a07; }
+.dialog .izqor-conversation :is(button,a,summary,select):focus-visible { outline: 2px solid var(--guide-text); outline-offset: 3px; }
+.dialog .izqor-conversation button:active:not(:disabled) { transform: translateY(1px); }
+
+/* An interactive portrait needs an unobscured control hint. */
+.onboarding-avatar-panel:has(.guide-avatar[role='button'])::after { display: none; }
+html[data-large=true] .introduction-launch,html[data-large=true] .settings-introduction strong { font-size: 1rem; }
+html[data-contrast=true] .dialog .izqor-conversation { --chat-muted: var(--guide-text); --chat-line: #e1c18a80; }
+
+@media(max-width:620px) {
+  .app .floating-guide.guide-chat-launcher { right: 14px; bottom: max(14px,env(safe-area-inset-bottom)); max-width: calc(100vw - 28px); padding: 9px 11px; min-height: 62px; gap: 9px; }
+  .guide-trigger-portrait { width: 44px; height: 44px; }
+  .guide-trigger-copy strong { font-size: 14px; }
+  .app .floating-guide.guide-chat-launcher>svg { width: 16px; margin-left: 0; }
+  .dialog .izqor-conversation-header { grid-template-columns: 60px minmax(0,1fr) auto; gap: 12px; padding: 14px 16px; }
+  .dialog .izqor-conversation-portrait { width: 60px; height: 76px; }
+  .dialog .izqor-conversation-welcome { padding-top: 26px; }
+  .dialog .izqor-conversation .izqor-conversation-prompts button { min-height: 60px; padding-block: 16px; }
+  .introduction-launch { font-size: 14px; }
+}
+html[data-reduce=true] :is(.introduction-launch,.introduction-launch::after,.settings-introduction,.floating-guide,.floating-guide>svg) { transition: none; }
+html[data-reduce=true] .introduction-launch::after { transition: none; }
+@media(prefers-reduced-motion:reduce) {
+  .introduction-launch::after,.settings-introduction,.app .floating-guide.guide-chat-launcher,.app .floating-guide.guide-chat-launcher>svg,.dialog .izqor-conversation .izqor-conversation-prompts button>svg:last-child { transition: none; }
+  .settings-introduction:active,.app .floating-guide.guide-chat-launcher:active,.dialog .izqor-conversation button:active:not(:disabled) { transform: none; }
+}

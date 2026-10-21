@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="ru"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><meta name="theme-color" content="#113c36">
+  <title>IZQOR · Макет историй</title><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="./fonts.css"><link rel="stylesheet" href="./style.css"><link rel="stylesheet" href="./illustrations.css"><script type="module" src="./prototype.js"></script>
+</head><body>
+  <a class="skip" href="#reading">К чтению</a>
+  <div class="concept-bar"><div class="shell concept-inner"><span>Макет страницы истории</span><label>Место <select id="place-switch" aria-label="Выбрать место"></select></label><a id="compare" href="/#/place/konyr" target="_blank" rel="noopener">Текущая версия <span aria-hidden="true">↗</span></a></div></div>
+  <header class="header"><div class="shell header-inner"><a class="brand" href="/#/" aria-label="IZQOR"><img src="/brand/izqor-lockup-3d-v1.webp" alt="IZQOR" width="172" height="62"></a><nav class="site-nav" aria-label="Главная навигация"><a href="/#/">Путешествие</a><a href="/#/map">Карта</a><a href="/#/places" aria-current="page">Места и истории</a><a href="/#/timeline">Линия времени</a></nav><div class="languages" aria-label="Язык" role="group"><button data-lang="kk" aria-label="Қазақша" aria-pressed="false">Қаз</button><button data-lang="ru" aria-label="Русский" aria-pressed="true">Рус</button><button data-lang="en" aria-label="English" aria-pressed="false">Eng</button></div></div></header>
+  <main id="main"><p class="loading" role="status">Открываем историю…</p></main>
+  <footer><div class="shell footer-inner"><img src="/brand/izqor-lockup-3d-v1.webp" width="150" height="56" alt="IZQOR"><p>У этой земли есть память.</p><a href="./README.md">Референсы и описание макета</a></div></footer>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="photo-dialog" aria-label="Рассмотреть фотографию"><button class="icon-button close-dialog" aria-label="Закрыть фотографию" data-close>×</button><img src="/media/konyr.jpg" alt="Қоңырәулие"><p></p></dialog>
+  <dialog id="guide-dialog" aria-labelledby="guide-title"><div class="dialog-heading"><h2 id="guide-title">Жолсерік</h2><button class="icon-button" aria-label="Закрыть гида" data-close>×</button></div><p class="guide-intro">Демонстрация панели гида. Материалы относятся к открытому месту.</p><div class="guide-response"></div><button class="button guide-sources">Показать источники</button><a class="text-link live-guide" href="/#/place/konyr">Открыть действующую историю с гидом</a></dialog>
+</body></html>

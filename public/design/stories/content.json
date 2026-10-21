@@ -1,0 +1,1692 @@
+{
+  "places": [
+    {
+      "id": "semey",
+      "name": {
+        "ru": "Семей",
+        "kk": "Семей",
+        "en": "Semey"
+      },
+      "subtitle": {
+        "ru": "Город, в котором встречаются идеи",
+        "kk": "Идеялар тоғысқан қала",
+        "en": "A city where ideas meet"
+      },
+      "short": {
+        "ru": "Абай, образование и память Алаш в улицах старого города.",
+        "kk": "Абай, ағарту және ескі қала көшелеріндегі Алаш жады.",
+        "en": "Abai, learning and the memory of Alash in the old city."
+      },
+      "era": {
+        "ru": "XIX — начало XX века",
+        "kk": "XIX — XX ғасырдың басы",
+        "en": "19th — early 20th century"
+      },
+      "image": "/media/semey.jpg",
+      "imageCredit": "Ерден Карсыбеков · 2022 · CC BY-SA 4.0",
+      "imageSource": "photo-semey",
+      "coordinate": [
+        80.25629,
+        50.40702
+      ],
+      "tours": [
+        {
+          "name": {
+            "ru": "Музей Абая",
+            "kk": "Абай музейі",
+            "en": "Abai Museum"
+          },
+          "url": "https://abai-museum.kz/panorama/semei/glavnii_corpus/"
+        },
+        {
+          "name": {
+            "ru": "Мечеть-медресе",
+            "kk": "Мешіт-медресе",
+            "en": "Mosque and madrasa"
+          },
+          "url": "https://abai-museum.kz/panorama/semei/mechetI_ss/"
+        }
+      ],
+      "sections": [
+        {
+          "title": {
+            "ru": "Город, который читается от реки",
+            "kk": "Өзеннен басталатын қала",
+            "en": "A city approached from the river"
+          },
+          "body": {
+            "ru": "На архивном виде Семипалатинска 1885–1886 годов Иртыш занимает передний план. Город расположен дальше: низкая застройка, вытянутый берег, отдельные вертикали. Этот ракурс меняет привычный порядок знакомства. Сначала появляется река, по которой узнаётся пространство, и только затем — улицы и здания, связанные с известными именами.\n\nФотография хранится в Библиотеке Конгресса в собрании Джорджа Кеннана. В каталоге указан промежуток съёмки, а не точный день. Поэтому перед нами город конца XIX века, но не документ конкретного приезда Абая или собрания будущих деятелей Алаш. Снимок особенно интересен тем, что не подчинён биографии одного человека: он показывает среду, в которой одновременно жили многие люди.\n\nИртыш разделяет историю Семея на связанные берега. Краеведческий музей рассказывает, как на левобережье торговые и жилые постройки Тыныбая Каукенова и Жоламана Жандарбекова стали основой растущего поселения. Позже с этой частью города оказалось связано имя Алаш. Так география объясняет исторический сюжет: рядом с именами политиков возникают склады, дома, торговля и повседневные пути. Прежде чем искать на старом снимке знаменитое здание, проследите саму линию берега. Она помогает увидеть город целиком.",
+            "kk": "1885–1886 жылдары түсірілген Семей көрінісінде алдыңғы қатарды Ертіс алып жатыр. Қаланың аласа үйлері мен жекелеген биік нысандары арғы жақта көрінеді. Бұл сурет танысу ретін өзгертеді: алдымен өзен мен кеңістік, содан кейін ғана белгілі адамдарға қатысты көшелер мен ғимараттар ашылады. Қаланы бір ғана музейдің айналасына жинамай, тұтас орта ретінде көруге мүмкіндік туады.\n\nФотосурет Конгресс кітапханасындағы Джордж Кеннан қорында сақталған. Каталогта нақты күннің орнына екі жылдық аралық берілген. Демек, сурет XIX ғасырдың соңындағы қаланы көрсетеді, бірақ Абайдың белгілі бір сапарын немесе Алаш қайраткерлерінің нақты жиналысын бейнелемейді. Оның құндылығы да осында: бір адамның өмірбаянына бағынбайтын, талай адамның қатар өмір сүрген ортасын сақтап қалған.\n\nСемейдің өлкетану музейі сол жағалаудағы Тыныбай Кәукенов пен Жоламан Жандарбеков салдырған тұрғын үйлер, сауда қоймалары және басқа құрылыстар туралы жазады. Сол қоныс өсіп, кейін Алаш атауымен байланысқан. География осылайша тарихты түсіндіреді: саясаткерлердің есімдерімен қатар үйлер, сауда және күнделікті жүретін жолдар пайда болады. Ескі фотодан бірден әйгілі ғимаратты іздемей, әуелі жағалау сызығын бақылаңыз. Өзеннің қаламен арақатынасы жеке оқиғалардың қай кеңістікте өткенін елестетуге көмектеседі.",
+            "en": "In an archival view of Semipalatinsk dated 1885–1886, the Irtysh occupies the foreground. The city lies beyond it: low buildings, a long shoreline and a few vertical landmarks. This changes the usual order of a visit. Before the famous addresses appear, there is a river and the larger space that made the city possible.\n\nThe photograph belongs to the George Kennan papers at the Library of Congress. Its catalogue gives a date range rather than a particular day. It records the city in the late nineteenth century, without identifying a specific visit by Abai or a meeting of future Alash activists. That wider view is valuable: it preserves an environment inhabited by many people at once.\n\nThe regional museum describes how homes, trading stores and other buildings established by Tynybai Kaukenov and Zholaman Zhandarbekov helped a settlement grow on the left bank. That part of the city later became associated with the name Alash. Geography makes the historical story tangible. Beside political names there were houses, businesses and everyday journeys across a living urban landscape. Follow the shoreline before searching for a celebrated building. It is a way of seeing the city as a whole."
+          },
+          "sourceIds": [
+            "loc",
+            "loc-bazaar",
+            "alash"
+          ],
+          "imageIds": [
+            "semey-river"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Медресе и большой мир чтения",
+            "kk": "Медресе және кітапқа ашылған жол",
+            "en": "A madrasa and a wider world of reading"
+          },
+          "body": {
+            "ru": "В музее-заповеднике Абая историю его городской учёбы связывают с медресе Ахмета Ризы. Официальное описание указывает 1855–1859 годы. Важна сама картина образования: мальчик из степного окружения оказывается в городе, где учатся читать, переписывают тексты, обсуждают книги и встречают разные культурные традиции. Город даёт не только знания, но и новые способы задавать вопросы.\n\nПозднейшие стихи и проза Абая не сводятся к школьной программе. В них соединяются размышления о человеке, наблюдения за обществом, работа с языком и обращение к другим литературным мирам. В каталоге первого сборника Библиотека Конгресса представляет Абая и как поэта, и как просветителя. Это полезный ключ к Семее: музейная карта здесь одновременно оказывается картой чтения.\n\nПортрет 1896 года показывает уже зрелого Абая. Он не является иллюстрацией школьных лет, но позволяет удержать расстояние между учеником медресе и человеком, чьё лицо стало общеизвестным. Не менее интересна судьба самого учебного здания: музей сообщает о переносе и восстановлении комплекса мечети-медресе. Современное музейное место продолжает историю образования, хотя его нынешнее расположение нельзя автоматически переносить на город XIX века. В прогулке по Семее эта разница делает встречу с прошлым точнее и содержательнее.",
+            "kk": "Абай музейі ақынның Семейдегі оқуын Ахмет Риза медресесімен байланыстырып, 1855–1859 жылдарды атайды. Далалық ортадан келген жас бала қалада оқу, мәтін көшіру, кітап талқылау және түрлі мәдени дәстүрлермен танысу әлеміне араласады. Білім алу дайын мәліметті жаттаумен шектелмей, дүниеге сұрақ қоюдың жаңа жолдарын да ашады.\n\nАбайдың кейінгі шығармашылығында адам мінезі, қоғам, тіл және өзге әдебиеттермен байланыс қатар көрінеді. Өлең, аударма және қара сөз әртүрлі міндет атқарады. Конгресс кітапханасы алғашқы жинақты сипаттағанда оны ақын әрі ағартушы ретінде таныстырады. Семейге осы тұрғыдан қарасақ, әдеби мекендер картасы оқу мен ой алмасу картасына айналады. Қаладағы таныстықтар мен кітаптар бір-бірінен бөлек құбылыс болып қалмайды.\n\n1896 жылғы портретте медресе шәкірті емес, кемелденген Абай бейнеленген. Екі кезеңнің арасындағы уақытты сақтау маңызды: кейін әйгілі болған тұлғаның да білім іздеген жастық шағы болған. Оқу ғимаратының өз тарихы бар. Музей мешіт-медресе кешенінің көшіріліп, қалпына келтірілгенін хабарлайды. Сондықтан қазіргі музейлік мекен білім тарихын жалғастырады және мұраны сақтау еңбегін де көрсетеді. Оқу, адам өмірі, ғимарат және өзгеріп отырған қала бір кеңістікте тоғысады.",
+            "en": "The Abai museum connects his education in Semey with the Ahmad Riza madrasa and dates his studies there to 1855–1859. A boy from the steppe entered a city where people read, copied texts, discussed books and encountered different cultural traditions. Education meant acquiring knowledge, but also learning new ways to ask questions.\n\nAbai’s later writing reaches far beyond a school curriculum. Poetry, translation and prose bring together observation, reflection on human character and engagement with other literary worlds. The Library of Congress introduces him as both a poet and an educator. This offers a useful way to explore Semey: its literary map is also a map of reading and intellectual exchange.\n\nThe photograph from 1896 shows the mature Abai, decades after those school years. It helps hold together two different moments in a life: the young student and the person whose image became widely recognized. The building has a history of its own. The museum records the relocation and restoration of the mosque–madrasa complex. Its present setting continues the educational story, while also recording the later work of preservation. A visit becomes more interesting when these layers remain visible: education, memory, buildings and the changing shape of the city."
+          },
+          "sourceIds": [
+            "museum",
+            "abai-book-loc"
+          ],
+          "imageIds": [
+            "abai-portrait"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Дом Анияра: история через гостеприимство",
+            "kk": "Әнияр үйі: қонақжайлық арқылы ашылатын тарих",
+            "en": "Aniyar’s house: a history of hospitality"
+          },
+          "body": {
+            "ru": "У дома Анияра Молдабаева легко заметить два материала: кирпичный нижний этаж и деревянный верх. Уже это сочетание заставляет смотреть на здание как на жилой дом, а не только как на фон для музейной вывески. Здесь были комнаты, лестницы, порог, хозяйственные заботы и люди, которые приезжали в город и останавливались у знакомых.\n\nПо описанию Kazakhstan.travel, в 1898 году ученик Абая Анияр приобрёл дом у купца Москвина при финансовой поддержке поэта. На втором этаже для Абая отводилась отдельная комната. Среди гостей портал называет его сыновей, Шакарима Кудайбердиулы и Кокбая Жанатайулы. Такие сведения показывают культурную жизнь без отвлечённых слов: идеи путешествуют вместе с людьми, которым нужен адрес, ночлег и собеседник.\n\nТеперь в доме расположен музей «Алаш арыстары — Мұхтар Әуезов». История его экспозиции добавляет ещё один слой к истории здания. Один и тот же дом может сначала служить семье, затем принимать памятные встречи, а позже становиться местом общественной памяти. Поэтому его ценность не исчерпывается перечнем знаменитых гостей. Посмотрите, как расположены окна, где проходит граница этажей, насколько близко дом стоит к улице. Эти простые детали возвращают разговор о культуре к масштабу человеческой жизни.",
+            "kk": "Әнияр Молдабаевтың үйіне қарағанда төменгі кірпіш қабат пен жоғарғы ағаш қабат бірден байқалады. Музей атауын оқымай тұрып-ақ оның тұрғын үй болғанын елестетуге болады. Мұнда бөлмелер, баспалдақ, табалдырық, үй шаруасы және қалаға келген таныстарды қарсы алу сияқты күнделікті тіршілік болған. Үлкен мәдени тарих осындай қарапайым қажеттіліктер арқылы да қозғалады.\n\nKazakhstan.travel мәліметінше, 1898 жылы Абайдың шәкірті Әнияр бұл үйді көпес Москвиннен ақынның қаржылай көмегімен сатып алған. Абай үшін жоғарғы қабаттан арнайы бөлме бөлінген. Портал қонақтардың арасында ақынның ұлдарын, Шәкәрім Құдайбердіұлын және Көкбай Жанатайұлын атайды. Идеялар жалғыз тарамайды: оларды қалаға келетін, әңгімелесетін және қонатын жер іздейтін адамдар жеткізеді.\n\nҚазір ғимаратта «Алаш арыстары — Мұхтар Әуезов» музейі орналасқан. Экспозицияның тарихы отбасылық үйге тағы бір уақыт қабатын қосады. Бір мекен әуелі отбасыға қызмет етеді, кейін белгілі кездесулермен байланысып, қоғамдық жады орнына айналады. Сондықтан оның маңызы әйгілі қонақтарды санаумен бітпейді. Терезелердің орналасуына, қабаттар шекарасына және көшемен байланысына назар аударыңыз. Сәулет бөлшектері мәдениеттің үлкен әңгімесін адам өмірінің нақты өлшеміне қайтарады.",
+            "en": "Look at the house of Aniyar Moldabayev and the two materials are immediately apparent: brick below, timber above. Before it becomes a famous museum address, it is recognizable as a home. There were rooms, stairs, household responsibilities and guests arriving in town who needed somewhere to stay.\n\nKazakhstan.travel records that Aniyar, a student of Abai, purchased the house from the merchant Moskvin in 1898 with the poet’s financial assistance. A room upstairs was set aside for Abai. The portal also names his sons, Shakarim Qudaiberdiuly and Kokbai Zhanataiuly among the visitors. These details make cultural life concrete. Ideas travelled with people who needed an address, a conversation and a place to spend the night.\n\nThe building now houses the Alash Arystary–Mukhtar Auezov Museum. Its later exhibition adds another layer to the history of a family home. A building may serve a household, become associated with memorable encounters and eventually acquire a public role. Its value extends beyond a list of famous guests. Notice the arrangement of the windows, the meeting of brick and timber and the house’s relationship with the street. Small architectural details return a large cultural story to the scale of human life."
+          },
+          "sourceIds": [
+            "semey",
+            "museum-structure"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Базар 1880-х: люди за пределами памятников",
+            "kk": "1880-жылдар базары: ескерткіштен тыс өмір",
+            "en": "An 1880s bazaar beyond the famous monuments"
+          },
+          "body": {
+            "ru": "Другой снимок из собрания Джорджа Кеннана показывает базар Семипалатинска. Каталог относит его к 1885–1886 годам. Перед нами не парадный портрет писателя и не торжественное здание. Главными становятся люди, их одежда, расстояния между фигурами и сама теснота торгового пространства. История города оказывается населённой.\n\nБазарная фотография помогает понять, почему одна биография не может заменить целый город. Для горожан и приезжих существовали работа, обмен товарами, семейные встречи и множество коротких разговоров, которые не попали в литературные воспоминания. Снимок не сообщает нам их имён и не позволяет услышать эти разговоры. Зато он сохраняет видимую сторону повседневности: как люди стоят, что закрывает передний план, куда направлен взгляд фотографа.\n\nСравните базар с панорамой Иртыша. На одном изображении город можно охватить взглядом, на другом он распадается на отдельные человеческие истории. Вместе они дают более полное представление о времени Абая, чем один символический портрет. У фотографии есть и собственная судьба: отпечаток оказался в архивном собрании, был описан и оцифрован. Поэтому нынешняя встреча с Семее XIX века происходит благодаря работе хранителей, каталогизаторов и исследователей, которые сохранили возможность всматриваться в такие неприметные сцены.",
+            "kk": "Джордж Кеннан қорындағы басқа фотосурет Семей базарын көрсетеді. Каталог оны 1885–1886 жылдарға жатқызады. Мұнда ақынның салтанатты портреті немесе үлкен әкімшілік ғимарат жоқ. Негізгі назар адамдарға, киімге, тұлғалар арасындағы аралыққа және сауда кеңістігінің тығыздығына ауады. Қала тарихы тұрғындары бар тірі ортаға айналады.\n\nБазар суреті бір адамның өмірбаяны тұтас қаланы алмастыра алмайтынын түсіндіреді. Жұмыс, тауар айырбастау, туыстық кездесулер және қысқа әңгімелер әдеби естеліктерге түгел енбеген. Фотосурет адамдардың бәрінің атын айтпайды, олардың даусын естіртпейді. Бірақ күнделікті өмірдің көрінетін жағын сақтайды: адамдар қалай тұрған, алдыңғы қатарды не жапқан, фотограф қай бағытты таңдаған?\n\nОсы кадрды Ертіс панорамасымен салыстырыңыз. Бір сурет қаланы тұтас көрсетеді, екіншісі оны жеке адамдық оқиғаларға бөледі. Екеуі бірге Абай дәуірінің ортасын жалғыз рәміздік портреттен кеңірек ашады. Фотосуреттің кейінгі өмірі де қызық: ол қорға қабылданып, сипатталып, цифрланған. Бүгін бізге сол қарапайым көрініске қайта үңілу мүмкіндігін сақтаушылар мен зерттеушілердің еңбегі жеткізіп отыр. Кезінде күнделікті көрінген сәт кейін өткенді танудың бағалы дерегіне айналған.",
+            "en": "Another photograph from the George Kennan papers shows the Semipalatinsk bazaar. The catalogue dates it to 1885–1886. Here the centre of attention is neither a writer’s portrait nor an impressive public building. People, clothing, the distances between figures and the crowded market space become the historical evidence.\n\nThe bazaar helps explain why one biography cannot stand for an entire city. Residents and visitors worked, exchanged goods, met relatives and held countless brief conversations that never entered literary memoirs. The photograph does not tell us everyone’s name or let us hear their voices. It preserves a visible part of daily life: how people stand, what fills the foreground and where the photographer chose to look.\n\nCompare this view with the panorama of the Irtysh. One image allows an overview; the other breaks the city into individual lives. Together they offer a richer setting for Abai’s world than a symbolic portrait alone. The photograph also has its own journey. A print entered an archive, was described and later digitized. Today’s encounter with nineteenth-century Semey depends on that patient work of collectors, curators and researchers. They kept open the possibility of looking closely at a scene that might once have seemed ordinary."
+          },
+          "sourceIds": [
+            "loc-bazaar"
+          ],
+          "imageIds": [
+            "semey-bazaar"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Книга 1909 года: голос получает страницы",
+            "kk": "1909 жылғы кітап: сөздің жаңа сапары",
+            "en": "The 1909 book: a voice acquires pages"
+          },
+          "body": {
+            "ru": "На фотографии музейного экземпляра первого сборника Абая заметны потёртости и арабская графика. Это уже предмет с собственной биографией: книгу печатали, держали в руках, читали и сохраняли. Она даёт другой способ приблизиться к автору, чем памятник или мемориальный портрет. Перед нами вещь, предназначенная для обращения от человека к человеку.\n\nСборник вышел в Санкт-Петербурге в 1909 году, после смерти Абая в 1904-м. В Библиотеке Конгресса он описан как первое собрание его стихов. Между созданием произведения, его распространением и печатным изданием лежит работа многих людей. Стихи не превращаются в книгу сами собой: нужны собиратели, подготовка текста, издательские решения и читатели, готовые дать изданию дальнейшую жизнь.\n\nАрабская графика напоминает ещё об одной особенности истории чтения: знакомый нам автор не всегда выглядел на странице так, как выглядит в современном учебнике. Новое издание, транскрипция и перевод расширяют круг читателей, но меняют внешний облик текста. Рассмотрите расстояния между строками и устройство страницы. Это небольшое наблюдение связывает материальную историю книги с большой историей казахской письменности. А затем вернитесь к городу: музейный Семей хранит не только адреса Абая, но и вещи, благодаря которым его слово продолжало двигаться дальше.",
+            "kk": "Абайдың алғашқы өлеңдер жинағының музейлік фотосында тозған мұқаба мен араб қарпіндегі мәтін көрінеді. Бұл — өз өмір жолы бар зат: оны басқан, қолға ұстаған, оқыған және сақтаған. Кітап авторға ескерткіштен басқа жолмен жақындатады. Ол бір адамның қолынан екінші оқырманға өту үшін жасалған.\n\nЖинақ Санкт-Петербургте 1909 жылы, Абай 1904 жылы қайтыс болғаннан кейін шыққан. Конгресс кітапханасы оны ақын өлеңдерінің алғашқы жинағы деп сипаттайды. Шығарманың тууы, таралуы және баспаға айналуы арасында көп адамның еңбегі жатыр. Мәтінді жинау, дайындау, басып шығару керек; содан соң кітаптың оқырмандармен бірге өтетін жаңа жолы басталады.\n\nАраб графикасы таныс автордың шығармасы бұрын қазіргі оқулықтағыдай көрінбегенін еске салады. Жаңа басылым, әліпби ауыстыру және аударма оқырман санын арттырады, бірақ беттің сыртқы келбетін өзгертеді. Жолдардың арасы мен жиектерін қараңыз. Ескі жазуды оқымасаңыз да, кітаптың қалай ұйымдастырылғанын байқауға болады. Осыдан кейін Семейге қайта ой жүгіртіңіз: музейлік қала Абайға қатысты мекенжайларды ғана емес, оның сөзін сол ортадан әрі алып кеткен заттарды да сақтайды. Кішкентай кітап үлкен мәдени қозғалыстың материалдық ізі болып қалады.",
+            "en": "The photographed museum copy of Abai’s first poetry collection shows a worn binding and Arabic-script text. It is an object with a life of its own: printed, handled, read and preserved. A book offers a different encounter with an author from a monument. It was made to pass from one reader to another.\n\nThe collection appeared in Saint Petersburg in 1909, after Abai’s death in 1904. The Library of Congress identifies it as his first collected volume of poetry. Between composing a work, circulating it and producing a printed edition lies the effort of many people. Texts need to be gathered, prepared and published before the physical book begins another journey with its readers.\n\nArabic script is a reminder that a familiar author’s page once looked different from a modern school edition. New editions, transcription and translation widen access while changing the visual experience of reading. Examine the margins, lines and arrangement of the page. Even without reading the script, it is possible to notice how the object was organized. Then return to Semey. The museum city preserves both the places associated with Abai and material things through which his words continued to travel beyond those addresses."
+          },
+          "sourceIds": [
+            "abai-book-loc",
+            "photo-abai-book"
+          ],
+          "imageIds": [
+            "abai-book"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Алаш: название города и политический выбор",
+            "kk": "Алаш: қала атауы және саяси таңдау",
+            "en": "Alash: an urban name and a political choice"
+          },
+          "body": {
+            "ru": "В рассказе об Алаш легко сразу перейти к большой политике. Краеведческий музей Семея предлагает более конкретное начало: городские выборы, дума, адреса учреждений, торговые дома. В ноябре 1917 года здесь выбирали органы городского управления. Так новое политическое движение входило в существующий город, где уже нужно было решать вопросы повседневной жизни.\n\nРешение о создании автономии Алаш и Временного народного совета Алаш-Орда было принято на Втором Всеказахском съезде в Оренбурге в декабре 1917 года. Председателем совета избрали Алихана Букейханова. Оренбург и Семей выполняют в этой истории разные роли: место принятия решения не следует подменять местом последующей деятельности. Такая карта событий интереснее единственной условной точки «здесь всё произошло».\n\nДокументальная история Алаш состоит из писем, решений, газет и личных биографий. Каждый вид материала показывает свою сторону: официальная бумага фиксирует действие учреждения, письмо сохраняет голос участника, газета обращается к читателю. В музейной истории дома Анияра память Абая и память Алаш оказываются рядом, но не становятся одним событием. Между ними лежат поколения и разные обстоятельства. Именно эта многослойность делает Семей важным: одни адреса помогают говорить об образовании и литературе, другие — о политическом выборе и устройстве общества.",
+            "kk": "Алаш туралы әңгіме көбіне бірден үлкен саясатқа ауысады. Семейдің өлкетану музейі нақтырақ бастау ұсынады: қалалық сайлау, дума, мекеме мекенжайлары және көпестер үйлері. 1917 жылғы қарашада қалалық басқару органдары сайланды. Жаңа саяси қозғалыс күнделікті мәселелері бар, бұрыннан өмір сүріп жатқан қалаға келді.\n\nАлаш автономиясын және уақытша халық кеңесі Алашорданы құру туралы шешім 1917 жылғы желтоқсанда Орынборда өткен Екінші Жалпықазақ съезінде қабылданды. Кеңес төрағасы болып Әлихан Бөкейхан сайланды. Орынбор мен Семейдің осы оқиғадағы орны әртүрлі. Шешім қабылданған жер мен кейінгі қызмет орындарын ажырату тарихи картаны бір ғана шартты нүктеден әлдеқайда мазмұнды етеді.\n\nХаттар, газеттер, шешімдер мен өмірбаяндар қозғалыстың әр қырын сақтайды. Ресми құжат мекеменің әрекетін тіркейді, хат қатысушының үнін жеткізуі мүмкін, газет кең оқырманға бағытталады. Әнияр үйінің музейлік тарихында Абай жады мен Алаш жады қатар тұрады. Олардың арасында ұрпақтар мен өзгерген жағдайлар бар. Семейдің маңызы да осындай көпқабаттылықтан ашылады: бір мекен білім мен әдебиетке, басқа мекен саяси таңдау мен қоғамды ұйымдастыру мәселесіне жетелейді. Бір-біріне жақын көшелер тұтас дәуірді бір оқиғаға айналдырмай-ақ байланыстыра алады.",
+            "en": "The story of Alash often begins with national politics. Semey’s regional museum offers a more tangible starting point: municipal elections, a council, offices and merchants’ houses. Local government was being elected in November 1917. A political movement entered an existing town where ordinary civic questions still demanded answers.\n\nThe decision to establish Alash autonomy and its provisional council, Alash Orda, was taken at the Second All-Kazakh Congress in Orenburg in December 1917. Alikhan Bukeikhanov became its chairman. Orenburg and Semey therefore have different places in the story. Mapping these roles is more revealing than assigning every event to one symbolic location.\n\nLetters, newspapers, decisions and individual biographies preserve different aspects of the movement. An official document records an institutional action; a letter can preserve a participant’s voice; a newspaper addresses a wider public. At Aniyar’s house, the memory of Abai stands beside the memory of Alash, with generations and changing circumstances between them. The connection is meaningful precisely because the two histories are distinct. Some addresses open questions about literature and education, others about political choice and the organization of society. Together they reveal the layered cultural life of Semey."
+          },
+          "sourceIds": [
+            "alash"
+          ],
+          "imageIds": [
+            "alash-document"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Ещё один литературный адрес и продолжение прогулки",
+            "kk": "Тағы бір әдеби мекен және жалғасатын серуен",
+            "en": "Another literary address and a continuing walk"
+          },
+          "body": {
+            "ru": "На литературной карте Семея есть и дом, связанный с Фёдором Достоевским. Его музей сообщает, что писатель снимал здесь комнаты с февраля 1857 по июнь 1859 года. Самостоятельный литературно-мемориальный музей открылся в 1971 году. Разница этих дат напоминает, что жизнь в здании и превращение здания в памятное место — разные этапы.\n\nМузей рассказывает о дружбе Достоевского с Шоканом Уалихановым и Александром Врангелем. Этот круг знакомств показывает Семей как пространство встречи людей с разным опытом. Но соседство музейных адресов не даёт оснований выдумывать встречи между всеми известными героями города. Каждую такую связь подтверждают отдельно — письмом, воспоминанием или другим документом.\n\nЗавершая историю, сопоставьте три масштаба. Иртыш и архивная панорама помогают увидеть город; дом Анияра возвращает нас в пространство гостеприимства; книга 1909 года помещается в руках одного читателя. Между ними нет разрыва: городская культура складывается из больших пространств и маленьких вещей. При следующем открытии фотографии попробуйте заметить деталь, которая раньше оставалась на краю кадра. Окно, кладка, переплёт или линия берега могут стать началом собственного вопроса. История Семея продолжается именно там, где известное имя снова связывается с конкретным местом и предметом.",
+            "kk": "Семейдің әдеби картасында Фёдор Достоевскийге қатысты үй де бар. Оның музейі жазушының мұнда 1857 жылғы ақпаннан 1859 жылғы маусымға дейін бөлме жалдағанын хабарлайды. Дербес әдеби-мемориалдық музей 1971 жылы ашылған. Бұл даталар үйдегі күнделікті өмір мен оны қоғамдық жады орнына айналдырудың бөлек кезеңдер екенін көрсетеді.\n\nМузей Достоевскийдің Шоқан Уәлихановпен және Александр Врангельмен достығы туралы баяндайды. Қала әртүрлі тәжірибесі бар адамдардың кездесу кеңістігі ретінде ашылады. Дегенмен жақын музей мекенжайларының өзі барлық әйгілі адамның кездескенін дәлелдемейді. Әр байланысты хат, естелік немесе басқа құжат нақтылайды. Әдеби картаның қызығы дайын аттар тізімінен осылайша шынайы адамдық қатынастарға ауысады.\n\nӘңгімені аяқтағанда үш өлшемді салыстырыңыз. Ертіс пен мұрағаттық панорама қаланы көрсетеді; Әнияр үйі қонақжайлық ортасына әкеледі; 1909 жылғы кітап бір оқырманның қолына сыяды. Қалалық мәдениет үлкен кеңістік пен шағын заттардың қозғалысынан құралады. Фотосуретті қайта ашқанда бұрын шетте қалған бөлшекті байқаңыз: терезе, қалау, мұқаба немесе жағалау сызығы. Ол жаңа сұрақтың басы болуы мүмкін. Семей тарихы белгілі есім қайтадан нақты мекенмен және затпен байланысқан жерде жалғасады.",
+            "en": "Semey’s literary map includes the house associated with Fyodor Dostoevsky. His museum records that he rented rooms there from February 1857 to June 1859. The independent literary memorial museum opened in 1971. Those dates distinguish a writer’s daily life from the later work of turning a building into a public place of memory.\n\nThe museum describes Dostoevsky’s friendships with Shoqan Walikhanov and Alexander Wrangel. These relationships show the city as a meeting place for people with different experiences. A map of nearby museums, however, is only a starting point for understanding the actual network. Letters, recollections and other documents establish its individual connections.\n\nTo finish the story, bring together three scales. The Irtysh and its archival panorama offer the city; Aniyar’s house offers the setting of hospitality; the 1909 book fits into one reader’s hands. Urban culture is made through movement between such large spaces and small things. When you return to a photograph, notice a detail that first escaped you: a window, a binding, a course of bricks or the line of the shore. It can become the beginning of a new historical question, grounded in a particular place rather than a name alone."
+          },
+          "sourceIds": [
+            "dostoevsky-house",
+            "loc",
+            "semey"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "semey",
+        "alash",
+        "loc",
+        "photo-semey",
+        "museum",
+        "tours",
+        "loc-bazaar",
+        "abai-book-loc",
+        "museum-structure",
+        "photo-abai-book",
+        "dostoevsky-house"
+      ],
+      "detail": {
+        "ru": "Найдите на фотографии границу кирпичного и деревянного этажей. Материалы здания помогают рассмотреть его внимательнее.",
+        "kk": "Фотодан кірпіш пен ағаш қабаттардың шекарасын табыңыз. Ғимарат материалдарына назар аударыңыз.",
+        "en": "Find where the brick ground floor meets the wooden upper floor. The materials invite a closer look."
+      }
+    },
+    {
+      "id": "zhidebay",
+      "name": {
+        "ru": "Жидебай",
+        "kk": "Жидебай",
+        "en": "Zhidebay"
+      },
+      "subtitle": {
+        "ru": "Там, где слово становится наследием",
+        "kk": "Сөз мұраға айналған мекен",
+        "en": "Where words become a legacy"
+      },
+      "short": {
+        "ru": "Дом Абая, пространство степи и мемориальный комплекс Абай–Шакарим.",
+        "kk": "Абай үйі, дала кеңістігі және Абай–Шәкәрім мемориалы.",
+        "en": "Abai’s home, the open steppe and the Abai–Shakarim memorial."
+      },
+      "era": {
+        "ru": "Наследие XIX–XX веков",
+        "kk": "XIX–XX ғасырлар мұрасы",
+        "en": "A 19th–20th century legacy"
+      },
+      "image": "/media/zhidebay.jpg",
+      "imageCredit": "Дмитрий Кошелев · 2018 · CC BY-SA 4.0",
+      "imageSource": "photo-zhidebay",
+      "coordinate": [
+        79.3212356,
+        49.1077518
+      ],
+      "coordinateNote": {
+        "ru": "Ориентир Жидебайского комплекса; для поездки используйте отдельную навигацию.",
+        "kk": "Жидебай кешенінің бағдары; сапар үшін жеке навигацияны пайдаланыңыз.",
+        "en": "An orientation point for the Zhidebay area; use dedicated navigation for travel."
+      },
+      "tours": [
+        {
+          "name": {
+            "ru": "Дом-музей Абая",
+            "kk": "Абайдың үй-музейі",
+            "en": "Abai’s house museum"
+          },
+          "url": "https://abai-museum.kz/panorama/jedebai/dom_muzei/"
+        },
+        {
+          "name": {
+            "ru": "Комплекс Абай–Шакарим",
+            "kk": "Абай–Шәкәрім кешені",
+            "en": "Abai–Shakarim complex"
+          },
+          "url": "https://abai-museum.kz/panorama/jedebai/mavzolei_abai_shakarima/"
+        }
+      ],
+      "sections": [
+        {
+          "title": {
+            "ru": "Зимовье среди открытой степи",
+            "kk": "Ашық даладағы қыстау",
+            "en": "A winter home in the open steppe"
+          },
+          "body": {
+            "ru": "В Жидебае взгляд сначала ищет высокие башни мемориала, но история этого места начинается с более низкого здания — жилого дома. Жидебай был зимовьем семьи Кунанбая. Такое слово описывает не случайную остановку в пустой степи, а место возвращения, с которым связаны хозяйство, родственные отношения и повседневный распорядок.\n\nОткрытая местность вокруг дома помогает почувствовать значение устойчивого жилья. На фотографии видны стены, окна и граница двора; за ними начинается большой горизонт. Внутри этого контраста дом воспринимается как устроенное человеческое пространство. В нём нужно было принимать гостей, хранить вещи, читать и заниматься делами, пока жизнь семьи продолжалась изо дня в день.\n\nТуристический каталог связывает переход зимовья к Абаю со смертью его брата Оспана в 1891 году и относит к Жидебаю последний период жизни поэта. Семейная история здесь важна не меньше творческой. Названия родственных связей, которые легко пропустить в краткой биографии, объясняют, почему человек оказался именно в этом доме. Поэтому знакомство с Жидебаем стоит начать не с торжественного памятника, а с простого вопроса о жилье: как среди большого пространства возникает место, которое люди называют своим?",
+            "kk": "Жидебайда көз алдымен мемориалдың биік мұнараларын іздейді. Алайда мекеннің тарихы аласа тұрғын үйден басталады. Бұл Құнанбай әулетінің қыстауы болған. Қыстау деген атау кең даладағы кездейсоқ аялдаманы емес, қайта оралатын тұрақты мекенді, шаруашылықты, туыстық байланысты және күнделікті тіршілік тәртібін білдіреді.\n\nҮй айналасындағы ашық кеңістік тұрақты баспананың мәнін сездіреді. Фотосуреттен қабырға, терезе және аула шеті көрінеді; одан әрі үлкен көкжиек ашылады. Осы қарама-қатынас үйді адам қолымен ұйымдастырылған кеңістік ретінде қабылдатады. Мұнда қонақ күту, зат сақтау, оқу және түрлі шаруамен айналысу керек болған. Отбасы өмірі күннен күнге жалғасқан.\n\nТуристік каталог қыстаудың Абайға өтуін оның інісі Оспанның 1891 жылы қайтыс болуымен байланыстырады. Жидебай ақын өмірінің соңғы кезеңімен де ұштасады. Сондықтан отбасылық тарих шығармашылық тарихтан кем маңызды емес. Қысқа өмірбаянда елеусіз қалатын туыстық қатынастар адамның неге осы үйде тұрғанын түсіндіреді. Танысуды салтанатты ескерткіштен бұрын қарапайым баспана сұрағынан бастаған жөн: үлкен кеңістікте адамдар өз үйі деп атайтын мекен қалай пайда болады? Жидебай осы күнделікті сұрақты әдебиеттің үлкен тарихымен қатар қарауға мүмкіндік береді.",
+            "en": "At Zhidebay the eye first searches for the tall memorial towers, but the story begins with a lower building: a home. This was a wintering place of Kunanbai’s family. A winter home implies regular return, household work, family relationships and an established daily rhythm within a much larger landscape.\n\nThe open country helps explain the meaning of a permanent dwelling. A photograph shows walls, windows and the edge of a yard; beyond them stretches the horizon. The contrast gives the house a human scale. People welcomed visitors, kept possessions, read and dealt with practical matters here, while family life continued day after day.\n\nThe tourism catalogue connects the transfer of the winter home to Abai with the death of his brother Ospan in 1891. It associates Zhidebay with the poet’s final decade. Family history is therefore central to the place. Relationships that can look like minor details in a short biography help explain why someone lived in this particular house. Before approaching the ceremonial memorial, consider the simpler question of dwelling. How does an immense stretch of country acquire one place to which people return and which they call their own? Zhidebay allows that everyday question to stand beside a major literary history."
+          },
+          "sourceIds": [
+            "zhidebay",
+            "museum-structure"
+          ],
+          "imageIds": [
+            "zhidebay-house"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Дом, который можно прочитать по комнатам",
+            "kk": "Бөлмелер арқылы оқылатын үй",
+            "en": "Reading the house room by room"
+          },
+          "body": {
+            "ru": "В описании дома-музея Kazakhstan.travel указаны пять комнат и две прихожие. Даже этот небольшой перечень позволяет изменить масштаб воображения. За словом «усадьба» не обязательно скрывается дворец: история литературы может быть связана с очень компактным пространством, где разные стороны жизни находились рядом.\n\nПереход от комнаты к комнате создаёт другой порядок рассказа, чем календарная биография. Порог отделяет улицу от дома; прихожая готовит встречу; жилое помещение показывает, как организован быт. Музей сообщает, что многие предметы передали родственники, друзья и современники поэта. Поэтому экспозиция складывалась из семейной памяти, а не только из позднейшего подбора красивых вещей.\n\nУ мемориального интерьера есть несколько временных слоёв. Исторический дом, сохранённый предмет, восстановленная отделка и современная музейная подпись могут оказаться в одном поле зрения. Это не уменьшает ценность посещения, но делает его внимательнее. Вещь с известной историей поступления говорит больше, чем предмет, просто похожий на старинный. Вглядываясь в фотографию комнаты, полезно замечать не только её общий образ: форма сундука, устройство замка или расположение мебели позволяют приблизиться к ритму домашней жизни, который не передаётся одной торжественной датой.",
+            "kk": "Kazakhstan.travel үй-музейде бес бөлме мен екі кіреберіс барын жазады. Осындай шағын сипаттаманың өзі елестеткен өлшемді өзгертеді. Әдеби тарих әртүрлі тіршілік жақтары қатар орналасқан ықшам үймен байланысты болуы мүмкін. «Усадьба» деген атаудың ар жағынан міндетті түрде үлкен сарай іздеудің қажеті жоқ.\n\nБөлмеден бөлмеге өту хронологиялық өмірбаяннан басқа әңгімелеу ретін жасайды. Табалдырық сыртқы орта мен үйді бөледі; кіреберіс кездесуге дайындайды; тұрғын бөлме күнделікті тәртіпті көрсетеді. Каталог көптеген бұйымды ақынның туыстары, достары мен замандастары тапсырғанын хабарлайды. Демек, экспозиция кейін әдемі зат жинаумен ғана емес, отбасылық жады арқылы да қалыптасқан.\n\nМемориалдық интерьерде бірнеше уақыт қабаты қатар тұрады. Ескі ғимарат, сақталған зат, қалпына келтірілген әрлеу және қазіргі музейлік жазу бір көрініске кіруі мүмкін. Оларды байқау қарауды мазмұнды етеді. Шығу тарихы белгілі бұйым жай ғана көне затқа ұқсайтын нәрседен нақтырақ сөйлейді. Бөлме фотосынан сандық пішінін, құлып құрылысын немесе жиһаз орналасуын қараңыз. Бұл бөлшектер өлең жазылған жылдарды толықтырып, адам өмірінің күнделікті ырғағын елестетуге көмектеседі. Тұрғын кеңістік шығармашылықтан бөлек тұрған дүние емес.",
+            "en": "Kazakhstan.travel describes the house museum as having five rooms and two entrance halls. Even this modest inventory changes the imagined scale. Literary history can be connected with a compact interior in which work, hospitality and ordinary household routines stood close together.\n\nMoving from room to room organizes a story differently from a chronological biography. A threshold separates the outside from the home, an entrance prepares a meeting, and a furnished room reveals a pattern of daily use. The catalogue says many objects were donated by the poet’s relatives, friends and contemporaries. The exhibition thus grew through family memory as well as later curatorial work.\n\nA memorial interior contains several times at once: the old building, a preserved object, restored decoration and a modern museum label. Looking carefully means noticing those different contributions. An object with a recorded history of ownership tells a more specific story than one that merely resembles an antique. In a photograph, examine the shape of a chest, its lock or the arrangement of furniture. Such small details offer a way towards the rhythm of domestic life. They complement the dates of poems and anniversaries by showing the practical environment through which a writer’s life also passed."
+          },
+          "sourceIds": [
+            "zhidebay",
+            "museum"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Сундук как маленький архив семьи",
+            "kk": "Сандық — отбасының шағын мұрағаты",
+            "en": "A chest as a small family archive"
+          },
+          "body": {
+            "ru": "На снимке экспозиции Жидебая три деревянных сундука стоят один над другим. Их украшают светлые накладки, геометрические фигуры и металлическая фурнитура. Здесь можно долго смотреть на вещь, не зная ни одной дополнительной даты: заметить повторяющийся рисунок, различия размеров, следы поверхности, устройство ручек и запирания.\n\nСундук соединяет две задачи — хранить и показывать. Его внутреннее пространство предназначено для вещей, которые нужно беречь; наружная отделка сообщает о мастерстве и вкусе. Поэтому даже закрытый предмет остаётся выразительным свидетельством бытовой культуры. Украшение не мешает практической функции, а существует вместе с ней. Удобство переноса, прочность корпуса и защита содержимого так же важны для понимания вещи, как орнамент.\n\nФотография подписана как музейные экспонаты Жидебая; по ней нельзя установить личного владельца каждого сундука. Но для внимательного знакомства этого не требуется. Мы можем увидеть материалы, конструкцию и способ украшения, а вопрос о принадлежности оставить музейному каталогу. Такое различие даёт свободу смотреть без вымысла. Вместо обещания «этот предмет держал в руках поэт» появляется более интересный разговор: что семья сохраняла, как упорядочивала своё пространство и почему вещи домашнего обихода со временем стали частью общественного наследия.",
+            "kk": "Жидебай экспозициясының фотосында үш ағаш сандық бірінің үстіне бірі қойылған. Оларды ақшыл қаптырмалар, геометриялық өрнек және металл бөлшектер безендіреді. Қосымша датаны білмей-ақ суретке ұзақ үңілуге болады: қайталанатын пішіндер, өлшем айырмашылығы, тұтқалар, құлыптар және ағаш бетінің ізі өз алдына қызық.\n\nСандық сақтайды және өзін көрсетеді. Оның ішкі кеңістігі құнды нәрселерді қорғайды, сыртқы сәні шеберлік пен талғамды білдіреді. Әшекей практикалық міндетпен қатар өмір сүреді. Мықтылық, алып жүруге ыңғайлылық және жабылу тәсілі затты түсінуде оюдан кем маңызды емес. Сондықтан жабық сандықтың өзі тұрмыстық мәдениет туралы көп мәлімет бере алады.\n\nФотосурет Жидебай музейінің экспонаттары деп сипатталған; ол әр сандықтың нақты иесін анықтамайды. Дегенмен материал мен жасалу тәсілін мұқият қарауға бұл кедергі емес. Жеке меншік тарихын музей каталогы нақтылайды. Осы айырмашылық ойдан қоспай қарауға жол ашады. «Ақын міндетті түрде осы затты ұстаған» деудің орнына отбасы нені сақтағанын, кеңістігін қалай реттегенін және күнделікті бұйымның қоғамдық мұраға қалай айналғанын ойлауға болады. Үйден музейге өткенде заттың алғашқы қызметінен кейінгі жаңа өмірі басталады. Оның тарихы сол өзгеріспен де жалғасады.",
+            "en": "In a photograph of the Zhidebay exhibition, three wooden chests stand one above another. Light-coloured inlay, geometric forms and metal fittings cover their surfaces. There is already much to notice without adding another historical date: repeated patterns, different proportions, handles, locks and the marks left on the wood.\n\nA chest stores things and presents itself to others. Its interior protects possessions; its outside expresses craft and taste. Decoration lives alongside practical requirements such as strength, portability and secure closing. A locked object can therefore remain a rich document of domestic culture. Its construction is as revealing as its ornament.\n\nThe photograph is catalogued as museum exhibits in Zhidebay and does not identify every chest’s individual owner. It nevertheless lets us observe materials and workmanship closely, while leaving questions of personal ownership to the museum record. This opens a useful kind of attention. Instead of inventing a famous person’s touch, we can ask how a family organized its belongings, what it chose to preserve and how everyday things became public heritage. The transition from a household object to a museum exhibit gives the chest a further history, extending beyond its original practical purpose and the people who first used it."
+          },
+          "sourceIds": [
+            "photo-zhidebay-objects",
+            "zhidebay"
+          ],
+          "imageIds": [
+            "zhidebay-chests"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Поздний Абай: стихи рядом с размышлением",
+            "kk": "Кемел Абай: өлең мен ой толғау",
+            "en": "The later Abai: poetry beside reflection"
+          },
+          "body": {
+            "ru": "Жидебай связан с последним десятилетием жизни Абая. Туристическое описание подчёркивает его творческую насыщенность: здесь память о стихах соседствует с переводами, музыкой и прозаическими размышлениями. Важно представлять эти занятия вместе. Человек, которого школьный портрет делает неподвижным классиком, продолжал искать форму для разных вопросов и состояний.\n\nСтихотворение организует мысль через ритм и образ; перевод требует разговора с чужим языком; прозаическое слово допускает последовательное рассуждение. Разные формы помогают заметить широту работы Абая, не превращая её в перечень почётных определений. Дом, книга и музыкальная традиция относятся к одному культурному миру, хотя каждый из этих следов сохраняется по-своему.\n\nПортрет 1896 года почти совпадает по времени с поздним периодом его жизни. Это редкая возможность увидеть человека, а не только последующее художественное изображение. Одежда, положение рук и выражение лица принадлежат конкретному фотографическому сеансу; они не раскрывают автоматически характер или настроение. Зато документ делает прошлое физически ощутимым. От фотографии можно вернуться к тексту и заметить, как сильно различаются два способа встречи с автором: камера сохраняет один момент, а произведение продолжает разворачиваться в чтении.",
+            "kk": "Жидебай Абай өмірінің соңғы онжылдығымен байланысты. Туристік сипаттама бұл кезеңнің шығармашылыққа бай болғанын атап, өлең, аударма, қара сөз және музыканы қатар атайды. Оларды бірге елестету маңызды. Мектеп портретіндегі қозғалмайтын классиктің ар жағында түрлі сұрақ пен күйге лайық пішін іздеуді жалғастырған адам тұр.\n\nӨлең ойды ырғақ пен бейне арқылы ұйымдастырады. Аударма өзге тілмен сөйлесуді талап етеді. Қара сөз пікірді біртіндеп таратып айтуға мүмкіндік береді. Әртүрлі пішіндер шығармашылық ауқымды құрметті атақтарды тізуден гөрі нақтырақ танытады. Үй, кітап және музыкалық дәстүр бір мәдени ортаға жатады, бірақ әрқайсының ізі өзінше сақталады.\n\n1896 жылғы портрет осы соңғы кезеңге уақыт жағынан жақын. Киім, қолдың қалпы және бет әлпеті белгілі бір түсірілім сәтіне қатысты. Сурет адамды толық түсіндірмесе де, өткеннің нақты болғанын сездіреді. Фотодан мәтінге қайта оралып, авторға жақындаудың екі жолын салыстырыңыз. Камера бір мезетті ұстап қалады, ал шығарма оқу барысында ашылады. Жидебайда үй, портрет және мәтін осы тәжірибелерді қатар ұсынады. Бірі екіншісінің орнын баспайды; әрқайсысы өзге дерек бере алатын нәрсені толықтырып, ақынға қатысты түсінікті кеңейтеді.",
+            "en": "Zhidebay is associated with the last decade of Abai’s life. The tourism catalogue presents it as a productive period involving poetry, translation, prose reflection and music. Behind the familiar commemorative portrait was a person continuing to search for forms suitable to different questions and experiences.\n\nA poem works through rhythm and imagery; a translation requires engagement with another language; prose allows an argument to unfold step by step. The different forms reveal the range of Abai’s work more concretely than a list of honorary descriptions. Home, book and musical tradition belong to the same cultural setting, although their traces survive in different ways.\n\nThe 1896 portrait brings us close in time to this late period. Clothing, posture and expression belong to a particular photographic sitting. The image gives the past a physical presence without explaining the person completely. Return from the photograph to a page of writing and notice the difference between the two encounters. A camera holds a moment, while a work develops through the time spent reading it. At Zhidebay, the house, the portrait and the texts make these ways of encountering a writer available together, each adding something that the others cannot supply alone."
+          },
+          "sourceIds": [
+            "zhidebay",
+            "abai-book-loc"
+          ],
+          "imageIds": [
+            "abai-portrait"
+          ]
+        },
+        {
+          "title": {
+            "ru": "От рукописного круга к книге 1909 года",
+            "kk": "Мәтіндер ортасынан 1909 жылғы жинаққа",
+            "en": "From a circle of texts to the 1909 volume"
+          },
+          "body": {
+            "ru": "Первый печатный сборник стихов Абая появился в 1909 году в Санкт-Петербурге. Поэт умер в 1904-м, поэтому издание относится уже к истории сохранения и распространения его наследия. Дом в Жидебае связан с жизнью автора, а книга показывает, как произведения получили возможность путешествовать дальше родного окружения.\n\nНа музейной фотографии виден экземпляр с потёртым переплётом. Его страницы набраны арабской графикой. Для современного читателя этот внешний вид может оказаться неожиданным: знакомые стихи существовали в другой письменной среде, прежде чем стать привычной страницей школьного издания. У книги есть материальная сторона — бумага, краска, набор, формат, состояние. Она добавляет к литературной истории историю труда и обращения вещей.\n\nРассмотрите издание как самостоятельный предмет. Где начинается текст? Как устроены поля? Сколько свободного места остаётся между строками? Такие вопросы не требуют знания старой графики, но помогают увидеть книгу внимательнее. Затем сопоставьте её с сундуками из предыдущего раздела. В одном случае сохраняли домашние вещи, в другом — слова. Обе формы хранения переживают первоначальных владельцев и обретают новый смысл в музее. Жидебай становится местом встречи семейной памяти, литературного труда и последующей работы читателей, собирателей и хранителей.",
+            "kk": "Абай өлеңдерінің алғашқы баспа жинағы Санкт-Петербургте 1909 жылы жарық көрді. Ақын 1904 жылы қайтыс болғандықтан, кітап оның мұрасын сақтау мен тарату тарихына жатады. Жидебайдағы үй автордың тірі кезімен байланысты болса, жинақ шығармалардың алғашқы ортасынан әрі сапарға шыққанын көрсетеді.\n\nМузейлік дананың фотосында тозған мұқаба мен араб қарпіндегі беттер бар. Қазіргі басылымға үйренген оқырман үшін бұл тосын көрінуі мүмкін. Таныс өлеңдер басқа жазу ортасында өмір сүрген. Қағаз, бояу, терім, пішім және сақталу күйі әдеби тарихқа еңбек пен зат айналымының тарихын қосады. Шығарманың оқырманға жетуі үшін басылымды дайындайтын адамдардың жұмысы қажет.\n\nКітап бетін жеке зат ретінде қараңыз. Мәтін қай жерден басталады? Жиектері қалай жасалған? Жолдардың арасы қаншалықты ашық? Бұл сұрақтарға ескі графиканы оқымай-ақ назар аударуға болады. Содан кейін кітапты сандықтармен салыстырыңыз. Бірі үй бұйымдарын, екіншісі сөзді сақтайды. Екеуі де алғашқы иелерінен ұзақ жасап, музейде басқа мағына табады. Жидебайда отбасылық жады, әдеби еңбек және кейінгі жинаушы, оқырман мен сақтаушы жұмысы осылай тоғысады. Көрме заттары өзара сөйлескенде шағын үйден басталған оқиға кең мәдени қозғалысқа ұласады.",
+            "en": "Abai’s first printed poetry collection appeared in Saint Petersburg in 1909. The poet had died in 1904, so the volume belongs to the preservation and circulation of his work. His Zhidebay home connects with a life being lived; the book shows how that work travelled beyond its first social circle.\n\nThe photographed museum copy has a worn binding and pages in Arabic script. For a reader accustomed to modern editions, its appearance can be surprising. Familiar poems once existed in a different written environment. Paper, ink, type, format and condition add a material history to the literary one. A work reaches its audience through the labour of people who prepare and produce an edition.\n\nExamine the page as an object. Where does the text begin? How are its margins arranged? What distance separates one line from another? These questions require no knowledge of the old script. They offer a closer visual encounter with a book. Then compare it with the chests. One preserves household possessions, the other preserves words. Both can outlive their first owners and acquire another role in a museum. Their meeting at Zhidebay connects family memory, literary work and the later efforts of collectors, readers and curators."
+          },
+          "sourceIds": [
+            "abai-book-loc",
+            "photo-abai-book"
+          ],
+          "imageIds": [
+            "abai-book"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Две башни и память о Шакариме",
+            "kk": "Екі мұнара және Шәкәрім жады",
+            "en": "Two towers and the memory of Shakarim"
+          },
+          "body": {
+            "ru": "Высокий комплекс «Абай — Шакарим» относится к другому времени, чем зимний дом. Музей связывает его создание с юбилейной подготовкой к 150-летию Абая в 1995 году. Башни формируют хорошо узнаваемый силуэт на фоне степи. Они обращаются к посетителю языком большого расстояния, открытого пространства и совместной памяти.\n\nИмя Шакарима здесь важно само по себе. Мемориал не растворяет его в биографии Абая, а ставит рядом две культурные фигуры. Музей-заповедник также сохраняет связанные с Шакаримом объекты. Поэтому Жидебай позволяет увидеть наследие как систему отношений: родственников, учеников, собеседников, последующих хранителей. Оно не заканчивается на одном, даже самом известном, имени.\n\nНа фотографии мемориала заметен масштаб архитектуры по отношению к человеку и горизонту. Сравните его с фотографией низкого дома. Дом помогает представить ежедневный распорядок, а башни — общественный жест памяти. Один объект приближает прошлое, другой делает его видимым издалека. Вместе они создают напряжение, которое теряется в коротком рекламном описании. Историческая усадьба и юбилейная архитектура могут находиться рядом, оставаясь разными по назначению и времени создания; именно это соседство делает пространство Жидебая особенно выразительным.",
+            "kk": "«Абай — Шәкәрім» мемориалы қыстау үйінен басқа дәуірге жатады. Музей оның жасалуын 1995 жылғы Абайдың 150 жылдығына дайындықпен байланыстырады. Мұнаралар даланың фонында танылатын сұлба жасайды. Сәулеттік өлшем, арақашықтық және ашық кеңістік қоғамдық еске алудың тіліне айналады.\n\nБұл жерде Шәкәрімнің есімі дербес маңызды. Мемориал екі мәдени тұлғаны қатар қояды; қорық-музей Шәкәрімге қатысты өзге нысандарды да сақтайды. Сондықтан мұра туыстар, шәкірттер, сұхбаттастар және кейінгі сақтаушылар байланысы ретінде ашылады. Ол ең белгілі бір адамның өмірбаянымен аяқталмайды. Атаулардың қатар тұруы әрқайсының жеке жолын көруге де шақырады.\n\nМемориалдың суретін аласа үйдің фотосымен салыстырыңыз. Бірі күнделікті тіршілікті елестетсе, екіншісі ортақ еске алу әрекетін білдіреді. Үй өткенді жақындатады, мұнара оны алыстан көрсетеді. Екеуінің қатар болуы жеке бір бейнеден мазмұндырақ. Тарихи баспана мен мерейтойлық сәулет бір ландшафтты бөлісіп, өз уақыты мен қызметін сақтай алады. Жидебайдың әсері осы қатынастан да туады: келуші бөлме мен заттың жақын өлшемінен мәдениет өз қастерлі есімдерін көрнекі пішінге айналдырған үлкен кеңістікке өтеді. Бұл қозғалыс мұраны бірнеше қырынан қабылдауға мүмкіндік береді.",
+            "en": "The Abai–Shakarim memorial belongs to a different time from the winter house. The museum connects its creation with the preparations for Abai’s 150th anniversary in 1995. Its towers make a distinctive silhouette against the steppe, using distance, open space and architectural scale to express public remembrance.\n\nShakarim’s name has an independent place here. The memorial brings two cultural figures together, and the reserve museum preserves other sites associated with Shakarim as well. This makes heritage visible as a network of relatives, students, fellow thinkers and later custodians. It extends beyond a single biography, even that of the most celebrated person.\n\nCompare a photograph of the tall memorial with the low house. One helps imagine everyday routines; the other is a collective gesture of remembrance. A home draws the past close, while towers make memory visible from a distance. Their coexistence is more interesting than either image in isolation. A historic dwelling and anniversary architecture can share a landscape while keeping their different purposes and dates. Zhidebay’s visual force comes partly from that relationship. The visitor moves between the intimacy of rooms and possessions and an outward-looking public space in which a culture gives lasting form to the names it remembers."
+          },
+          "sourceIds": [
+            "museum",
+            "museum-structure"
+          ],
+          "imageIds": [
+            "zhidebay-memorial"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Как собрать собственный маршрут внимания",
+            "kk": "Өз назарыңыздың бағытын құрастыру",
+            "en": "Building your own route of attention"
+          },
+          "body": {
+            "ru": "Жидебай удобно рассматривать через три последовательных масштаба. Сначала — большой пейзаж: дом, мемориальные башни, открытый горизонт. Затем — устройство жилья: комнаты, входы и предметы, которые задают домашний порядок. Наконец — небольшой след работы и памяти: страница сборника, деталь сундука или подпись под портретом.\n\nКаждый переход добавляет другую информацию. По общему виду нельзя понять устройство замка, а по орнаменту сундука невозможно восстановить всю историю усадьбы. Зато изображения начинают дополнять друг друга, когда мы перестаём ждать от каждого отдельного снимка полного ответа. Чтение такого места похоже на чтение нескольких связанных документов: они принадлежат одному рассказу, но устроены по-разному.\n\nПри возвращении к фотографии дома попробуйте мысленно убрать памятный статус. Останется жильё с окнами и дверью, в которое кто-то приходил, где хранили вещи и продолжали обычную жизнь. Потом верните ему исторические имена и даты. Это простое движение помогает избежать двух крайностей: увидеть только торжественный символ или, наоборот, заметить лишь неприметный сельский дом. Жидебай интересен их соединением. Большая литературная история не находится где-то отдельно от повседневного пространства — она прошла через комнаты, вещи и семейные связи, следы которых можно рассматривать и сегодня.",
+            "kk": "Жидебайға үш өлшем арқылы қарауға болады. Әуелі үлкен көрініс: үй, мемориал мұнаралары және ашық көкжиек. Одан кейін тұрғын кеңістіктің құрылысы: бөлмелер, кіреберіс және күнделікті тәртіпті белгілейтін бұйымдар. Соңында шағын ізге үңіліңіз: жинақ беті, сандық өрнегі немесе портрет астындағы жазу.\n\nӘр ауысу басқа ақпарат қосады. Жалпы көрініс құлыптың жасалуын түсіндірмейді, ал сандық оюы тұтас усадьба тарихын қалпына келтірмейді. Әр суретке өз міндетін бергенде олар бірін-бірі толықтыра бастайды. Мекенді оқу бір әңгімеге қатысты, бірақ пішіні әртүрлі бірнеше құжатты бірге қарауға ұқсайды. Бір кадрдан барлық сұрақтың жауабын күтудің қажеті жоғалады.\n\nҮйдің фотосына оралып, оның мемориалдық мәртебесін бір сәт ойдан алып тастаңыз. Терезесі мен есігі бар баспана қалады: оған адамдар келген, зат сақтаған, күнделікті өмір сүрген. Содан кейін тарихи есімдер мен даталарды қайта қосыңыз. Бұл тәжірибе үлкен рәміздің тасасында тұрған үйді де, қарапайым ғимараттағы үлкен әдеби тарихты да жоғалтпауға көмектеседі. Жидебай осы екі өлшемді біріктіреді. Мәдени өмір бөлмелер, бұйымдар және отбасылық байланыстар арқылы өткен. Сақталған іздер салтанатты көрініспен шектелмей, мұқият қарай беруге мүмкіндік береді.",
+            "en": "Zhidebay can be explored through three scales. Begin with the landscape: a house, memorial towers and an open horizon. Move closer to the dwelling, its entrances, rooms and household objects. Finally examine a smaller trace: the page of a book, the ornament on a chest or the caption beneath a portrait.\n\nA general view cannot explain a lock, while a decorative pattern cannot reconstruct the entire history of an estate. The images begin to help one another when each is allowed its own task. Reading a place then resembles reading a group of related documents, varied in form but connected by a larger story.\n\nReturn to the house photograph and briefly set aside its memorial status. There is still a home with doors and windows, a place people entered and where they kept the things needed for ordinary life. Then restore the historical names and dates. This movement avoids losing the domestic space behind a grand symbol, or overlooking a major literary story in an apparently modest building. Zhidebay brings those scales together. Their surviving traces make it possible to keep looking closely rather than stopping at one ceremonial view."
+          },
+          "sourceIds": [
+            "zhidebay",
+            "museum-structure",
+            "photo-zhidebay-objects"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "zhidebay",
+        "museum",
+        "tours",
+        "photo-zhidebay",
+        "museum-structure",
+        "photo-zhidebay-objects",
+        "abai-book-loc",
+        "photo-abai-book"
+      ],
+      "detail": {
+        "ru": "На фотографии комплекс виден издалека. Откройте панораму, чтобы увидеть его пространство с другой точки.",
+        "kk": "Фотода кешен алыстан көрінеді. Басқа нүктеден көру үшін панораманы ашыңыз.",
+        "en": "The photograph shows the complex from a distance. Open the panorama for a different viewpoint."
+      }
+    },
+    {
+      "id": "borili",
+      "name": {
+        "ru": "Бөрілі",
+        "kk": "Бөрілі",
+        "en": "Borili"
+      },
+      "subtitle": {
+        "ru": "Дом-музей Мухтара Ауэзова",
+        "kk": "Мұхтар Әуезовтің үй-музейі",
+        "en": "Mukhtar Auezov’s house museum"
+      },
+      "short": {
+        "ru": "Дом-музей, литературное наследие и связь человека с родной землёй.",
+        "kk": "Үй-музей, әдеби мұра және адамның туған жерімен байланысы.",
+        "en": "A house museum, a literary legacy and a connection to home."
+      },
+      "era": {
+        "ru": "Литература и память XX века",
+        "kk": "XX ғасыр әдебиеті мен жады",
+        "en": "Literature and memory of the 20th century"
+      },
+      "image": "/media/borili.jpg",
+      "imageCredit": "Жидебай-Бөрілі · М. Әуезов",
+      "imageSource": "museum",
+      "coordinate": [
+        80.0101662,
+        49.6617043
+      ],
+      "coordinateNote": {
+        "ru": "Ориентир местности Бөрілі; точка предназначена для обзора региона.",
+        "kk": "Бөрілі жерінің бағдары; нүкте өңірді шолуға арналған.",
+        "en": "An orientation point for the Borili area, intended for regional exploration."
+      },
+      "tours": [
+        {
+          "name": {
+            "ru": "Музей Ауэзова",
+            "kk": "Әуезов музейі",
+            "en": "Auezov Museum"
+          },
+          "url": "https://abai-museum.kz/panorama/borili/"
+        }
+      ],
+      "sections": [
+        {
+          "title": {
+            "ru": "Место до музейной вывески",
+            "kk": "Музей атауына дейінгі мекен",
+            "en": "A place before its museum sign"
+          },
+          "body": {
+            "ru": "На современной фотографии дом в Бөрілі виден за деревьями и оградой. Белые стены не стремятся спорить с окружающим пространством, а дорожка и двор напоминают о сельской усадьбе. Так выглядит место, связанное с семьёй Мухтара Ауэзова, прежде чем мы перечислим его книги и награды.\n\nМузей-заповедник Абая называет Бөрілі родиной потомков Ауэза и местом зимовки родителей писателя. Здесь семейная география предшествует литературной славе. Название местности хранит связь с людьми, для которых она была частью повседневного мира. Впоследствии этот мир станет одним из истоков огромного художественного рассказа о степном обществе.\n\nВажно различать родное окружение автора и нынешнюю музейную постройку. Официальная история сообщает, что зимовку восстановили и организовали дом-музей в 1987 году, к девяностолетию Ауэзова. Современная фотография показывает результат сохранения и восстановления, а не неизменный вид дома в год рождения писателя. Но место не становится от этого менее значимым: оно связывает семейное прошлое с работой позднейших хранителей. Перед входом в биографию стоит задержаться на этом первом впечатлении — масштабе дома, устройстве двора и близости живого ландшафта.",
+            "kk": "Қазіргі фотосуретте Бөрілідегі үй ағаштар мен қоршаудың ар жағынан көрінеді. Ақ қабырға, жол және аула ауылдық баспананың өлшемін сақтайды. Кітаптары мен марапаттарын тізбей тұрып, біз Мұхтар Әуезовтің отбасына және оның өмір сүрген ортасына қатысты мекенге келеміз. Үлкен әдеби өмірбаянға осы қарапайым көрініс жол ашады.\n\nАбай қорық-музейі Бөріліні Әуез ұрпақтарының қонысы және жазушы ата-анасының қыстауы деп сипаттайды. Отбасылық география әдеби даңқтан бұрын пайда болған. Мекен атауы оны күнделікті тіршілігінің бір бөлігі санаған адамдармен байланыстырады. Кейін сол орта дала қоғамы туралы үлкен көркем әңгіменің бастауларының біріне айналады.\n\nМузей дерегінде қыстаудың қалпына келтіріліп, үй-музейдің 1987 жылы, Әуезовтің тоқсан жылдығына ашылғаны айтылады. Қазіргі фото сақталған және жаңғыртылған музейлік ортаны көрсетеді. Оның маңызы отбасылық өткенді кейінгі сақтаушылар еңбегімен жалғауында. Өмірбаянға кіріспей тұрып, үйдің шамасына, ауланың құрылымына және жанындағы ландшафтқа назар аударыңыз. Автордың мәдени әлемі қанша кеңейсе де, бұл адамдық бастапқы өлшемді жоғалтпау оның шығармашылық жолын нақтырақ елестетуге көмектеседі.",
+            "en": "A contemporary photograph shows the house in Borili behind trees and a fence. White walls, a path and a courtyard give it the scale of a country home. Before the list of books and honours begins, this is a place associated with Mukhtar Auezov’s family and its lived surroundings.\n\nThe Abai reserve museum describes Borili as the home of Auez’s descendants and the wintering place of the writer’s parents. Family geography comes before literary fame. The name connects a landscape with people for whom it was an ordinary part of life. That environment would later become one of the starting points for a much larger literary account of steppe society.\n\nThe museum records the restoration of the winter home and the establishment of the house museum in 1987, marking Auezov’s ninetieth anniversary. A modern photograph therefore documents a preserved and restored museum setting. Its significance lies in the link it maintains between the family past and the work of later custodians. Before entering the biography, pause at the first impression: the size of the building, the arrangement of the yard and the surrounding landscape. They provide a human point of entry into a writer’s increasingly wide cultural world."
+          },
+          "sourceIds": [
+            "borili",
+            "museum-structure"
+          ],
+          "imageIds": [
+            "borili-museum"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Между устным рассказом и литературой",
+            "kk": "Ауызша әңгіме мен әдебиет арасы",
+            "en": "Between oral storytelling and literature"
+          },
+          "body": {
+            "ru": "История Ауэзова соединяет домашнюю культурную среду с профессиональной литературой XX века. В музейном рассказе о его творчестве рядом оказываются народные предания, ранние статьи, драматургия, проза и исследования. Эти занятия не сменяют друг друга по простой лестнице от «малого» к «великому». Они продолжают существовать вместе и ставят перед автором разные задачи.\n\nУстный рассказ связан с присутствием слушателей: важны голос, пауза, память исполнителя и обстоятельства встречи. Печатный текст обращается к человеку, которого автор может никогда не увидеть. Когда писатель работает с известным сюжетом, он переносит его в другую среду и заново выбирает детали, порядок событий, характеры и язык. Поэтому литературное произведение может вырастать из культурной памяти, не становясь её дословной записью.\n\nБөрілі помогает представить эту связь пространственно. Родная местность становится источником наблюдений, знакомых отношений и звучащей речи; опубликованная книга уходит далеко за её пределы. Внутри такого движения сохраняется конкретность: за большим словом «традиция» стоят рассказчик, слушатель и обстоятельства передачи истории. С этой точки зрения дом-музей интересен не только личными вещами писателя. Он предлагает увидеть, из какого человеческого окружения возникает работа, рассчитанная уже на огромное и незнакомое автору сообщество читателей.",
+            "kk": "Әуезов шығармашылығы отбасылық мәдени ортаны XX ғасырдың кәсіби әдебиетімен байланыстырады. Оның музейінде халық аңыздары, алғашқы мақалалар, драматургия, проза және ғылыми зерттеу қатар ұсынылады. Бұл істер бірін-бірі алмастыратын қарапайым саты емес. Олар қатар жалғасып, адам, тіл және қоғам туралы әртүрлі міндет қояды.\n\nАуызша әңгіме бас қосқан адамдарға тәуелді: дауыс, кідіріс, тыңдаушы және айтушының жады маңызды. Баспа мәтін автор ешқашан кездеспеуі мүмкін оқырманға бағытталады. Таныс оқиғаны әдеби шығармаға айналдырғанда рет, кейіпкер, бөлшек және тіл қайта таңдалады. Сондықтан мәдени жады жаңа пішіні мен мақсаты бар туындының бастауы бола алады. Бұл көшу бұрынғы әңгіменің сөзбе-сөз көшірмесін жасаудан әлдеқайда күрделі еңбек.\n\nБөрілі осындай қозғалысты кеңістік арқылы түсінуге көмектеседі. Туған орта бақылау, қарым-қатынас және таныс дауыстар береді, ал жарияланған кітап одан алысқа кетеді. «Дәстүр» деген кең сөздің артында айтушы, тыңдаушы және әңгімені жеткізудің нақты жағдайлары тұрады. Осы тұрғыдан үй-музей әйгілі адамның бұйымдары жиналған жерден кеңірек мағына алады: ол шығарма қай ортадан туып, алғашқы қауымнан үлкен аудиторияға қалай жететінін ойлауға мүмкіндік береді.",
+            "en": "Auezov’s work connects a domestic cultural environment with professional twentieth-century literature. His museum places oral traditions beside early journalism, drama, fiction and scholarship. These activities offered different ways to approach society.\n\nAn oral story depends on a gathering: voice, pauses, an audience and the teller’s memory all matter. A printed work addresses readers the writer may never meet. Adapting a familiar story for literature involves new decisions about sequence, character, detail and language. Cultural memory can therefore become the starting point of a work with its own form and purpose.\n\nBorili helps make this movement spatially understandable. A home landscape offers observations, relationships and familiar voices; a published book travels beyond it. Behind the broad term “tradition” stand a teller, a listener and particular circumstances of transmission. From this perspective, a house museum is more than a collection of a famous person’s possessions. It allows us to consider the human surroundings from which writing emerges and the ways it reaches an audience much larger than its first community. A quiet family place can remain present in work read far away, in other languages and by people with very different experiences."
+          },
+          "sourceIds": [
+            "auezov-history",
+            "auezov-biography"
+          ]
+        },
+        {
+          "title": {
+            "ru": "«Еңлік — Кебек»: как предание становится сценой",
+            "kk": "«Еңлік — Кебек»: аңыздың сахнаға шығуы",
+            "en": "Enlik–Kebek: a tradition becomes a performance"
+          },
+          "body": {
+            "ru": "В 1917 году Мухтар Ауэзов поставил «Еңлік — Кебек» в ауле Абая, на жайлау Ойкудык. Официальная история театральной жизни области связывает с этой постановкой важный этап становления нового сценического искусства. Это другое место, чем музейный дом в Бөрілі: биография соединяет их, но карта не должна превращать их в одну точку.\n\nДля первой постановки существующего театрального здания не требовалось. Уже сам перенос предания в спектакль меняет способ его восприятия. Герои получают видимый облик, реплики произносятся перед собравшимися людьми, а история разворачивается в общем времени актёров и зрителей. Разговор о прошлом становится событием настоящего — встречей, после которой у участников остаётся собственная память.\n\nМузей Ауэзова описывает его работу не только как автора, но и как человека, участвовавшего в организации представления. Это важная деталь для знакомства с молодым писателем: он действует внутри культурной среды, пробует форму, работает с другими людьми. Последующая литературная репутация легко заслоняет этот опыт начала. Представляя раннюю постановку, мы видим не готовый памятник классике, а риск нового дела. Старый сюжет входит в сцену, а вместе с ним начинается другая история — история казахского театра и его собственной публики.",
+            "kk": "1917 жылы Мұхтар Әуезов «Еңлік — Кебекті» Абай ауылындағы Ойқұдық жайлауында қойған. Облыстың ресми театр тарихы бұл қойылымды қазақ сахна өнерінің қалыптасуындағы маңызды кезең ретінде атайды. Ойқұдықтың картада өз орны бар: ол Бөрілімен өмірбаян арқылы байланысады, бірақ музей үйімен бір нүкте емес.\n\nӘңгіменің спектакльге айналуы оны қабылдау жолын өзгертеді. Кейіпкерлер көзге көрінеді, сөздері жиналған адамдардың алдында айтылады, оқиға актер мен көрерменнің ортақ уақытында өтеді. Өткен туралы сюжет бүгінгі кездесу тәжірибесіне айналады. Қатысушылар тарағанда олардың есінде аңызбен бірге сол кештің өзі де қалады.\n\nӘуезов музейі оның автор ғана емес, қойылымды ұйымдастыруға қатысқан адам болғанын да баяндайды. Бұл жас жазушыны жаңа пішін іздеген, басқа адамдармен бірге іс бастаған тұлға ретінде танытады. Кейінгі атақ алғашқы қадамның белгісіздігін жасырып жіберуі мүмкін. Ал алғашқы қойылым мәдени дәстүрдің нақты адамдардың шешімі мен еңбегі арқылы жаңа ортаға енгенін көрсетеді. Ескі сюжетпен бірге сахна мен оның өз көрерменінің тарихы басталады. Сондықтан шығарманың өмірі автор мәтін жазған датадан әлдеқайда кең: оған дайындық, орындау және көрген адамдардың жады да кіреді.",
+            "en": "In 1917 Auezov staged Enlik–Kebek in Abai’s aul at the Oiqudyq summer pasture. The region’s official account of theatrical history treats this performance as a significant moment in the development of Kazakh theatre. It has its own place on the map, linked by biography with Borili but distinct from the museum house.\n\nTurning a story into a performance changes how it is encountered. Characters become visible, lines are spoken before people gathered together, and events unfold in a shared time. A tale about the past becomes an experience in the present. The participants carry away their own memories of the meeting as well as the remembered plot.\n\nAuezov’s museum describes his practical involvement in the production. This brings the young writer into view as someone trying a form, organizing an event and working with others. Later fame can conceal the uncertainty of beginnings. The first performance lets us see an established tradition entering a new cultural setting, through the decisions and efforts of particular people. There is an old plot, but there is also the emergence of a stage and an audience. The history of a work is therefore larger than the date when its author first wrote the text."
+          },
+          "sourceIds": [
+            "theatre-1917",
+            "auezov-history"
+          ]
+        },
+        {
+          "title": {
+            "ru": "От раннего рассказа к «Пути Абая»",
+            "kk": "Алғашқы прозадан «Абай жолына»",
+            "en": "From early fiction to The Path of Abai"
+          },
+          "body": {
+            "ru": "В музее Ауэзова ранняя проза представлена, в частности, рассказом «Қорғансыздың күні» — «Судьба беззащитной», написанным в 1921 году. Сам выбор названия направляет внимание на уязвимого человека. Литературный мир писателя населён людьми, чьи судьбы зависят от власти, семейных отношений и общественного порядка; пейзаж в нём не существует отдельно от человеческой жизни.\n\nПервая книга романа «Абай» вышла в 1942 году, вторая — в 1947-м. Впоследствии работа выросла в эпопею «Абай жолы», известную по-русски как «Путь Абая». Сопоставление дат помогает увидеть длинный труд, а не внезапное появление завершённого произведения. Детские впечатления, чтение, исследования и многолетнее письмо принадлежат разным этапам авторского пути.\n\nРоман возвращает читателю целое общество через судьбы персонажей, разговоры и конфликты. Однако художественную сцену нельзя автоматически превращать в документ биографии Абая. Писатель создаёт произведение, а не стенограмму прошлого. Именно это делает книгу самостоятельной: она позволяет пережить отношения, которые сухая хронология лишь перечисляет. Фотография первого сборника самого Абая рядом с этим разделом показывает другую книгу и другого автора. Их соседство обозначает литературную преемственность: слово Абая становится не только предметом хранения, но и большой творческой темой следующего поколения.",
+            "kk": "Музей Әуезовтің ерте прозасын 1921 жылы жазылған «Қорғансыздың күні» сияқты туындылар арқылы таныстырады. Атаудың өзі назарды әлсіз адамға бағыттайды. Жазушының көркем әлеміндегі тағдырлар билікке, отбасылық қатынасқа және қоғамдық тәртіпке тәуелді. Пейзаж да оны мекендеген адамдар өмірінен бөлек тұрмайды.\n\n«Абай» романының бірінші кітабы 1942 жылы, екіншісі 1947 жылы шықты. Кейін жұмыс «Абай жолы» эпопеясына ұласты. Даталарды салыстыру дайын классиканың кенет пайда болуын емес, ұзақ еңбекті көрсетеді. Балалық әсер, оқу, зерттеу және жылдар бойы жазу авторлық жолдың әр кезеңіне жатады. Бастапқы ортадан үлкен кітапқа дейін уақыт пен талай шығармашылық шешім бар.\n\nРоман қоғамды кейіпкерлер, диалогтар және қақтығыстар арқылы ашады. Оның көркем көріністерін Абай өмірбаянының құжаттарымен қатар оқу керек; әдеби шығарма өткеннің хаттамасы емес. Бұл айырмашылық кітаптың дербес құндылығын арттырады: проза хронология тек атайтын қатынасты оқырманға бастан өткеруге мүмкіндік береді. Осы бөлімдегі Абайдың алғашқы жинағының фотосы басқа автордың кітабын көрсетеді. Екі кітаптың байланысы әдеби жалғастықты білдіреді: Абай сөзі сақталатын мұра ғана емес, келесі буын үшін үлкен шығармашылық тақырыпқа да айналған.",
+            "en": "The museum discusses Auezov’s early prose through works including The Fate of the Defenceless, written in 1921. The title directs attention to a vulnerable person. Human lives in his fiction are shaped by power, family relationships and social structures, with landscape closely tied to the people who inhabit it.\n\nThe first book of Abai appeared in 1942 and the second in 1947. The undertaking eventually developed into the epic known as The Path of Abai. These dates reveal sustained work rather than the sudden arrival of a finished classic. Childhood impressions, reading, research and years of writing belong to different stages of the author’s development.\n\nA novel gives a society shape through characters, speech and conflict. Its imaginative scenes have their own literary purposes and should be read alongside, rather than substituted for, biographical documents. This distinction makes the work more interesting: fiction allows a reader to experience relationships that a chronology can only list. The photograph of Abai’s first poetry collection accompanying this section shows another author’s book. The pairing suggests literary continuity. Abai’s words became objects of preservation, but they also became a major creative subject through which a later writer explored a whole social world."
+          },
+          "sourceIds": [
+            "auezov-history",
+            "auezov-biography"
+          ],
+          "imageIds": [
+            "abai-book"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Писатель, который был исследователем",
+            "kk": "Ғалым болған жазушы",
+            "en": "A writer who was also a researcher"
+          },
+          "body": {
+            "ru": "Мухтар Ауэзов работал и как учёный. Его музей рассказывает об изучении творчества Абая и об исследованиях эпоса «Манас». В таком сочетании особенно интересно различие методов. Художественная проза создаёт мир через выбранную форму; исследование сопоставляет тексты, устанавливает связи и объясняет материал читателю. Один человек может заниматься обоими видами работы, не смешивая их задач.\n\nДля посетителя Бөрілі это открывает ещё один маршрут внимания. Рукопись, печатная статья, черновая запись и опубликованный роман — не просто разные предметы в витрине. У каждого есть назначение: зафиксировать наблюдение, подготовить мысль, обратиться к коллегам или завершить художественную сцену. Даже когда конкретный лист недоступен для подробного чтения, его место в творческом процессе делает предмет выразительнее.\n\nСвязь писателя с эпическим наследием выходит за пределы одной местности и одного национального сюжета. Изучение «Манаса» показывает интерес к большой культуре устного повествования. Возвращаясь после этого к Бөрілі, можно иначе увидеть тихий музейный двор. Родной дом не ограничивает масштаб автора: он задаёт исходную точку для движения к другим книгам, исследовательским вопросам и читательским аудиториям. Поэтому биографическое место интересно не замкнутостью, а множеством связей, которые из него расходятся.",
+            "kk": "Мұхтар Әуезов жазушы және драматург болумен бірге ғылыми еңбек те атқарған. Оның музейі Абай шығармашылығын зерттеуді және «Манас» эпосына арналған жұмыстарын таныстырады. Бұл қызметтердің әдісі әртүрлі. Көркем проза әлемді таңдалған пішін арқылы жасайды, зерттеу мәтіндерді салыстырып, байланыс орнатып, материалды өзге оқырманға түсіндіреді.\n\nБөріліге келген адам үшін осы айырмашылық тағы бір назар бағытын ашады. Қолжазба, мақала, жұмыс жазбасы және аяқталған роман бірдей қағаз емес. Әрқайсының міндеті бар: байқауды тіркеу, ойды әзірлеу, әріптестерге үн қату немесе көркем көріністі аяқтау. Нақты парақты толық оқуға мүмкіндік болмаса да, оның еңбек үдерісіндегі орнын білу затты мазмұнды етеді.\n\n«Манасқа» қызығушылық әңгімені бір мекен мен бір ұлттық сюжеттен әрі алып шығады. Әуезов ауызша баяндаудың кең мәдениетімен жұмыс істеген. Осыдан кейін тыныш музей ауласына қайта қарасақ, туған үйдің автор ауқымын шектемегенін байқаймыз. Ол өзге кітаптарға, ғылыми сұрақтарға және жаңа оқырманға баратын бастапқы нүкте болған. Өмірбаяндық мекеннің маңызы оның сыртқа тарайтын осындай байланыстарында да жатыр. Шағын ғимарат пен үлкен интеллектуалдық еңбек бірін-бірі кішірейтпей қатар өмір сүре алады.",
+            "en": "Mukhtar Auezov worked as a scholar as well as a novelist and playwright. His museum describes research on Abai and studies of the Manas epic. These activities involve different methods. Fiction constructs a world through artistic form; scholarship compares texts, establishes relationships and explains evidence to other readers.\n\nThis offers another route through the meaning of a literary museum. A manuscript, published article, working note and completed novel are not interchangeable kinds of paper. Each does a different job: recording an observation, preparing an argument, addressing colleagues or finishing a scene. Even a page that cannot be examined closely becomes more meaningful when its part in a working process is understood.\n\nThe interest in Manas also takes the story beyond one locality and one national plot. Auezov engaged with a wider culture of oral narrative. Returning to Borili after considering that work changes the impression of the quiet museum yard. A home environment sets a starting point from which someone can move towards other texts, research problems and audiences. The importance of a biographical place lies partly in those outward connections. Its physical modesty can coexist with the scale of a writer’s imaginative and scholarly life, without either diminishing the other."
+          },
+          "sourceIds": [
+            "auezov-history",
+            "auezov-biography"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Монета и марка: предметы уже другой эпохи",
+            "kk": "Монета мен марка: кейінгі дәуір заттары",
+            "en": "A coin and a stamp from later times"
+          },
+          "body": {
+            "ru": "Памятная монета в двадцать тенге выпущена к столетию Ауэзова в 1997 году. Почтовая марка относится к его 125-летию в 2022-м. Обе вещи появились после смерти писателя. Они рассказывают не о его ежедневном обиходе, а о том, как общество выбирает образ человека для публичного обращения.\n\nНа маленькой поверхности невозможно разместить целую биографию. Художнику приходится выбирать: портрет, имя, дату, выразительный символ. Поэтому монета и марка работают как очень короткие визуальные рассказы. Рассмотрите, какая информация заметна сразу, а какая требует приближения. Сопоставьте масштаб портрета и надписи, роль свободного поля, способ обозначения юбилея. Дизайн становится частью истории памяти.\n\nУ таких предметов есть ещё одна особенность — способность перемещаться. Дом-музей находится в конкретной местности, а почтовый выпуск или монета могут знакомить с именем автора людей, которые никогда не бывали в Бөрілі. Так память существует одновременно в неподвижном месте и в обращающейся вещи. Их соединение делает музейную историю богаче: рядом с фотографией дома появляется небольшой предмет, который не повторяет её функцию. Он показывает, как локальная биография превращается в узнаваемый культурный образ страны.",
+            "kk": "Жиырма теңгелік ескерткіш монета Әуезовтің жүз жылдығына 1997 жылы шығарылған. Пошта маркасы оның 125 жылдығына, 2022 жылға қатысты. Екеуі де жазушы дүниеден өткеннен кейін жасалған. Сондықтан олар жеке тұрмысын емес, қоғамның автор бейнесін қалай айналымға енгізетінін көрсетеді.\n\nШағын бетке толық өмірбаян сыймайды. Дизайнер портретті, есімді, датаны және мәнді бірнеше белгісін таңдайды. Осылайша монета мен марка өте қысқа визуалды әңгімеге айналады. Бірден не көрінетінін, қайсысына жақындау керегін қараңыз. Бет әлпетіне және әріптерге бөлінген орынды, бос кеңістіктің рөлін, мерейтойдың берілуін салыстырыңыз. Безендіру мәдени жадының өз бөлігі болып шығады.\n\nБұл заттардың тағы бір ерекшелігі — қозғалысы. Үй-музей нақты жерде қалады, ал пошта шығарылымы мен монета Бөріліге бармаған адамды да жазушы есімімен таныстыра алады. Жады бір мезгілде тұрақты мекенде және айналымдағы затта өмір сүреді. Олардың байланысы көрме тарихын байытады. Үй фотосының жанында шағын естелік бұйым оның қызметін қайталамайды: ол жергілікті өмірбаянның ел көлемінде танылатын мәдени бейнеге қалай айналғанын көрсетеді. Авторға жақындаудың кеңістіктік және заттық жолдары осылай бірін-бірі толықтырады.",
+            "en": "A twenty-tenge commemorative coin marked Auezov’s centenary in 1997. A postage stamp marked his 125th anniversary in 2022. Both were produced after his death. They tell a story about the public circulation of a writer’s image rather than the possessions he used in daily life.\n\nA small surface cannot hold an entire biography. Designers must select a portrait, a name, a date and a few meaningful visual features. Coins and stamps therefore become very short illustrated narratives. Look at what is legible immediately and what needs a closer view. Compare the space given to the face and the lettering, the use of empty areas and the way the anniversary is indicated. Design itself becomes part of cultural memory.\n\nThese objects have another important quality: they can travel. The house museum stays in a particular locality, while a postal issue or coin may bring the writer’s name to someone who has never visited Borili. Memory exists in both a fixed place and a circulating thing. Their connection enriches the exhibition story. Beside a photograph of the house, a small commemorative object performs a different task, showing how a local biography can become an image recognizable across an entire country."
+          },
+          "sourceIds": [
+            "photo-auezov-coin",
+            "photo-auezov-stamp"
+          ],
+          "imageIds": [
+            "auezov-coin",
+            "auezov-stamp"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Дом-музей как работа нескольких поколений",
+            "kk": "Бірнеше буын қалыптастырған үй-музей",
+            "en": "A house museum built by successive generations"
+          },
+          "body": {
+            "ru": "Дом-музей в Бөрілі организовали в 1987 году. Музей-заповедник сообщает об обновлении здания и экспозиции в 1997-м, а также о научно-реставрационных работах и обновлении показа в 2020 году. Эти даты говорят о наследии не менее предметно, чем дата рождения автора. Памятное место не сохраняется само: его исследуют, ремонтируют, описывают и заново открывают посетителям.\n\nФотография 2020 года показывает один момент этой продолжающейся истории. Деревья закрывают часть фасада, двор выглядит обжитым, а ограда отделяет музейное пространство от улицы. Это не иллюстрация сцены из «Пути Абая», а самостоятельный документ нынешнего места. Его можно сопоставить с биографией, сохранив расстояние между жизнью писателя, литературой и музейной работой.\n\nПопробуйте соединить три предмета этой истории: дом, книгу и памятный выпуск. Дом возвращает к родному окружению, книга раскрывает масштаб труда, монета или марка показывает общественную память. Ни один из этих предметов не заменяет остальные. Вместе они помогают увидеть Ауэзова не только как имя из учебника, но и как человека, чья работа продолжает создавать связи между местностями, поколениями и языками. Именно поэтому тихий Бөрілі остаётся частью большого литературного разговора, хотя сам музейный дом не выглядит большим.",
+            "kk": "Бөрілідегі үй-музей 1987 жылы ұйымдастырылған. Қорық-музей 1997 жылғы жөндеу мен экспозиция жаңаруын, 2020 жылғы ғылыми-реставрациялық жұмыстарды да хабарлайды. Бұл даталар мұраны сақтау еңбегін туған күн секілді нақты сипаттайды. Маңызды мекен өздігінен сақталмайды: оны зерттейді, жөндейді, түсіндіреді және жаңа келушіге қайта ашады.\n\n2020 жылғы фото осы жалғасқан үдерістің бір сәтін тіркейді. Ағаштар қасбеттің бір бөлігін жабады, аула тіршілігі бар кеңістікке ұқсайды, қоршау оны көшеден бөледі. Сурет өмірбаянмен қатар қаралғанда өз датасы мен тақырыбын — қазіргі музей ортасын және оған көрсетілген қамқорлықты — сақтайды. Ол романдағы көріністің орнына жүрмейді.\n\nӘңгімедегі үш затты біріктіріңіз: үй, кітап және естелік шығарылым. Үй отбасылық ортаға қайтарады, кітап шығармашылық еңбек ауқымын ашады, монета немесе марка қоғамдық еске алуды көрсетеді. Әрқайсысы басқа мәлімет береді. Бірге олар Әуезовті оқулықтағы есімнен кеңірек танытады. Оның еңбегі мекендерді, ұрпақтарды және тілдерді әлі де байланыстырады. Музей ғимараты үлкен болмаса да, тыныш Бөрілі осы байланыстар арқылы ауқымды әдеби әңгіменің бөлігі болып қала береді. Мұнда жергілікті орта мен алысқа тараған сөздің арасы көрнекі ашылады.",
+            "en": "Borili’s house museum was established in 1987. The reserve museum records repairs and exhibition renewal in 1997, followed by scientific restoration and an updated display in 2020. Such dates describe heritage work as concretely as a birth anniversary. A significant place is researched, repaired, interpreted and repeatedly opened to new visitors.\n\nThe 2020 photograph documents one moment in that continuing process. Trees partly screen the facade, the courtyard has the appearance of a lived space, and a fence separates it from the street. It can be placed beside the biography while retaining its own date and subject: the present museum environment and its care.\n\nBring together three objects from the story: a house, a book and a commemorative issue. The house leads back to a family setting, the book reveals the scale of a literary undertaking, and the coin or stamp shows public remembrance. Each adds something different. Together they allow Auezov to appear as more than a textbook name. His work continues to connect places, generations and languages. That is how a quiet site such as Borili remains part of a much larger literary conversation, even though the museum building itself makes no claim to monumental size."
+          },
+          "sourceIds": [
+            "museum-structure",
+            "borili",
+            "auezov-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "borili",
+        "tours",
+        "museum",
+        "museum-structure",
+        "auezov-history",
+        "auezov-biography",
+        "theatre-1917",
+        "photo-auezov-coin",
+        "photo-auezov-stamp"
+      ],
+      "detail": {
+        "ru": "Выберите деталь экспозиции и сформулируйте вопрос о ней. Найдите ответ в материалах музея.",
+        "kk": "Экспозиция бөлшегін таңдап, ол туралы сұрақ құрыңыз. Жауапты музей деректерінен іздеңіз.",
+        "en": "Choose a detail in the exhibition and ask a question about it. Follow the museum’s sources to find an answer."
+      }
+    },
+    {
+      "id": "konyr",
+      "name": {
+        "ru": "Қоңырәулие",
+        "kk": "Қоңырәулие",
+        "en": "Konyr Aulie"
+      },
+      "subtitle": {
+        "ru": "Там, где ландшафт встречается с преданием",
+        "kk": "Табиғат пен аңыз тоғысқан жер",
+        "en": "Where landscape meets oral tradition"
+      },
+      "short": {
+        "ru": "Пещера, подземное озеро и культурная память о природном месте.",
+        "kk": "Үңгір, жерасты көлі және табиғи мекен туралы мәдени жады.",
+        "en": "A cave, an underground lake and the cultural memory of a place."
+      },
+      "era": {
+        "ru": "Природное и культурное наследие",
+        "kk": "Табиғи және мәдени мұра",
+        "en": "Natural and cultural heritage"
+      },
+      "image": "/media/konyr.jpg",
+      "imageCredit": "Kazakhstan.travel · Қоңырәулие",
+      "imageSource": "konyr",
+      "coordinate": [
+        78.53468,
+        49.10546
+      ],
+      "coordinateNote": {
+        "ru": "Ориентир туристического каталога. Координаты разных источников расходятся; не использовать для навигации.",
+        "kk": "Туристік каталогтағы бағдар. Дереккөз координаттары әртүрлі; навигация үшін қолданбаңыз.",
+        "en": "An orientation point from the tourism catalogue. Source coordinates differ; do not use it for navigation."
+      },
+      "tours": [],
+      "sections": [
+        {
+          "title": {
+            "ru": "Сначала нужно найти именно эту пещеру",
+            "kk": "Алдымен дәл осы үңгірді табу керек",
+            "en": "Finding this particular cave"
+          },
+          "body": {
+            "ru": "У названия Қоңырәулие есть сильное звучание, но для начала полезно вернуть ему конкретную географию. В этой истории речь о пещере в Актасе, возле Токтамыса, в Абайском районе. Одноимённые сакральные места встречаются и в других частях Казахстана, поэтому изображение «красивой пещеры Қоңырәулие» без подписи может привести совсем в другой ландшафт.\n\nФотограф Дмитрий Кошелев снимал подход к пещере 6 августа 2018 года. В описании файла указаны Актас, Токтамыс и Абайский район. Эта небольшая запись делает изображение особенно полезным: мы видим не условную иллюстрацию тайны, а определённый участок пути. Каменные поверхности, растительность и современное обустройство принадлежат одному кадру.\n\nКаталоги Kazakhstan.travel и Kieli.kz связывают место с Шыңғыстау и рекой Шаган. При этом приводимые в каталогах координаты расходятся. Для исторического знакомства важнее понять общий природный контекст, чем придать спорной точке видимость геодезической точности. Уже на этом этапе возникает интересная двойственность: имя узнаётся далеко за пределами местности, а само место требует внимательного различения. Рассказ о пещере начинается с конкретного пути, прежде чем перейдёт к темноте, воде и преданию.",
+            "kk": "Қоңырәулие атауының әсері күшті, бірақ әңгімені нақты географиядан бастаған жөн. Бұл тарих Абай ауданындағы Тоқтамыс маңында, Ақтас тауында орналасқан үңгірге қатысты. Қазақстанның өзге өңірлерінде де аттас киелі мекендер бар. Орын көрсетілмеген әдемі сурет адамды мүлде басқа ландшафтқа апаруы мүмкін.\n\nДмитрий Кошелев үңгірге баратын жолды 2018 жылғы 6 тамызда түсірген. Файл сипаттамасында Ақтас, Тоқтамыс және Абай ауданы аталған. Осы шағын жазба суреттің құндылығын арттырады. Ол шартты құпия бейнесін емес, нақты жол бөлігін көрсетеді. Тас беті, өсімдік және қазіргі жол жабдықтары бір кадрда қатар тұр.\n\nKazakhstan.travel мен Kieli.kz мекенді Шыңғыстау және Шаған өзенімен байланыстырады, бірақ каталогтардағы координаттар бірдей емес. Тарихи танысу үшін күмәнді нүктеге өлшеу дәлдігін бергеннен гөрі жалпы табиғи ортаны түсіну пайдалы. Осы жерден екі өлшем ашылады: атау алысқа танылған, ал мекеннің өзін мұқият ажырату керек. Әңгіме қараңғылық, су және аңызға жетпей тұрып нақты жолдан басталады. Бұл тәсіл есте қалатын есімді оның айналасындағы шынайы жермен байланысты сақтауға көмектеседі.",
+            "en": "Konyr Aulie is an evocative name, but it first needs a definite location. This story concerns the cave at Aqtas, near Toktamys in Abai District. Other places in Kazakhstan share the name. A striking photograph with no location attached can therefore lead the imagination into a different landscape.\n\nDmitry Koshelev photographed the approach on 6 August 2018. The file description identifies Aqtas, Toktamys and Abai District. That short record gives the image a particular value. It shows a specific stretch of a path, with rock, vegetation and contemporary visitor infrastructure appearing together in one frame.\n\nKazakhstan.travel and Kieli.kz connect the site with Shyngystau and the Shagan River, although their coordinate entries differ. For a historical introduction, understanding the broader setting is more useful than presenting a disputed point as a surveyed location. A productive tension is already visible: the name is recognized far beyond the locality, while the place itself requires careful identification. The story starts on a real path, before entering darkness, water and tradition. Paying attention to that approach helps retain the connection between a memorable name and the physical country that surrounds it."
+          },
+          "sourceIds": [
+            "konyr",
+            "kieli",
+            "photo-konyr-path"
+          ],
+          "imageIds": [
+            "konyr-path"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Порог между открытым небом и внутренним пространством",
+            "kk": "Ашық аспан мен ішкі кеңістік арасындағы табалдырық",
+            "en": "A threshold between open sky and inner space"
+          },
+          "body": {
+            "ru": "На снимке входа лестница ведёт к скале. В этом простом устройстве сходятся два времени: природная поверхность и современный маршрут посетителя. Перила и ступени позволяют увидеть направление движения, которое в словесном описании легко пропустить. Пещера воспринимается не как изолированная тёмная комната, а как продолжение окружающего рельефа.\n\nКаталог Kieli.kz описывает узкий вход и переходы между внутренними пространствами. Такой порядок знакомства сам по себе меняет восприятие: наружный масштаб сменяется ограниченным проходом, после которого открывается другое помещение. Даже без мистического объяснения контраст между открытой степью и закрытым каменным объёмом даёт сильное впечатление. Свет и расстояние начинают играть другую роль.\n\nСовременная лестница — тоже часть истории места. Она говорит о регулярном посещении и о попытке организовать встречу человека с природным объектом. На старых и новых снимках оборудование может различаться, поэтому фотография сохраняет состояние конкретного года. Вглядываясь в неё, попробуйте разделить видимое на две группы: то, что принадлежит самой скале, и то, что установили люди. Эти группы не спорят друг с другом. Вместе они показывают, как природный объект становится местом общественного внимания, посещения и памяти.",
+            "kk": "Кіреберіс фотосында баспалдақ жартастың ішіне қарай жетелейді. Қарапайым құрылымда екі уақыт кездеседі: табиғи тас беті және келушінің қазіргі жолы. Саты мен сүйеніш қозғалыс бағытын көрсетіп, үңгірдің оқшау қараңғы бөлме емес, айналадағы жер бедерінің жалғасы екенін түсіндіреді.\n\nKieli.kz тар ауыз бен ішкі кеңістіктер арасындағы өтулерді сипаттайды. Сол рет қабылдауға әсер етеді. Ашық дала өлшемі шектеулі жолға ауысады, одан кейін басқа көлем ашылады. Сыртқы кеңістік пен жабық тас қуысының айырмасы аңыз айтылмай тұрып-ақ күшті әсер береді. Жарық пен арақашықтық бұрынғыдан басқаша сезіле бастайды.\n\nҚазіргі баспалдақ та мекен тарихының бөлігі. Ол тұрақты келу тәжірибесін және адам мен табиғи нысан кездесуін ұйымдастыру әрекетін көрсетеді. Ескі және жаңа суреттерде жабдық өзгеруі мүмкін, сондықтан фото нақты жылдың күйін сақтайды. Көрінетін бөлшектерді тасқа тиесілі және адамдар орнатқан заттарға бөліп қараңыз. Олар бір-бірін жоққа шығармайды. Қатар тұрған екі топ табиғи құрылымның қоғамдық назарға, аралауға және ортақ жадыға қалай енгенін көрсетеді. Мекеннің тарихы осы табалдырыққа адамдардың қайта-қайта келіп, мағына беруінен де құралады.",
+            "en": "In the entrance photograph, a staircase leads towards the rock. Two times meet in this simple arrangement: the natural surface and a contemporary visitor route. Steps and railings make movement visible, showing the cave as a continuation of the surrounding terrain rather than an isolated dark room.\n\nKieli.kz describes a narrow entrance and passages between inner spaces. That sequence affects perception. The scale of the open landscape gives way to a confined approach before a different volume appears. The contrast between the steppe outside and the enclosed rock produces a strong experience even before any legend is told. Light and distance begin to work differently.\n\nThe staircase also belongs to the history of the site. It suggests repeated visits and the organization of encounters with a natural feature. Equipment can change between photographs, so an image preserves the condition of one particular year. Try dividing the visible details into those belonging to the rock and those installed by people. Together they reveal how a natural formation becomes a focus of public attention, visits and shared memory. The story lies partly in that relationship, in the different ways people have approached and given meaning to the same physical threshold."
+          },
+          "sourceIds": [
+            "kieli",
+            "photo-konyr-entrance"
+          ],
+          "imageIds": [
+            "konyr-entrance"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Что действительно показывает интерьер",
+            "kk": "Ішкі көрініс нені көрсетеді?",
+            "en": "What the interior photograph reveals"
+          },
+          "body": {
+            "ru": "На фотографии интерьера Қоңырәулие каменная поверхность занимает почти весь кадр. Деревянная лестница пересекает её, а линия ламп уходит в глубину. Здесь можно читать пространство по нескольким признакам сразу: направлению ступеней, положению ограждений, размеру отдельных камней и исчезновению деталей в тени.\n\nЭтот снимок сделал Yakov Fedorov в мае 2018 года. Он показывает уже оборудованное пространство, а не его вид в эпоху возникновения преданий. Электрическое освещение делает доступными одни поверхности и оставляет менее заметными другие. Поэтому даже честная документальная фотография не является нейтральным «всем, что там есть»: ракурс и свет направляют внимание зрителя.\n\nПопробуйте найти в кадре точку, где перестаёт быть понятен масштаб. Когда рядом нет человека или знакомого предмета, скала может казаться то огромной, то близкой. Лестница помогает вернуть размер и направление. При этом по фотографии нельзя надёжно восстановить объём всей пещеры или устройство невидимых ходов. Её сила в другом: она сохраняет вид конкретного доступного пространства. Такой внимательный взгляд не разрушает впечатление от места. Наоборот, он даёт больше деталей, чем общее слово «таинственное», которое можно применить к любой тёмной пещере.",
+            "kk": "Қоңырәулиенің ішкі фотосында кадрдың көп бөлігін тас алады. Ағаш баспалдақ оны кесіп өтеді, ал шамдар желісі тереңге созылады. Кеңістікті бірден бірнеше белгі арқылы оқуға болады: сатылар бағыты, қоршау орны, жекелеген тастардың өлшемі және көлеңкеде жоғалатын бөлшектер.\n\nБұл суретті Yakov Fedorov 2018 жылғы мамырда түсірген. Ол келушіге жабдықталған кеңістікті тіркейді. Электр жарығы кейбір бетті айқындап, басқасын көмескі қалдырады. Деректі фотода да көзқарас бар: ракурс пен жарық көрермен назарын белгілі бір тәжірибеге бағыттайды. Сондықтан көріністің әсерлілігімен бірге оның қалай жасалғанын байқау да қызық.\n\nКадрдан өлшемі түсініксіз жерді табыңыз. Жанында адам не таныс зат болмаса, жартас бірде алып, бірде жақын көрінуі мүмкін. Баспалдақ шаманы және қозғалыс бағытын қайтарады. Фото көрінбейтін жолдар мен бүкіл үңгір көлемін қалпына келтірмейді, бірақ белгілі уақытта қолжетімді ішкі кеңістіктің бейнесін сақтайды. Мұқият қарау кез келген қараңғы үңгірге айтыла беретін «жұмбақ» сөзінен көбірек бөлшек береді. Мұнда тас, ағаш, саты және жарық әсерді нақты етеді. Алғашқы көріністен кейін сол бөлшектерге қайта оралуға болады.",
+            "en": "Rock fills most of the interior photograph. A timber stairway crosses it, while a line of lamps leads into the distance. Several clues allow the space to be read at once: the direction of the steps, the position of railings, the scale of stones and the disappearance of detail into shadow.\n\nYakov Fedorov took this photograph in May 2018. It records an equipped visitor space. Electric lighting reveals some surfaces while leaving others less apparent. A documentary photograph still has a viewpoint; composition and illumination guide the eye towards a particular experience of the place.\n\nFind a part of the image where scale becomes uncertain. Without a person or familiar object nearby, rock can look either immense or surprisingly close. The staircase restores a sense of size and direction. The image cannot reconstruct unseen passages or the whole underground volume, but it preserves the appearance of an accessible interior at a particular moment. Close observation adds more than the general adjective “mysterious,” which might be applied to almost any dark cave. Here the steps, stone, light and timber make the impression specific, offering several details to return to after the first dramatic view has passed."
+          },
+          "sourceIds": [
+            "photo-konyr-interior",
+            "kieli"
+          ],
+          "imageIds": [
+            "konyr-interior"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Подземная вода и притяжение невидимого",
+            "kk": "Жерасты суы және көрінбейтін тереңдік",
+            "en": "Underground water and the attraction of hidden space"
+          },
+          "body": {
+            "ru": "В описаниях Қоңырәулие важную роль играет подземный водоём. Вода соединяет видимую поверхность и скрытую глубину: свет отражается, очертания дна различимы не везде, а граница между воздухом и водой меняет привычное ощущение пространства. Этот визуальный опыт помогает понять, почему именно водоём оказался центром рассказов о пещере.\n\nТуристические каталоги приводят отдельные размеры и характеристики. Но сами по себе каталожные числа не заменяют гидрологического исследования, а фотография не позволяет проверить постоянство уровня или температуры. Для нашей истории достаточно документированного основного факта: культурное значение места связано с пещерой и находящейся в ней водой. Всё остальное требует своего вида свидетельств.\n\nУ подземного водоёма есть и культурная сторона. То, что трудно увидеть целиком, часто становится сильным поводом для повествования. Человек объясняет необычное место через знакомые образы, поступки героев и рассказы предшественников. Поэтому рядом с природным описанием возникает предание, а затем — новые воспоминания посетителей. Здесь особенно интересно не выбирать единственный «правильный» язык для всех впечатлений, а замечать, как работают разные языки: фотограф показывает поверхность, каталог описывает объект, рассказчик связывает его с человеческим опытом и надеждой.",
+            "kk": "Қоңырәулие сипаттамаларында жерасты көлі маңызды орын алады. Су көрінетін бетті жасырын тереңдікпен жалғайды: жарық шағылады, түбі барлық жерде бірдей білінбейді, ауа мен су шекарасы кеңістікті қабылдауды өзгертеді. Осындай тәжірибе көлдің үңгір туралы әңгімелердің ортасына неге айналғанын түсінуге көмектеседі.\n\nТуристік каталогтар жекелеген өлшем мен сипаттама береді. Каталогтағы сан гидрологиялық зерттеуден басқа дерек түріне жатады. Фотосурет те су деңгейі немесе температураның тұрақтылығын емес, бір сәтті көрсетеді. Бұл әңгіме үшін негізгі дәлелденген байланыс — үңгірдің мәдени мәні мен оның ішіндегі су. Қалған сұрақтардың әрқайсысына тиісті зерттеу тәсілі қажет.\n\nЖерасты суының баяндау жағы да бар. Толық көру қиын мекенді адам таныс бейне, кейіпкер әрекеті және бұрынғылардан естіген әңгіме арқылы түсіндіреді. Табиғи нысан сипаттамасына аңыз, одан кейін жаңа келушілер естелігі қосылады. Бірнеше тіл қатар жұмыс істейді: фотограф көрінетін бетті сақтайды, каталог нысанды сипаттайды, айтушы оны адам тәжірибесі мен үмітіне байланыстырады. Біреуінен бәрін түсіндіруді талап етпей, олардың қалай тоғысқанын байқау мекенді тереңірек ашады. Су осылай табиғи көрініс әрі әңгімелер тоғысқан нүкте болып қалады.",
+            "en": "An underground pool has a central place in descriptions of Konyr Aulie. Water connects a visible surface with hidden depth. Light reflects, the bottom is not equally clear everywhere, and the boundary between air and water changes the way a space is perceived. Such experiences help explain the pool’s importance in stories about the cave.\n\nTourism catalogues supply individual dimensions and characteristics. Catalogue figures, however, are a different kind of evidence from a hydrological study. A photograph also records only one moment rather than the constancy of a water level or temperature. The documented point essential to this story is the cultural connection between the cave and the water within it.\n\nThere is a narrative side to underground water as well. A place that cannot easily be seen in its entirety invites explanation through remembered stories, familiar images and meaningful human actions. An account of a natural feature can acquire a tradition, followed by new memories of visits. Several forms of description then coexist. A photographer preserves visible surfaces, a catalogue describes the site, and a storyteller relates it to experience and hope. Looking at how these forms work together is more revealing than asking one of them to explain everything about the place."
+          },
+          "sourceIds": [
+            "konyr",
+            "kieli"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Предание о трёх братьях",
+            "kk": "Үш ағайынды туралы аңыз",
+            "en": "The tradition of three brothers"
+          },
+          "body": {
+            "ru": "Kazakhstan.travel пересказывает предание, связывающее название пещеры с Қоңыром и его братьями Қыраном и Құланом. Действие помещено во время всемирного потопа. В этой версии братья помогают спасению живых существ, оказываются на брёвнах, а волны разносят их в разные стороны. Место, куда прибивает Қоңыра, получает связь с его именем.\n\nПеред нами фольклорный способ объяснить название и значимость ландшафта. Необычная скала входит в человеческую историю, а поступок героя придаёт месту нравственный смысл. Слушателю предлагают запомнить не геологический процесс, а помощь другим, риск и память о человеке. Поэтому сюжет способен передаваться дальше даже там, где никто не видел саму пещеру.\n\nВажно сохранить в пересказе именно его статус предания. Он не является датированным свидетельством природного потопа в Актасе и не устанавливает возраст пещеры. Но как культурный материал он заслуживает внимания: показывает, какие образы делают место значимым для рассказчиков. Сравнивая разные версии, можно заметить, какие детали остаются устойчивыми, а какие меняются. В такой работе расхождение не обязательно означает ошибку. Оно может говорить о жизни устного сюжета, который существует в исполнении людей, а не только в единственной напечатанной строке.",
+            "kk": "Kazakhstan.travel үңгір атауын Қоңыр және оның бауырлары Қыран мен Құланға байланыстыратын аңызды баяндайды. Оқиға дүниені су басқан кезеңге орналастырылады. Бұл нұсқада ағайындылар тіршілік иелерін құтқаруға көмектесіп, бөренелерге байланады; толқын оларды әр жаққа әкетеді. Қоңыр жеткен мекен оның есімімен байланысады.\n\nБұл — ландшафттың атауы мен маңызын түсіндіретін фольклорлық жол. Ерекше табиғи орын адамдық оқиғаға енеді, ал кейіпкер әрекеті оған өнегелік мағына береді. Көмектесу, тәуекел және адамды есте сақтау тас туралы дерексіз сипаттамадан оңайырақ әңгімеленеді. Сондықтан үңгірді көрмеген адамдар арасында да сюжет тарала алады. Оның күші тек географиялық дәлдікте емес, адамдарға түсінікті әрекет пен сезімде жатыр.\n\nАңыздың құндылығы Ақтастағы табиғи топан судың даталанған куәлігі болуында емес, мәдени мағынасында. Ол айтушылардың қай бейне арқылы мекенді маңызды санайтынын көрсетеді. Нұсқаларды салыстыру тұрақты және өзгермелі бөлшектерді ашады. Айырмашылық тірі ауызша дәстүрдің белгісі болуы мүмкін: әр айтушы мен тыңдаушы оған өз жағдайында кездеседі. Осылайша үңгірдің физикалық географиясымен қатар әңгімені жеткізген қауымдар мен әңгімелесулердің картасы пайда болады. Екеуі де Қоңырәулие атауының ұзақ сақталған тартымын түсіндіруге қатысады.",
+            "en": "Kazakhstan.travel retells a tradition connecting the cave’s name with Konyr and his brothers Kyran and Kulan. The story is set during a world-engulfing flood. The brothers assist in saving living creatures, find themselves on logs, and are carried apart by the waves. The place where Konyr reaches land becomes connected with his name.\n\nThis is a folkloric explanation of the significance of a landscape. An unusual natural place enters a human story, and the hero’s actions give it a moral dimension. Assistance, risk and remembrance become easier to carry in a narrative than an abstract description of rock. The tale can therefore travel among people who have never visited the cave themselves.\n\nIts value remains cultural rather than a dated record of a natural flood at Aqtas. It shows which images make the place meaningful to its tellers. Comparing versions can reveal details that remain stable and others that change. Variation may be evidence of a living oral tradition, continuing through the choices of successive narrators and audiences. This gives the cave a second kind of geography: alongside its physical setting are the communities and conversations through which its story has travelled. Both help explain the lasting attraction of the name."
+          },
+          "sourceIds": [
+            "konyr",
+            "kieli"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Место веры и место исследования",
+            "kk": "Сенім мен зерттеу кездесетін мекен",
+            "en": "A place of belief and inquiry"
+          },
+          "body": {
+            "ru": "Kieli.kz описывает Қоңырәулие как место паломничества и передаёт рассказы о надеждах, с которыми к нему обращаются. В этих материалах можно встретить представления об исцелении и особых свойствах воды. Для исторического рассказа это свидетельства верований и практик: они показывают, какой смысл люди придают посещению.\n\nТакие свидетельства не превращаются автоматически в медицинское доказательство. В туристическом тексте может стоять уверенная фраза о «целебной воде», но научное утверждение требует опубликованного исследования с понятным методом. Поэтому здесь мы рассказываем о культурной традиции, не обещая лечебного результата и не выдавая надежду человека за установленное свойство природного объекта.\n\nРазличение делает историю богаче. Уважение к людям, для которых место священно, совместимо с точностью языка. Можно описать тишину, путь, обрядовое значение и передаваемый рассказ, не придумывая ни чудес, ни объяснений того, что ещё не исследовано. Пещера остаётся одновременно физическим пространством и местом человеческих отношений с ним. Для одного посетителя главным окажется природный интерьер, для другого — семейная история посещения, для третьего — фольклор. Ни одна фотография не вмещает все эти отношения, но каждая может дать повод их заметить.",
+            "kk": "Kieli.kz Қоңырәулиені зиярат орны ретінде сипаттап, оған келуге байланысты үміттерді жазады. Материалдарда шипа және суға телінетін ерекше қасиеттер туралы түсініктер кездеседі. Мәдени тарих үшін бұлар — сенімдер мен тәжірибелердің куәсі: адамдар мекенге қандай мағына бергенін көрсетеді.\n\nОсындай куәлік медициналық зерттеуден басқа міндет атқарады. Туристік мәтіндегі сенімді сөйлем емдік әсерді өздігінен дәлелдемейді. Ғылыми тұжырым жарияланған айғақ пен түсінікті әдісті талап етеді. Сондықтан бұл әңгіме дәстүрді таныстырады, бірақ ем нәтижесін уәде етпейді және адамның үмітін судың тексерілген қасиеті ретінде ұсынбайды. Сенімге құрмет пен деректің нақтылығы қатар сақтала алады.\n\nОсы айырмашылық әңгімені байытады. Жол, тыныштық, келудің мәні және басқа адамға жеткізілген әңгіме өз алдына құжаттауға тұрарлық. Бір келушіге табиғи интерьер маңызды, екіншісіне отбасылық естелік, үшіншісіне фольклор жақын болуы мүмкін. Үңгір физикалық кеңістік әрі осындай адамдық қатынастар тоғысқан орын болып қалады. Олардың бәрі бір фотоға сыймайды. Бірақ дұрыс сипатталған сурет сол қатынастардың барын аңғартып, табиғи нысанның айналасында мәдени өмір қалай қалыптасатынын көруге жол ашады. Мекен туралы білім де, оған қатысты жеке сезім де осылай өз орнын табады.",
+            "en": "Kieli.kz describes Konyr Aulie as a pilgrimage place and records hopes associated with visits. Its material includes traditions about healing and special qualities attributed to the water. For a cultural history, these accounts are evidence of beliefs and practices: they show the meaning people give to a place.\n\nSuch testimony has a different purpose from medical research. A confident phrase in a tourism description does not establish a therapeutic effect. A scientific claim requires published evidence and an identifiable method. The story here therefore presents the tradition without promising a health outcome or turning an individual’s hope into a verified property of the water.\n\nThis distinction makes room for a richer account. Respect for a place held sacred can coexist with precision in description. The path, the silence, the significance of a visit and the story handed down to another person are all subjects worth documenting. For one visitor the natural interior may matter most, for another a family memory, and for a third the folklore. The cave remains a physical space and also a meeting point for these different human relationships. No single photograph contains them all, but a carefully described image can open a way towards recognizing their presence."
+          },
+          "sourceIds": [
+            "kieli",
+            "konyr"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Три изображения вместо одной легенды",
+            "kk": "Үш сурет және жалғасатын әңгіме",
+            "en": "Three photographs and a continuing story"
+          },
+          "body": {
+            "ru": "В этой истории собраны фотографии подхода, входа и интерьера. Все они современные, и это обозначено в подписях. Мы не подменяем ими неизвестный облик пещеры в далёком прошлом. Зато получаем последовательность реальных пространств, по которой можно мысленно пройти от открытого ландшафта к внутреннему объёму.\n\nПопробуйте прочитать снимки как короткий рассказ без текста. На первом направление задаёт путь, на втором — ступени и вход, на третьем — лестница, лампы и камень. Внешняя местность не исчезает из истории: она подготавливает контраст, без которого интерьер был бы всего лишь отдельным тёмным кадром. Так несколько документальных изображений объясняют место лучше, чем одна эффектная заставка.\n\nЗатем верните к ним предание о Қоңыре. Оно добавляет человеческий сюжет, но не заменяет того, что видно на снимках. Между этими слоями и возникает особая сила Қоңырәулие: конкретная гора, необычное внутреннее пространство и история, которую люди продолжают передавать. После чтения можно выбрать собственную деталь для повторного взгляда — форму входа, переход света или расположение деревянной лестницы. Такая деталь останется опорой, когда громкие эпитеты забудутся, а интерес к месту захочется продолжить новым вопросом.",
+            "kk": "Бұл тарихта үңгірге баратын жолдың, кіреберістің және ішкі кеңістіктің фотолары жиналған. Үшеуі де қазіргі сурет, олардың даталары астында көрсетілген. Олар ашық ландшафттан тас ішіне дейінгі нақты кеңістіктер тізбегін ойша өтуге мүмкіндік береді. Бір ғана әсерлі кадрдың орнына қозғалысы бар шағын әңгіме пайда болады.\n\nСуреттерді мәтінсіз оқып көріңіз. Біріншісінде бағытты жол, екіншісінде саты мен кіреберіс, үшіншісінде баспалдақ, шам және тас береді. Сыртқы мекен тарихтан жоғалмайды: ол ішкі кеңістік әсерін дайындайды. Сол айырма болмаса, интерьер бөлек тұрған қараңғы көрініс қана болар еді. Бірнеше деректі сурет мекен мінезін жалғыз заставкадан жақсырақ түсіндіреді.\n\nЕнді оларға Қоңыр туралы аңызды қайта қосыңыз. Ол көрінетін бөлшектерді алмастырмай, адамдық сюжетті толықтырады. Осы қабаттардың арасында Қоңырәулиенің ерекше әсері туады: нақты тау, өзгеше ішкі кеңістік және адамдар жеткізуді жалғастырған әңгіме. Екінші қарауға шағын бөлшек таңдаңыз — кіреберіс пішіні, жарық пен тастың шекарасы немесе ағаш сатының орны. Үлкен теңеулер ұмытылғанда сол нақты белгі есте қалуы мүмкін. Ол жаңа сурет, басқа нұсқа немесе тағы бір сұрақ арқылы мекенге қызығушылықты жалғастырудың сенімді бастауы болады.",
+            "en": "This account brings together images of the approach, entrance and interior. All are contemporary photographs, with dates in their captions. Together they offer a sequence of real spaces that can be followed imaginatively from the open landscape into the rock.\n\nRead the photographs briefly without the accompanying text. The first is organized by the path, the second by steps and an entrance, and the third by a staircase, lamps and stone. The outer landscape prepares a contrast without which the interior would be just another isolated dark frame. Several documentary views can explain the character of a place more effectively than a single dramatic cover image.\n\nNow return the story of Konyr to those views. It adds a human narrative without replacing the visible detail. Between the layers lies the particular force of Konyr Aulie: a definite mountain, an unusual inner space and a story that people continue to pass on. Choose something small for a second look, perhaps the shape of the entrance or the meeting of light and rock. Such a detail can remain useful after the grand descriptive words have faded. It offers a firm starting point from which interest in the place can continue through another image, account or question."
+          },
+          "sourceIds": [
+            "photo-konyr-path",
+            "photo-konyr-entrance",
+            "photo-konyr-interior",
+            "kieli"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "konyr",
+        "kieli",
+        "photo-konyr-path",
+        "photo-konyr-entrance",
+        "photo-konyr-interior"
+      ],
+      "detail": {
+        "ru": "Найдите границу между тем, что показывает фотография, и тем, что сообщает предание. Оба слоя имеют свои источники.",
+        "kk": "Фото көрсеткен дерек пен аңыз айтқан мәліметтің айырмасын табыңыз. Екі қабаттың да өз дереккөзі бар.",
+        "en": "Notice what the photograph shows and what the tradition tells. Each layer has a different source."
+      }
+    },
+    {
+      "id": "kozy",
+      "name": {
+        "ru": "Қозы Көрпеш — Баян Сұлу",
+        "kk": "Қозы Көрпеш — Баян Сұлу",
+        "en": "Kozy Korpesh — Bayan Sulu"
+      },
+      "subtitle": {
+        "ru": "История любви. Язык камня.",
+        "kk": "Махаббат тарихы. Тас тілі.",
+        "en": "A story of love, told in stone."
+      },
+      "short": {
+        "ru": "Средневековая архитектура и один из известных эпосов казахской культуры.",
+        "kk": "Ортағасырлық сәулет және қазақ мәдениетінің әйгілі жырларының бірі.",
+        "en": "Medieval architecture and a renowned epic of Kazakh culture."
+      },
+      "era": {
+        "ru": "Средневековое наследие",
+        "kk": "Ортағасырлық мұра",
+        "en": "Medieval heritage"
+      },
+      "image": "/media/kozy.jpg",
+      "imageCredit": "Mikhail Antonov / Xeofox · 2015 · CC BY-SA 4.0",
+      "imageSource": "photo-kozy",
+      "coordinate": [
+        79.70347,
+        47.29411
+      ],
+      "coordinateNote": {
+        "ru": "Ориентир туристического каталога. Для поездки уточняйте положение объекта.",
+        "kk": "Туристік каталог бағдары. Сапар үшін нысан орнын нақтылаңыз.",
+        "en": "An orientation point from the tourism catalogue. Confirm the location before travelling."
+      },
+      "tours": [],
+      "sections": [
+        {
+          "title": {
+            "ru": "Силуэт, который удерживает взгляд",
+            "kk": "Көз тоқтататын сұлба",
+            "en": "A silhouette that holds the eye"
+          },
+          "body": {
+            "ru": "На фотографии мавзолей Қозы Көрпеш — Баян Сұлу выглядит особенно выразительно благодаря простой общей форме. Широкое основание постепенно сужается, а каменная поверхность поднимается над открытым пространством. Пока не названы герои эпоса, здание уже действует как знак: взгляд выделяет его из окружающего ландшафта.\n\nАрхеологический каталог связывает памятник с районом реки Аягоз и окрестностями Тансыка. Это конкретное сооружение, которое можно описывать по плану, строительному материалу и технике кладки. Его известность связана также с историей любви, но архитектура имеет собственный язык. Общий силуэт, устройство перехода к верху и размер входа заслуживают внимания независимо от сюжета.\n\nНачните с фотографии целиком, а затем приблизьте камень. Поверхность состоит из множества отдельных элементов, и монументальная форма возникает из их постепенного соединения. Такой переход от общего к частному меняет впечатление: то, что издалека кажется единым объёмом, вблизи раскрывает ручной строительный труд. Снимок 2015 года показывает состояние памятника в определённый момент. Это не вид эпохи строительства и не точная иллюстрация того, что наблюдали исследователи XIX века, но хороший исходный материал для внимательного знакомства с формой.",
+            "kk": "Қозы Көрпеш — Баян Сұлу кесенесінің жалпы пішіні бірден назар аударады. Кең негіз жоғарылаған сайын тарылады, тас құрылым ашық кеңістіктен биіктеп көрінеді. Эпос кейіпкерлерінің есімдері айтылмай тұрып-ақ ғимарат пішіні мен өлшемі арқылы бағдарға айналады. Ол айналасынан айқын бөлініп тұрады.\n\nАрхеологиялық каталог ескерткішті Аягөз өзені маңы және Таңсық төңірегімен байланыстырады. Бұл — жоспары, материалы және құрылыс тәсілі арқылы сипаттауға болатын нақты нысан. Оның даңқы махаббат хикаясымен ұштасқанымен, сәулеттің өз тілі бар. Кіреберіс, сыртқы контур және жоғарғы бөлікке өтуі жеке назарға лайық. Сюжетке дейін де осы пішінде зерттеуге тұрарлық сұрақ жеткілікті.\n\nӘуелі фотосуретті тұтас көріп, содан кейін тасқа жақындаңыз. Үлкен көлем көптеген жеке элементтің қосылуынан пайда болған. Алыстан біртұтас көрінген дене жақындағанда құрылыс еңбегін ашады. 2015 жылғы фото ескерткіштің белгілі бір сәттегі күйін тіркейді. Ол пішінді танып-білудің жақсы бастауы, сонымен бірге нысан тарихын зерттеген бұрынғы бақылау мен жазбаларға орын қалдырады. Алғашқы әсер осылай есте қалатын сұлбадан құрылыс туралы нақты сұраққа ауысады. Тастың орналасуы мен жалпы көлем бір-бірін түсіндіре бастайды.",
+            "en": "The mausoleum of Kozy Korpesh–Bayan Sulu has an immediately striking outline. A broad base narrows as the stone rises above the open landscape. Before the heroes of the epic are named, the building already acts as a landmark, separating itself from its surroundings through form and scale.\n\nThe archaeological catalogue places the monument in the Ayagoz River area near Tansyk. It is a physical structure that can be described through plan, materials and building technique. Its fame also depends on a love story, but the architecture has a language of its own. The entrance, outline and transition towards the top deserve attention in themselves.\n\nBegin with the full photograph, then look closer at the stone. A monumental form emerges from the joining of many separate elements. What appears from a distance as one continuous mass reveals the labour of building when seen nearby. The photograph was taken in 2015 and records the monument at a particular moment. It offers a solid starting point for examining its shape while leaving room for the older observations and records through which its history has been studied."
+          },
+          "sourceIds": [
+            "kozy",
+            "archaeology-register"
+          ],
+          "imageIds": [
+            "kozy-stone"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Как квадрат превращается в сужающийся верх",
+            "kk": "Төртбұрышты негіз жоғары қарай қалай тарылады?",
+            "en": "How a square base becomes a narrowing crown"
+          },
+          "body": {
+            "ru": "В описании Archaeology.kz переход от квадратного основания к коническому завершению объясняется постепенно сужающейся ступенчатой кладкой из камня-плитняка. Это короткая фраза, за которой стоит интересная пространственная задача: как перекрыть помещение, пользуясь отдельными каменными элементами и последовательно уменьшая просвет?\n\nЧтобы представить принцип, не обязательно строить воображаемый идеальный купол. Рассмотрите, как общий контур изменяется по высоте. Каждая следующая зона немного приближает стены к центру, и постепенность создаёт завершение, отличное от привычной полусферы. Описание помогает заметить на фотографии то, что при первом взгляде выглядит просто «башней из камня».\n\nДекоративная бедность здесь обманчива. Даже без большого числа орнаментов сооружение может быть архитектурно сложным: выразительность возникает из пропорций, изменения объёма и характера материала. При этом современная геометрическая модель передаёт лишь принцип формы. Она не восстанавливает автоматически все исторические размеры, утраты и строительные подробности. Полезнее сопоставить схему с реальным снимком и заметить различия. У фотографии есть неровная поверхность и след времени; у модели — ясность общей идеи. Вместе они помогают обсуждать архитектуру, если не выдавать учебное упрощение за измеренную реконструкцию памятника.",
+            "kk": "Archaeology.kz төртбұрышты негізден конус тәрізді жоғарғы бөлікке өтуді жалпақ тастан біртіндеп ішке қарай тарылта қаланған сатылы құрылым деп түсіндіреді. Қысқа сипаттаманың артында қызық кеңістік міндеті жатыр: жеке тас элементтерін қолданып, ашық аралықты кішірейте отырып бөлмені қалай жабуға болады?\n\nСыртқы контурды төменнен жоғары бақылаңыз. Әр келесі бөлік орталыққа жақындайды; біртіндеп таныс жарты шарға ұқсамайтын аяқталу туады. Осы түсіндіру алғашқы қарауда жай «тас мұнара» болып көрінген нәрсені байқатады. Үлкен оюсыз ғимарат та сәулеттік жағынан күрделі бола алады. Мұнда әсер пропорциядан, материалдан және көлемнің өзгеруінен пайда болады.\n\nҚарапайым цифрлық геометриялық үлгі жалпы қағиданы анық көрсетеді, ал фото нақты құрылыстың кедір-бұдыры мен сақталу күйін жеткізеді. Екеуін міндетін ажыратып салыстыру пайдалы. Үлгі түсінікті жалпы идея береді; сурет назарды жеке тасқа және уақыт ізіне қайтарады. Екеуі де өлшеуге сүйенген сәулеттік зерттеуді алмастырмайды. Бірақ бірге қарағанда сұлбаға таңданумен шектелмей, оны жасауға қажет шешім мен еңбекті ойлауға жол ашады. Кесене тек рәміздік бейне емес, нақты материалдан тұрғызылған құрылыс ретінде таныла түседі.",
+            "en": "Archaeology.kz describes the transition from the square base to the conical upper structure as progressively narrowing, stepped masonry made from slabs of stone. This short explanation points to an intriguing spatial problem: how can a room be covered by separate stone elements while the open span becomes smaller with height?\n\nFollow the outer contour upward. Successive zones move closer to the centre, gradually producing a completion different from a familiar hemispherical dome. The description directs attention towards something easily missed in the first impression of a “stone tower.” A building can be architecturally complex even when it has relatively little surface ornament.\n\nIts expression comes through proportion, material and a changing volume. A simple digital geometric model can clarify that overall principle, while a photograph preserves irregularities and the visible condition of the actual structure. Comparing them is productive when their different purposes are understood. The model offers an intelligible general idea; the photograph brings the eye back to particular stones and the traces of time. Neither replaces measured architectural research. Together, however, they allow a reader to move beyond admiration of a silhouette and begin thinking about the decisions and physical work that made it possible."
+          },
+          "sourceIds": [
+            "archaeology-register",
+            "unesco"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Почему в описаниях встречаются разные даты",
+            "kk": "Сипаттамалардағы даталар неге әртүрлі?",
+            "en": "Why descriptions give different dates"
+          },
+          "body": {
+            "ru": "У памятника нет читаемой строительной таблички, которая сразу завершила бы разговор о времени его появления. Археологический каталог рассказывает, что Алькей Маргулан уточнял датировку по мере изучения материалов: после исследования данных экспедиции 1952 года он относил сооружение к X–XI векам. В заявке предварительного списка UNESCO памятник рассматривается в более широком контексте раннесредневековой степной архитектуры.\n\nТакие различия показывают, как устроено историческое знание. Датировка может опираться на сравнение конструкций, археологический материал и интерпретацию культурного окружения. Новые наблюдения уточняют вывод, а не обязательно отменяют ценность прежней работы. Поэтому честное «относят к X–XI векам» содержательнее уверенного названия одного года, для которого нет соответствующего документа.\n\nЕсть и ещё одно время — время народного сюжета. Возраст эпоса, время предполагаемых событий и дата сооружения не обязаны совпадать. Между рассказом и зданием возникает связь памяти, но она не превращает литературный текст в строительный акт. Это различие особенно полезно здесь, где узнаваемая история любви легко забирает всё внимание. Когда мы удерживаем несколько временных слоёв, памятник становится интереснее: его можно изучать как архитектуру, как место повествования и как объект исследовательских споров, не сводя эти линии в одну простую дату.",
+            "kk": "Ескерткіште құрылыс уақытын бірден шешетін анық оқылатын тақтайша жоқ. Археологиялық каталог Әлкей Марғұланның зерттеу барысында даталауын нақтылағанын баяндайды. 1952 жылғы экспедиция материалдарын қарағаннан кейін ол нысанды X–XI ғасырларға жатқызған. UNESCO алдын ала тізіміне берілген өтінім оны ерте ортағасырлық дала сәулетінің кең аясында қарастырады.\n\nАйырмашылық тарихи білімнің қалай қалыптасатынын көрсетеді. Дата құрылыс салыстыруына, археологиялық материалға және мәдени ортаны түсіндіруге сүйенуі мүмкін. Жаңа байқау алдыңғы еңбектің құнын міндетті түрде жоймай, тұжырымды нақтылайды. Сондықтан дереккөзі көрсетілген уақыт аралығы дәлелі жоқ бір нақты жылдан мазмұндырақ. Зерттеу нәтижесі оған апарған әдіспен бірге маңызды.\n\nЭпостың өз уақыты бар. Әңгіменің жасы, ондағы оқиғаның болжалды кезеңі және құрылыстың датасы сәйкес келуге міндетті емес. Жады сюжет пен ғимаратты байланыстыра алады, бірақ әдеби мәтінді құрылыс құжатына айналдырмайды. Осы қабаттарды ажыратсақ, нысан сәулет ретінде, баяндау мекені ретінде және өзгерген зерттеу тақырыбы ретінде ашылады. Танымал махаббат хикаясы барлық сұрақтың дайын жауабы болмай, ескерткіш өмірінің маңызды бір желісі болып қалады. Бұл көпқабаттылық тарихты күрделендіріп қана қоймай, оған жаңа сұрақтар қоюды қызықты етеді.",
+            "en": "The monument has no readily readable building plaque that settles its date at a glance. The archaeological catalogue explains that Alkey Margulan revised his dating as research developed. After studying material from the 1952 expedition, he placed the structure in the tenth to eleventh centuries. The UNESCO Tentative List submission considers it within a broader early medieval steppe architectural tradition.\n\nThese differences reveal how historical knowledge is formed. A date can depend on constructional comparisons, archaeological evidence and interpretations of a cultural setting. New observations refine an argument without necessarily making earlier research worthless. A carefully attributed date range often conveys more information than an unsupported claim for one exact year.\n\nThe epic has a further chronology of its own. The age of a narrative, the time of its imagined events and the construction date need not coincide. Memory can connect a story and a building without turning literature into a construction record. Holding these layers apart allows more to be seen. The place can be studied as architecture, as a focus for narrative and as the subject of changing research. A famous love story then remains one significant strand in the monument’s life rather than the answer to every historical question."
+          },
+          "sourceIds": [
+            "archaeology-register",
+            "unesco"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Қозы и Баян: сюжет о верности и препятствии",
+            "kk": "Қозы мен Баян: кедергіден өтетін адалдық",
+            "en": "Kozy and Bayan: loyalty under pressure"
+          },
+          "body": {
+            "ru": "В известном народном эпосе судьбы Қозы Көрпеша и Баян Сұлу связаны обещанием их семей. Влюблённым приходится преодолевать разлуку и сопротивление окружающих, а соперником Қозы становится Қодар. Рассказ приходит к трагической развязке. Детали и порядок эпизодов различаются в версиях; именно поэтому знакомство с одним пересказом не исчерпывает жизнь эпоса.\n\nАрхеологический каталог приводит сюжет как предание, связанное с памятником. Для истории места важна эта связь: здание становится пространственной опорой рассказа. Любовь, которую невозможно показать прямо, получает видимую форму памяти — сооружение, к которому можно мысленно вернуться. При этом имена героев не служат археологическим доказательством содержимого каждой исторической могилы.\n\nВнимательное чтение позволяет заметить за общим определением «история любви» более сложные темы: обещание семьи и личный выбор, власть окружающих и верность другому человеку, действие и ответственность. Баян существует в сюжете не только как имя рядом с именем возлюбленного; её решения двигают повествование. Поэтому эпос продолжает вызывать отклик даже у читателя, которому неизвестны все старые формулы исполнения. Каменное здание и звучащий рассказ сохраняются разными способами, но вместе делают историю одной из самых узнаваемых в культурной памяти Казахстана.",
+            "kk": "Белгілі халық эпосында Қозы Көрпеш пен Баян Сұлудың тағдыры отбасыларының уәдесі арқылы байланысады. Ғашықтардың жолында айырылысу мен айналаның қарсылығы тұрады, Қодар Қозының бақталасына айналады. Оқиға трагедиялық аяқталуға келеді. Нұсқаларда бөлшектер мен эпизодтар реті өзгеріп отырады, сондықтан бір қысқа мазмұндама жырдың бүкіл өмірін қамтымайды.\n\nАрхеологиялық каталог сюжетті ескерткішке қатысты аңыз ретінде береді. Ғимарат көзге көрінбейтін әңгімені белгілі кеңістікке бекітеді. Махаббат пен еске алу ландшафтта оралуға болатын орын табады. Ал кейіпкерлердің есімдері әр тарихи жерлеудегі адамның археологиялық анықтамасы болып кетпейді. Сәулет пен баяндаудың байланысы олардың дербес сипатын сақтағанда да мағыналы.\n\n«Махаббат хикаясы» деген жалпы атаудан әрі оқысақ, басқа сұрақтар ашылады: отбасы уәдесі мен жеке таңдау, қоғамдық күш пен адамға адалдық, шешім мен салдар. Баянның әрекеттері сюжетті қозғайды; ол батыр есімінің жанындағы қосымша атау емес. Сондықтан жыр ескі орындау формулаларын білмейтін оқырманды да қызықтыра алады. Тас сәулет пен ауызша әңгіме әртүрлі жолмен сақталады, ал олардың байланысы мекенді Қазақстан мәдени жадының ең танылатын нүктелерінің біріне айналдырады. Әр оқылым осы байланыстың тағы бір қырын ашады.",
+            "en": "In the well-known epic, Kozy Korpesh and Bayan Sulu are linked by an agreement between their families. Separation and opposition stand in the way of their relationship, while Kodar becomes Kozy’s rival. The narrative reaches a tragic ending. Details and the sequence of episodes differ across versions, giving the epic a life beyond any single short retelling.\n\nThe archaeological catalogue presents the plot as a tradition associated with the monument. The building becomes a physical point to which an otherwise intangible story can return. Love and remembrance acquire a visible location in the landscape, while the named characters retain their place in narrative rather than serving as archaeological identifications of every burial.\n\nRead beyond the broad description of a love story and other questions emerge: a family promise and an individual choice, social power and personal loyalty, decisions and their consequences. Bayan’s actions help move the narrative; her name is more than a companion to that of the hero. These tensions can engage a reader unfamiliar with older performance formulas. Stone architecture and spoken storytelling survive in different ways, but their association helps make this one of Kazakhstan’s most recognizable places of cultural memory. Each return to the story can bring another aspect of that connection into view."
+          },
+          "sourceIds": [
+            "archaeology-register"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Что увидел Шокан Уалиханов",
+            "kk": "Шоқан Уәлиханов нені тіркеді?",
+            "en": "What Shoqan Walikhanov recorded"
+          },
+          "body": {
+            "ru": "Осенью 1856 года памятник посетил Шокан Уалиханов. Archaeology.kz отмечает, что благодаря ему сохранились ранние изображения сооружения и каменных изваяний. Это важный момент: исследователь фиксировал не только словесное предание, но и видимые предметы, которые могли измениться или исчезнуть.\n\nЗарисовка в полевых записях выполняет особую работу. Она сохраняет соотношение частей, характер силуэта и детали, на которые обратил внимание наблюдатель. Но рисунок всё же отличается от фотографии и обмера: в нём присутствует выбор автора, доступный ракурс и ограниченность времени. Для исследователя следующего поколения это ценный документ, который нужно читать вместе с другими свидетельствами.\n\nСовременный снимок мавзолея не заменяет изображения Уалиханова. Даже если оба показывают одно место, между ними лежит более полутора веков, история сохранения и возможных изменений. Поэтому здесь фотография подписана своим годом, а рассказ о рисунках существует как отдельный документальный слой. Когда ранняя фиксация сопоставляется с нынешним видом, появляется новый вопрос: что именно мы знаем о сохранности формы, а что только предполагаем? Такой вопрос превращает знаменитый памятник из готового ответа в предмет настоящего исследования и помогает понять ценность небольшого листа в дорожном архиве.",
+            "kk": "Шоқан Уәлиханов ескерткішке 1856 жылғы күзде барған. Archaeology.kz оның еңбегі арқылы құрылыс пен тас мүсіндердің ерте бейнелері сақталғанын атап көрсетеді. Зерттеуші тек аңызды емес, кейін өзгеруі немесе жоғалуы мүмкін көрінетін заттарды да тіркеген. Осы бақылау нысанның кейінгі тарихы үшін құнды болып шыққан.\n\nДалалық сурет ерекше міндет атқарады. Ол сұлбаны, бөліктердің арақатынасын және бақылаушы таңдаған белгілерді сақтайды. Сонымен бірге қолжетімді ракурс, автор шешімі және жазып алудың жағдайы әсер етеді. Кейінгі зерттеуші оны қазіргі өлшем сызбасы деп емес, сипаттама, фото және басқа куәлікпен қатар оқылатын құжат деп қарайды. Әр тәсіл өткеннің басқа жағын жеткізеді.\n\nОсы тарихтағы қазіргі фотосуреттің өз датасы мен міндеті бар. Оны Уәлиханов сапарынан бір жарым ғасырдан астам уақыт, сақтау жұмыстары және ықтимал өзгерістер бөліп тұр. Әртүрлі тіркеуді ойлау маңызды сұрақ ашады: пішіннің жалғастығы туралы нені анықтай аламыз, қайсысы түсіндіру күйінде қалады? Кесене танылатын бейне ғана емес, зерттеу нысанына айналады. Жолаушы мұрағатындағы шағын парақ кейінгі ұрпақ ешқашан өз көзімен көре алмаған күйді сақтауы мүмкін. Оның бағасы дәл сол ертерек жасалған назар мен бақылауда жатыр.",
+            "en": "Shoqan Walikhanov visited the monument in autumn 1856. Archaeology.kz emphasizes the early images preserved through his work, including depictions of the structure and stone figures. A researcher was recording both the associated tradition and visible objects whose condition could subsequently change.\n\nA field drawing does a particular kind of work. It preserves an outline, the relationships between parts and features chosen by the observer. At the same time, it reflects an available viewpoint, the artist’s decisions and the circumstances of recording. Later researchers read it alongside descriptions, photographs and other evidence rather than treating it as a modern measured survey.\n\nThe contemporary photograph in this story has its own date and purpose. More than a century and a half separates it from Walikhanov’s visit, including the history of maintenance and possible changes to the site. Thinking about those different records opens a valuable question: what can be established about continuity of form, and what remains an interpretation? The monument becomes an object of inquiry as well as recognition. A small sheet in a traveller’s archive can matter greatly because it holds an observation made before later generations had any opportunity to see the place for themselves."
+          },
+          "sourceIds": [
+            "archaeology-register"
+          ],
+          "imageIds": [
+            "walikhanov-portrait"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Ранние святилища и заявка UNESCO",
+            "kk": "Дала ғибадат орындары және UNESCO өтінімі",
+            "en": "Steppe sanctuaries and the UNESCO submission"
+          },
+          "body": {
+            "ru": "28 октября 2025 года Казахстан подал в предварительный список UNESCO заявку о ранних степных монументальных сооружениях и святилищах. В неё включён мавзолей Қозы Көрпеш — Баян Сұлу наряду с другими памятниками. Предварительный список обозначает этап представления наследия страной; это ещё не включение во Всемирное наследие.\n\nЗаявка предлагает рассматривать памятник в сравнительном ряду: как общество создаёт большие каменные формы для памяти и ритуала. Такой взгляд расширяет привычную историю двух влюблённых. На первый план выходят конструкция, место в ландшафте и возможные функции сооружения. При этом интерпретации в заявке принадлежат представившей её стороне и не должны выглядеть как окончательное решение всех научных вопросов.\n\nДля читателя это возможность увидеть, как локальная история выходит в международный разговор, сохраняя конкретность. Сравнение не означает, что все башни были одинаковы или строились с одной целью. Оно помогает исследовать сходства и различия: квадратный либо круглый план, камень либо кирпич, положение входа, отношение к окружающим захоронениям. Мавзолей продолжает быть узнаваемым местом казахского эпоса, но одновременно становится частью большого вопроса о степной архитектуре. Эти роли не исключают друг друга, если каждому утверждению оставлять его источник и точный статус.",
+            "kk": "Қазақстан 2025 жылғы 28 қазанда ерте дала ескерткіштері мен ғибадат орындарының тобын UNESCO алдын ала тізіміне ұсынды. Сол өтінімге Қозы Көрпеш — Баян Сұлу кесенесі де енген. Алдын ала тізім мемлекет мұрасын таныстырудың бір кезеңін білдіреді; Дүниежүзілік мұра тізіміне енгізілу — басқа мәртебе.\n\nӨтінім нысанды салыстырмалы сәулеттік әңгімеге қосады. Қоғамдар үлкен тас құрылыстарға еске алу және ғұрыптық мағынаны қалай берген деген сұрақ қойылады. Таныс екі ғашық хикаясының жанына құрылыс, ландшафт және ықтимал қызмет туралы мәселелер келеді. Өтінімдегі түсіндіруді ұсынған мемлекеттің көзқарасы ретінде, жалғасып жатқан зерттеу сұхбатының ішінде қарау керек.\n\nСалыстыру айырмашылықты да ашады. Нысандар төртбұрышты не дөңгелек жоспарлы болуы, тас не кірпіш қолдануы, кіреберісті әртүрлі орналастыруы, айналадағы қорыммен түрлі қатынас жасауы мүмкін. Оларды бірге зерттеу бәрі бірдей міндет атқарды деуді қажет етпейді. Оқырман жергілікті сюжеттің нақты сипатын сақтап, халықаралық әңгімеге қалай енгенін көреді. Кесене қазақ эпосының танылатын мекені болып қала отырып, дала сәулеті мен көрнекі жады пішіндері туралы кең сұраққа да үлес қосады. Екі рөлдің қатар болуы мұраға жаңа тұрғыдан қарауға мүмкіндік береді.",
+            "en": "On 28 October 2025 Kazakhstan submitted a group of early steppe monuments and sanctuaries to the UNESCO Tentative List. The Kozy Korpesh–Bayan Sulu mausoleum is included in that proposal. A Tentative List submission is a stage in a state’s presentation of heritage, distinct from inscription on the World Heritage List.\n\nThe submission places the monument in a comparative architectural discussion. It asks how societies gave large stone structures commemorative and ritual meaning. The familiar story of two lovers is joined by questions about construction, landscape and possible functions. Interpretations in a submission belong to its presenting state and remain part of a continuing research conversation.\n\nComparison also makes differences visible. Structures may have square or round plans, use stone or brick, arrange entrances differently or relate in various ways to nearby burial grounds. They need not share an identical purpose in order to be studied together. For a reader, this is an opportunity to see a local story enter a wider international discussion while keeping its specific character. The mausoleum remains a recognized place of Kazakh epic, and at the same time contributes to a broader investigation of steppe architecture and the ways communities create visible forms of memory."
+          },
+          "sourceIds": [
+            "unesco",
+            "archaeology-register"
+          ]
+        },
+        {
+          "title": {
+            "ru": "Памятник между камнем, рассказом и архивом",
+            "kk": "Тас, әңгіме және мұрағат арасындағы ескерткіш",
+            "en": "Between stone, narrative and archive"
+          },
+          "body": {
+            "ru": "У этой истории есть три устойчивые опоры. Камень позволяет обсуждать форму и строительство. Эпос сохраняет человеческий сюжет и его эмоциональную силу. Архив фиксирует, как памятник видели и описывали в разное время. Сложность начинается там, где от одной опоры требуют ответить сразу за все остальные.\n\nКрасивое предание не датирует кладку, а фотография не раскрывает всех вариантов эпоса. Зато их сопоставление даёт возможность двигаться дальше. После чтения сюжета иначе воспринимается силуэт башни; после знакомства с конструкцией становится заметнее труд строителей; после рассказа об Уалиханове нынешний снимок перестаёт казаться единственным возможным видом места.\n\nВернитесь к фотографии целиком и выберите одну деталь: линию сужения, вход или неровный шов между плитами. Затем попробуйте описать её без слова «древний». Такой опыт заставляет говорить точнее и обнаруживать собственное наблюдение. После этого к детали можно вернуть известные имена, датировки и рассказы. Памятник уже не будет условной иллюстрацией романтической легенды. Он останется материальным сооружением с долгой жизнью, которое люди продолжали описывать, объяснять и сохранять. Именно соединение разных способов внимания позволяет этой истории быть больше короткой подписи о любви и трагедии.",
+            "kk": "Бұл тарихтың үш тірегі бар. Тас пішін мен құрылыс туралы сұрақ ашады. Эпос адамдық сюжетті және оның сезімдік күшін сақтайды. Мұрағат мекеннің әр уақытта қалай байқалып, сипатталғанын тіркейді. Әрқайсысына өз міндетін бергенде олар жеке-жеке де, бірге де құнды болады.\n\nМахаббат хикаясы қалау датасын анықтамайды, ал фото эпостың барлық нұсқасын қамтымайды. Бірақ салыстыру ойды ілгері жылжытады. Сюжетті оқығаннан кейін мұнара сұлбасы басқаша қабылданады; құрылыс тәсілі шеберлер еңбегін байқатады; Уәлиханов сапары қазіргі суретті жалғыз мүмкін көрініс емес, бірнеше тіркеудің бірі ретінде танытады. Бір қабат екіншісін толықтырады.\n\nТұтас бейнеге қайта оралып, бөлшек таңдаңыз: тарылатын контур, кіреберіс немесе плиталар арасындағы тегіс емес жігі. Оны «көне» сөзін қолданбай сипаттап көріңіз. Бұл өз байқауыңызды нақты айтуға мәжбүр етеді. Содан кейін есім, уақыт аралығы және зерттеу пікірін қайта қосыңыз. Ескерткіш эпоспен сезімдік байланысын сақтап, ұзақ әрі өзгерген өмірі бар материалдық құрылыс болып қалады. Ұрпақтар оған қараған, түсіндірген, сақтауға күш жұмсаған. Сол әртүрлі назар тәсілдерінің қосылуы бұл мекенді махаббат пен қасірет туралы қысқа жазудан әлдеқайда кең тарихқа айналдырады. Әрі қарайғы сұрақтың бастауы өзіңіз байқаған нақты таста жатуы мүмкін.",
+            "en": "Three kinds of evidence support this story. Stone opens questions about form and construction. The epic preserves a human narrative and its emotional power. An archive records how the place was observed and described at different times. Each offers something valuable when allowed its own task.\n\nA love story cannot date a course of masonry, and a photograph cannot contain every version of an epic. Their comparison, however, creates movement. The outline looks different after reading the narrative; an account of construction reveals the builders’ labour; Walikhanov’s visit makes the contemporary photograph one record among several rather than the only possible view.\n\nReturn to the whole image and choose a detail: the narrowing contour, the entrance or an uneven joint between slabs. Try describing it without using the word “ancient.” This asks for a more precise observation of your own. Then bring back the names, date ranges and research accounts. The monument can retain its emotional association with the epic while remaining a material structure with a long and changing life. Generations have looked at it, explained it and worked to preserve it. Their different kinds of attention allow the place to become more than a short caption about love and tragedy."
+          },
+          "sourceIds": [
+            "kozy",
+            "archaeology-register",
+            "unesco",
+            "photo-kozy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kozy",
+        "archaeology",
+        "unesco",
+        "photo-kozy",
+        "archaeology-register"
+      ],
+      "detail": {
+        "ru": "Посмотрите на силуэт: как квадратное основание переходит к сужающемуся верху? Найдите это в описании источника.",
+        "kk": "Сұлбаға қараңыз: төртбұрышты негіз жоғары қарай қалай тарылады? Жауапты дереккөз сипаттамасынан табыңыз.",
+        "en": "Look at the silhouette: how does the square base transition into the tapering top? Follow the description in the source."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "museum-structure",
+      "title": {
+        "ru": "История отделов музея-заповедника",
+        "kk": "Қорық-музей бөлімдерінің тарихы",
+        "en": "History of the reserve museum’s branches"
+      },
+      "organization": "Музей Абая «Жидебай-Бөрілі»",
+      "url": "https://abai-museum.kz/qurylym/?lang=ru",
+      "category": "museum"
+    },
+    {
+      "id": "loc-bazaar",
+      "title": {
+        "ru": "Базар в Семипалатинске, 1885–1886",
+        "kk": "Семей базары, 1885–1886",
+        "en": "Semipalatinsk bazaar, 1885–1886"
+      },
+      "organization": "Library of Congress · George Kennan papers",
+      "url": "https://www.loc.gov/item/99615488/",
+      "category": "archive"
+    },
+    {
+      "id": "abai-book-loc",
+      "title": {
+        "ru": "Первый сборник стихов Абая, 1909",
+        "kk": "Абайдың алғашқы өлеңдер жинағы, 1909",
+        "en": "Abai’s first poetry collection, 1909"
+      },
+      "organization": "Library of Congress · World Digital Library",
+      "url": "https://www.loc.gov/item/2021666152/",
+      "category": "archive"
+    },
+    {
+      "id": "photo-abai-book",
+      "title": {
+        "ru": "Музейный экземпляр сборника 1909 года",
+        "kk": "1909 жылғы жинақтың музейлік данасы",
+        "en": "Museum copy of the 1909 collection"
+      },
+      "organization": "Yakov Fedorov · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:First_Collection_of_Abay.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "dostoevsky-house",
+      "title": {
+        "ru": "Дом и семипалатинские годы Достоевского",
+        "kk": "Достоевскийдің үйі және Семейдегі жылдары",
+        "en": "Dostoevsky’s house and Semipalatinsk years"
+      },
+      "organization": "Литературно-мемориальный музей Ф. М. Достоевского",
+      "url": "https://dostoevsky.kz/vystavka-zdes-uliczy-hranyat-ego-shagi/",
+      "category": "museum"
+    },
+    {
+      "id": "photo-zhidebay-objects",
+      "title": {
+        "ru": "Сундуки в экспозиции Жидебая",
+        "kk": "Жидебай экспозициясындағы сандықтар",
+        "en": "Chests in the Zhidebay exhibition"
+      },
+      "organization": "Almagul Ibragimova · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Museum_exhibits_in_Zhidebay.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "auezov-history",
+      "title": {
+        "ru": "Экспозиция и творческая биография Ауэзова",
+        "kk": "Әуезов экспозициясы және шығармашылық өмірбаяны",
+        "en": "Auezov exhibition and literary biography"
+      },
+      "organization": "Дом-музей М. О. Ауэзова, Алматы",
+      "url": "https://auezovmuseum.kz/ru/history",
+      "category": "museum",
+      "note": {
+        "ru": "Материал алматинского музея о биографии писателя; музей в Бөрілі — отдельный объект.",
+        "kk": "Жазушы өмірбаяны туралы Алматы музейінің материалы; Бөрілідегі музей — бөлек нысан.",
+        "en": "Biographical material from the Almaty museum; the Borili house museum is a separate site."
+      }
+    },
+    {
+      "id": "auezov-biography",
+      "title": {
+        "ru": "Жизнь и творческая деятельность Мухтара Ауэзова",
+        "kk": "Мұхтар Әуезовтің өмірі мен шығармашылығы",
+        "en": "Mukhtar Auezov’s life and work"
+      },
+      "organization": "Мир Мухтара Ауэзова",
+      "url": "https://auezov.kz/page.php?lang=1&page_id=18",
+      "category": "archive"
+    },
+    {
+      "id": "theatre-1917",
+      "title": {
+        "ru": "История театра: постановка в Ойкудыке",
+        "kk": "Театр тарихы: Ойқұдықтағы қойылым",
+        "en": "Theatre history: the Oiqudyq performance"
+      },
+      "organization": "Управление культуры области Абай · Gov.kz",
+      "url": "https://www.gov.kz/memleket/entities/abay-cultura-arhiv/activities/26874?lang=ru",
+      "category": "archive"
+    },
+    {
+      "id": "photo-auezov-coin",
+      "title": {
+        "ru": "20 тенге к столетию Ауэзова, 1997",
+        "kk": "Әуезовтің жүз жылдығына арналған 20 теңге, 1997",
+        "en": "20-tenge Auezov centenary coin, 1997"
+      },
+      "organization": "National Bank of Kazakhstan · Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:KZ-1997-20tenge-Auezov.png",
+      "category": "photo"
+    },
+    {
+      "id": "photo-auezov-stamp",
+      "title": {
+        "ru": "Марка к 125-летию Ауэзова, 2022",
+        "kk": "Әуезовтің 125 жылдығына арналған марка, 2022",
+        "en": "Auezov 125th anniversary stamp, 2022"
+      },
+      "organization": "Kazpost · Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Mukhtar_Auezov_2022_stamp_of_Kazakhstan.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "photo-konyr-path",
+      "title": {
+        "ru": "Подход к Қоңырәулие в Актасе, 2018",
+        "kk": "Ақтастағы Қоңырәулиеге апаратын жол, 2018",
+        "en": "Approach to Konyr Aulie at Aqtas, 2018"
+      },
+      "organization": "Дмитрий Кошелев · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Way_to_Konyr_Aulie_04.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "photo-konyr-entrance",
+      "title": {
+        "ru": "Вход в Қоңырәулие, 2018",
+        "kk": "Қоңырәулие кіреберісі, 2018",
+        "en": "Konyr Aulie entrance, 2018"
+      },
+      "organization": "Дмитрий Кошелев · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Konyr_Aulie_upstairs_(center).jpg",
+      "category": "photo"
+    },
+    {
+      "id": "photo-konyr-interior",
+      "title": {
+        "ru": "Интерьер Қоңырәулие, 2018",
+        "kk": "Қоңырәулиенің іші, 2018",
+        "en": "Konyr Aulie interior, 2018"
+      },
+      "organization": "Yakov Fedorov · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Konyr_Aulie_East_Kz.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "archaeology-register",
+      "title": {
+        "ru": "Мавзолей: архитектура, изучение и эпос",
+        "kk": "Кесене: сәулеті, зерттелуі және эпос",
+        "en": "The mausoleum: architecture, research and epic"
+      },
+      "organization": "Archaeology.kz · реестр памятников",
+      "url": "https://archaeology.kz/ru/heritages/302-qozy-korpesh-bayan-sulu-kesenesi",
+      "category": "archive"
+    },
+    {
+      "id": "museum",
+      "title": {
+        "ru": "Памятники и история музейного комплекса",
+        "kk": "Музей кешенінің ескерткіштері мен тарихы",
+        "en": "Museum monuments and history"
+      },
+      "organization": "Жидебай-Бөрілі",
+      "url": "https://abai-museum.kz/respwblikanskie-pamyatniki/?lang=ru",
+      "category": "museum"
+    },
+    {
+      "id": "tours",
+      "title": {
+        "ru": "Панорамные экскурсии музея",
+        "kk": "Музейдің панорамалық саяхаттары",
+        "en": "Museum panoramic tours"
+      },
+      "organization": "Жидебай-Бөрілі",
+      "url": "https://abai-museum.kz/3d-twr/?lang=ru",
+      "category": "museum"
+    },
+    {
+      "id": "alash",
+      "title": {
+        "ru": "Из истории города Алаш",
+        "kk": "Алаш қаласының тарихынан",
+        "en": "From the history of Alash"
+      },
+      "organization": "Семей өлкетану музейі",
+      "url": "https://semeymuzey.kz/iz-istorii-goroda-alash/",
+      "category": "museum"
+    },
+    {
+      "id": "semey",
+      "title": {
+        "ru": "Дом Анияра Молдабаева",
+        "kk": "Әнияр Молдабаевтың үйі",
+        "en": "Aniyar Moldabayev’s house"
+      },
+      "organization": "Kazakhstan.travel",
+      "url": "https://kazakhstan.travel/ru/attractions/650",
+      "category": "museum"
+    },
+    {
+      "id": "zhidebay",
+      "title": {
+        "ru": "Дом-музей Абая в Жидебае",
+        "kk": "Жидебайдағы Абайдың үй-музейі",
+        "en": "Abai’s house museum in Zhidebay"
+      },
+      "organization": "Kazakhstan.travel",
+      "url": "https://kazakhstan.travel/ru/attractions/571",
+      "category": "museum"
+    },
+    {
+      "id": "borili",
+      "title": {
+        "ru": "Дом-музей Ауэзова в Бөрілі",
+        "kk": "Бөрілідегі Әуезовтің үй-музейі",
+        "en": "Auezov’s house museum in Borili"
+      },
+      "organization": "Kazakhstan.travel",
+      "url": "https://kazakhstan.travel/ru/attractions/647",
+      "category": "museum"
+    },
+    {
+      "id": "konyr",
+      "title": {
+        "ru": "Пещера Қоңырәулие",
+        "kk": "Қоңырәулие үңгірі",
+        "en": "Konyr Aulie cave"
+      },
+      "organization": "Kazakhstan.travel",
+      "url": "https://kazakhstan.travel/ru/attractions/572",
+      "category": "museum"
+    },
+    {
+      "id": "kieli",
+      "title": {
+        "ru": "Предания о Қоңырәулие",
+        "kk": "Қоңырәулие туралы аңыздар",
+        "en": "Traditions surrounding Konyr Aulie"
+      },
+      "organization": "Kieli.kz",
+      "url": "https://kieli.kz/kz/place/aqtas-tauyndagy-qonyr-aulie-ungiri",
+      "category": "archive"
+    },
+    {
+      "id": "kozy",
+      "title": {
+        "ru": "Мавзолей Қозы Көрпеш — Баян Сұлу",
+        "kk": "Қозы Көрпеш — Баян Сұлу кесенесі",
+        "en": "Kozy Korpesh — Bayan Sulu Mausoleum"
+      },
+      "organization": "Kazakhstan.travel",
+      "url": "https://kazakhstan.travel/ru/attractions/569",
+      "category": "museum"
+    },
+    {
+      "id": "unesco",
+      "title": {
+        "ru": "Заявка в предварительный список UNESCO",
+        "kk": "UNESCO-ның алдын ала тізіміне өтінім",
+        "en": "UNESCO Tentative List submission"
+      },
+      "organization": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/tentativelists/6913/",
+      "category": "archive",
+      "note": {
+        "ru": "Предварительный список; не статус Всемирного наследия.",
+        "kk": "Алдын ала тізім; Дүниежүзілік мұра мәртебесі емес.",
+        "en": "A Tentative List submission, not World Heritage inscription."
+      }
+    },
+    {
+      "id": "archaeology",
+      "title": {
+        "ru": "Археологическое описание мавзолея",
+        "kk": "Кесененің археологиялық сипаттамасы",
+        "en": "An archaeological account of the mausoleum"
+      },
+      "organization": "Ғылым ордасы",
+      "url": "https://gylymordasy.gov.kz/en/museum/muzey-arkheologii/kozy-korpesh-bayan-sulu-mausoleum/",
+      "category": "museum"
+    },
+    {
+      "id": "photo-semey",
+      "title": {
+        "ru": "Фотография музея Алаш",
+        "kk": "Алаш музейінің фотосуреті",
+        "en": "Photograph of the Alash museum"
+      },
+      "organization": "Ерден Карсыбеков · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Alash_arystary_museum.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "photo-zhidebay",
+      "title": {
+        "ru": "Фотография комплекса Абай–Шакарим",
+        "kk": "Абай–Шәкәрім кешенінің фотосуреті",
+        "en": "Photograph of the Abai–Shakarim complex"
+      },
+      "organization": "Дмитрий Кошелев · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Abai_%26_Shakarim_mausoleum.jpg",
+      "category": "photo"
+    },
+    {
+      "id": "photo-kozy",
+      "title": {
+        "ru": "Фотография мавзолея",
+        "kk": "Кесененің фотосуреті",
+        "en": "Photograph of the mausoleum"
+      },
+      "organization": "Mikhail Antonov / Xeofox · CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kozy_Korpesh_%E2%80%94_Bayan_Sulu_mausoleum.JPG",
+      "category": "photo"
+    },
+    {
+      "id": "loc",
+      "title": {
+        "ru": "Вид Семипалатинска, 1885–1886",
+        "kk": "Семей көрінісі, 1885–1886",
+        "en": "A view of Semipalatinsk, 1885–1886"
+      },
+      "organization": "Library of Congress",
+      "url": "https://www.loc.gov/item/99615482/",
+      "category": "archive"
+    },
+    {
+      "id": "khanate",
+      "title": {
+        "ru": "Образование Казахского ханства",
+        "kk": "Қазақ хандығының құрылуы",
+        "en": "The formation of the Kazakh Khanate"
+      },
+      "organization": "E-history.kz",
+      "url": "https://e-history.kz/ru/amp/history-of-kazakhstan/show/9173",
+      "category": "archive"
+    },
+    {
+      "id": "constitution",
+      "title": {
+        "ru": "Исторические документы Конституции 1995 года",
+        "kk": "1995 жылғы Конституцияның тарихи құжаттары",
+        "en": "Historical documents of the 1995 Constitution"
+      },
+      "organization": "Архив Президента РК",
+      "url": "https://archive.president.kz/ru/virtual/istoriko-dokumentalnaya-vystavka-konstitutsiya-respubliki-kazakhstan-osnova-stabilnosti-i-protsvetan/",
+      "category": "archive"
+    },
+    {
+      "id": "independence",
+      "title": {
+        "ru": "История провозглашения Независимости",
+        "kk": "Тәуелсіздіктің жариялану тарихы",
+        "en": "The proclamation of independence"
+      },
+      "organization": "Gov.kz",
+      "url": "https://www.gov.kz/memleket/entities/almaty/press/news/details/289236?lang=ru",
+      "category": "archive"
+    },
+    {
+      "id": "egov",
+      "title": {
+        "ru": "Учреждения культуры области Абай",
+        "kk": "Абай облысының мәдениет мекемелері",
+        "en": "Cultural institutions in Abai Region"
+      },
+      "organization": "data.egov.kz",
+      "url": "https://data.egov.kz/datasets/view?index=729_perechen_gosudarstvennyh1",
+      "category": "openData",
+      "note": {
+        "ru": "Паспорт набора. Доступ к API требует ключа.",
+        "kk": "Деректер паспорты. API үшін кілт қажет.",
+        "en": "Dataset catalogue. API access requires a key."
+      }
+    },
+    {
+      "id": "population",
+      "title": {
+        "ru": "Демографический ежегодник Казахстана, 2025",
+        "kk": "Қазақстанның демографиялық жылнамасы, 2025",
+        "en": "Demographic yearbook of Kazakhstan, 2025"
+      },
+      "organization": "Бюро национальной статистики",
+      "url": "https://stat.gov.kz/upload/iblock/ba9/sb7y28tuj2cfxl7qhnsb1uc8gzfx1nna/%D0%95-06-%D0%93%20%D1%80%D1%83%D1%81.pdf",
+      "category": "openData"
+    },
+    {
+      "id": "culture",
+      "title": {
+        "ru": "Статистика культуры за 2025 год",
+        "kk": "2025 жылғы мәдениет статистикасы",
+        "en": "Culture statistics for 2025"
+      },
+      "organization": "Бюро национальной статистики",
+      "url": "https://stat.gov.kz/ru/industries/social-statistics/stat-culture/publications/341122/",
+      "category": "openData"
+    },
+    {
+      "id": "registry",
+      "title": {
+        "ru": "Государственный список памятников области",
+        "kk": "Облыс ескерткіштерінің мемлекеттік тізімі",
+        "en": "State register of regional monuments"
+      },
+      "organization": "Әділет",
+      "url": "https://old.adilet.zan.kz/rus/docs/G26F000063A",
+      "category": "openData"
+    },
+    {
+      "id": "boundary",
+      "title": {
+        "ru": "Граница области Абай",
+        "kk": "Абай облысының шекарасы",
+        "en": "Abai Region boundary"
+      },
+      "organization": "OpenStreetMap contributors · ODbL",
+      "url": "https://www.openstreetmap.org/relation/14243026",
+      "category": "mapSources"
+    },
+    {
+      "id": "terrain",
+      "title": {
+        "ru": "Данные рельефа",
+        "kk": "Жер бедері деректері",
+        "en": "Terrain elevation data"
+      },
+      "organization": "Mapterhorn",
+      "url": "https://mapterhorn.com/attribution/",
+      "category": "mapSources"
+    },
+    {
+      "id": "basemap",
+      "title": {
+        "ru": "Географическая основа",
+        "kk": "Географиялық негіз",
+        "en": "Geographic basemap"
+      },
+      "organization": "OpenFreeMap / OpenMapTiles / OpenStreetMap",
+      "url": "https://openfreemap.org/quick_start/",
+      "category": "mapSources"
+    }
+  ],
+  "media": {
+    "semey-river": {
+      "src": "/media/timeline/semey-1885-1886.jpg",
+      "alt": {
+        "ru": "Архивная панорама Семипалатинска с Иртышом на переднем плане",
+        "kk": "Алдыңғы планда Ертіс өзені көрінетін Семейдің архивтік панорамасы",
+        "en": "Archival panorama of Semipalatinsk with the Irtysh River in the foreground"
+      },
+      "caption": {
+        "ru": "Семипалатинск с противоположного берега Иртыша, 1885–1886 годы. Вид города до покупки дома Анияром.",
+        "kk": "Ертістің қарсы жағалауынан түсірілген Семей, 1885–1886 жылдар. Әнияр үйді сатып алғанға дейінгі қала көрінісі.",
+        "en": "Semipalatinsk from across the Irtysh, 1885–1886. The city before Aniyar’s purchase of the house."
+      },
+      "credit": "Library of Congress / George Kennan Papers",
+      "sourceUrl": "https://www.loc.gov/item/99615482/",
+      "license": "Public domain; LOC: no known restrictions",
+      "fit": "contain",
+      "width": 1024,
+      "height": 770
+    },
+    "semey-bazaar": {
+      "src": "/media/stories/semey-bazaar-1885.webp",
+      "alt": {
+        "ru": "Люди на базаре Семипалатинска на фотографии XIX века",
+        "kk": "XIX ғасырдағы Семей базарындағы адамдар",
+        "en": "People at the Semipalatinsk bazaar in a nineteenth-century photograph"
+      },
+      "caption": {
+        "ru": "Базар в Семипалатинске, 1885–1886 годы. Снимок из собрания Джорджа Кеннана: повседневная жизнь города, а не постановочная реконструкция.",
+        "kk": "Семей базары, 1885–1886 жылдар. Джордж Кеннан қорындағы фотосурет қаланың күнделікті өмірін көрсетеді.",
+        "en": "Semipalatinsk bazaar, 1885–1886. A photograph from the George Kennan papers documenting everyday city life."
+      },
+      "credit": "Library of Congress · George Kennan papers",
+      "sourceUrl": "https://www.loc.gov/item/99615488/",
+      "license": "No known restrictions on reproduction",
+      "fit": "contain",
+      "width": 1400,
+      "height": 1050
+    },
+    "abai-portrait": {
+      "src": "/media/timeline/abai-portrait.jpg",
+      "thumbnail": "/media/timeline/thumb-education.webp",
+      "alt": {
+        "ru": "Абай Кунанбайулы сидит в традиционной одежде на фотографии 1896 года",
+        "kk": "1896 жылғы суретте дәстүрлі киіммен отырған Абай Құнанбайұлы",
+        "en": "Abai Qunanbaiuly seated in traditional clothing in an 1896 photograph"
+      },
+      "caption": {
+        "ru": "Абай в Семее, 1896 год. Фрагмент фотографии с сыновьями.",
+        "kk": "Абай Семейде, 1896 жыл. Ұлдарымен түскен фотосуреттің үзіндісі.",
+        "en": "Abai in Semey, 1896. A detail from a photograph with his sons."
+      },
+      "credit": "Н. Г. Кузнецов / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abai_Kunanbaev.jpg",
+      "license": "Public domain",
+      "fit": "contain",
+      "position": "50% 35%",
+      "width": 1085,
+      "height": 1460
+    },
+    "abai-book": {
+      "src": "/media/timeline/culture-abai-collection-1909.jpg",
+      "alt": {
+        "ru": "Потрёпанный экземпляр первого сборника стихов Абая 1909 года в музейной витрине",
+        "kk": "Музей сөресіндегі Абайдың 1909 жылғы алғашқы өлеңдер жинағының тозған данасы",
+        "en": "A worn copy of Abai’s first poetry collection, published in 1909, displayed in a museum case"
+      },
+      "caption": {
+        "ru": "Первый сборник стихов Абая, Санкт-Петербург, 1909. Музейный экземпляр в Семее, сфотографирован 16 сентября 2017 года.",
+        "kk": "Абайдың алғашқы өлеңдер жинағы, Санкт-Петербург, 1909. Семейдегі музей данасы, 2017 жылғы 16 қыркүйекте түсірілген.",
+        "en": "Abai’s first poetry collection, Saint Petersburg, 1909. A museum copy in Semey, photographed on 16 September 2017."
+      },
+      "credit": "Yakov Fedorov / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:First_Collection_of_Abay.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "position": "50% 50%",
+      "width": 1280,
+      "height": 853
+    },
+    "alash-document": {
+      "src": "/media/timeline/alash-letter-1918.jpg",
+      "alt": {
+        "ru": "Официальное письмо Алихана Букейханова на бланке Алаш-Орды, 1918 год",
+        "kk": "Әлихан Бөкейханның Алашорда бланкісіндегі ресми хаты, 1918 жыл",
+        "en": "Alikhan Bukeikhanov’s official letter on Alash Orda stationery, 1918"
+      },
+      "caption": {
+        "ru": "Письмо главы Алаш-Орды Алихана Букейханова, 12 (25) июня 1918 года. Оригинал хранится в Центре документации новейшей истории Семея.",
+        "kk": "Алашорда төрағасы Әлихан Бөкейханның 1918 жылғы 12 (25) маусымдағы хаты. Түпнұсқа Семейдің Қазіргі заман тарихын құжаттандыру орталығында сақтаулы.",
+        "en": "A letter from Alash Orda chairman Alikhan Bukeikhanov, 12 (25) June 1918. The original is held by Semey’s Documentation Centre for Contemporary History."
+      },
+      "credit": "ЦДНИ Семея, Ф. 48, Оп. 2, Д. 1, Л. 139 / E-history.kz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alash_Orda_document_1918.jpg",
+      "license": "Public domain (PD-KZ-exempt)",
+      "fit": "contain",
+      "width": 810,
+      "height": 789
+    },
+    "zhidebay-house": {
+      "src": "/media/stories/zhidebay-house.webp",
+      "alt": {
+        "ru": "Светлый дом-музей Абая в Жидебае",
+        "kk": "Жидебайдағы Абайдың ақ түсті үй-музейі",
+        "en": "The light-colored Abai house museum in Zhidebay"
+      },
+      "caption": {
+        "ru": "Дом Абая в Жидебае. Современный вид, 2 мая 2014 года. Дом-музей и большой мемориальный комплекс — разные части одного места.",
+        "kk": "Жидебайдағы Абай үйі. 2014 жылғы 2 мамырдағы көрініс. Үй-музей мен үлкен мемориалдық кешен — осы мекеннің бөлек нысандары.",
+        "en": "Abai’s house in Zhidebay, photographed on 2 May 2014. The house museum and the monumental memorial are distinct parts of the site."
+      },
+      "credit": "Yakov Fedorov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abai_House_in_Zhidebay.JPG",
+      "license": "CC BY-SA 3.0",
+      "fit": "contain",
+      "width": 1400,
+      "height": 788
+    },
+    "zhidebay-chests": {
+      "src": "/media/stories/zhidebay-exhibits.webp",
+      "alt": {
+        "ru": "Три деревянных сундука с инкрустацией в музее Жидебая",
+        "kk": "Жидебай музейіндегі өрнектелген үш ағаш сандық",
+        "en": "Three decorated wooden chests displayed in the Zhidebay museum"
+      },
+      "caption": {
+        "ru": "Сундуки в экспозиции Жидебая, 23 октября 2016 года. Накладки, замки и геометрический орнамент можно рассмотреть крупнее.",
+        "kk": "Жидебай экспозициясындағы сандықтар, 2016 жылғы 23 қазан. Өрнек, қапсырма мен құлыптарын үлкейтіп қарауға болады.",
+        "en": "Chests in the Zhidebay exhibition, 23 October 2016. Enlarge the image to examine fittings, locks and geometric ornament."
+      },
+      "credit": "Almagul Ibragimova",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_exhibits_in_Zhidebay.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 933,
+      "height": 1400
+    },
+    "zhidebay-memorial": {
+      "src": "/media/timeline/culture-memorial-2020.jpg",
+      "alt": {
+        "ru": "Белые сооружения мемориального комплекса Абая и Шакарима, дорожка и зелёный двор под синим небом",
+        "kk": "Көк аспан астындағы Абай мен Шәкәрім мемориалының ақ ғимараттары, жолы және жасыл ауласы",
+        "en": "White buildings of the Abai and Shakarim memorial complex, with a walkway and green courtyard under a blue sky"
+      },
+      "caption": {
+        "ru": "Мемориал Абая и Шакарима, 12 сентября 2020 года.",
+        "kk": "Абай мен Шәкәрім мемориалы, 2020 жылғы 12 қыркүйек.",
+        "en": "The Abai and Shakarim memorial, 12 September 2020."
+      },
+      "credit": "Ерден Карсыбеков / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abai_and_Shakarim_mausoleums.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "cover",
+      "position": "50% 42%",
+      "width": 864,
+      "height": 1152
+    },
+    "borili-museum": {
+      "src": "/media/stories/borili-museum.webp",
+      "alt": {
+        "ru": "Дом-музей Ауэзова в Бөрілі за деревьями и оградой",
+        "kk": "Бөрілідегі Әуезов үй-музейі, ағаштар мен қоршаудың ар жағынан көрініс",
+        "en": "Auezov’s house museum in Borili, seen behind trees and a fence"
+      },
+      "caption": {
+        "ru": "Дом-музей Мухтара Ауэзова в Бөрілі, 12 сентября 2020 года. Современная фотография восстановленного музейного здания.",
+        "kk": "Бөрілідегі Мұхтар Әуезовтің үй-музейі, 2020 жылғы 12 қыркүйек. Қалпына келтірілген музей ғимаратының қазіргі фотосуреті.",
+        "en": "Mukhtar Auezov’s house museum in Borili, 12 September 2020. A contemporary photograph of the restored museum building."
+      },
+      "credit": "Ерден Карсыбеков",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auezov_museum_in_Borili.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 1050,
+      "height": 1400
+    },
+    "auezov-coin": {
+      "src": "/media/stories/auezov-coin-1997.webp",
+      "alt": {
+        "ru": "Памятная монета 20 тенге с портретом Мухтара Ауэзова",
+        "kk": "Мұхтар Әуезов бейнеленген 20 теңгелік ескерткіш монета",
+        "en": "A 20-tenge commemorative coin depicting Mukhtar Auezov"
+      },
+      "caption": {
+        "ru": "Памятная монета 20 тенге к столетию Мухтара Ауэзова, 1997 год.",
+        "kk": "Мұхтар Әуезовтің жүз жылдығына арналған 20 теңгелік ескерткіш монета, 1997 жыл.",
+        "en": "A 20-tenge commemorative coin marking Auezov’s centenary, 1997."
+      },
+      "credit": "National Bank of Kazakhstan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KZ-1997-20tenge-Auezov.png",
+      "license": "Public domain · PD-KZ-exempt",
+      "fit": "contain",
+      "width": 1400,
+      "height": 1400
+    },
+    "auezov-stamp": {
+      "src": "/media/stories/auezov-stamp-2022.webp",
+      "alt": {
+        "ru": "Марка Казахстана к 125-летию Мухтара Ауэзова",
+        "kk": "Мұхтар Әуезовтің 125 жылдығына арналған Қазақстан маркасы",
+        "en": "A Kazakhstan stamp marking the 125th anniversary of Mukhtar Auezov’s birth"
+      },
+      "caption": {
+        "ru": "Почтовая марка Казахстана к 125-летию Мухтара Ауэзова, 2022 год.",
+        "kk": "Мұхтар Әуезовтің 125 жылдығына арналған Қазақстан пошта маркасы, 2022 жыл.",
+        "en": "Kazakhstan postage stamp marking the 125th anniversary of Mukhtar Auezov’s birth, 2022."
+      },
+      "credit": "Kazpost",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mukhtar_Auezov_2022_stamp_of_Kazakhstan.jpg",
+      "license": "Public domain · PD-KZ-exempt",
+      "fit": "contain",
+      "width": 974,
+      "height": 1400
+    },
+    "konyr-path": {
+      "src": "/media/stories/konyr-path.webp",
+      "alt": {
+        "ru": "Тропа к пещере Қоңырәулие среди скал Актаса",
+        "kk": "Ақтас жартастары арасындағы Қоңырәулие үңгіріне апаратын жол",
+        "en": "A path through the Aqtas rocks towards Konyr Aulie cave"
+      },
+      "caption": {
+        "ru": "Подход к Қоңырәулие в Актасе, Абайский район, 6 августа 2018 года. Этот снимок относится к пещере возле Токтамыса, не к одноимённым местам других областей.",
+        "kk": "Абай ауданындағы Ақтас тауының Қоңырәулие үңгіріне баратын жол, 2018 жылғы 6 тамыз. Сурет Тоқтамыс маңындағы үңгірге қатысты.",
+        "en": "Approach to Konyr Aulie at Aqtas in Abai District, 6 August 2018. This is the cave near Toktamys, not a namesake elsewhere."
+      },
+      "credit": "Дмитрий Кошелев",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Way_to_Konyr_Aulie_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 1400,
+      "height": 1050
+    },
+    "konyr-entrance": {
+      "src": "/media/stories/konyr-entrance.webp",
+      "alt": {
+        "ru": "Лестница у входа в пещеру Қоңырәулие",
+        "kk": "Қоңырәулие үңгірінің кіреберісіндегі баспалдақ",
+        "en": "Stairs at the entrance to Konyr Aulie cave"
+      },
+      "caption": {
+        "ru": "Лестница ко входу в Қоңырәулие, 6 августа 2018 года. Оборудование маршрута — современный слой истории посещений.",
+        "kk": "Қоңырәулие кіреберісіндегі баспалдақ, 2018 жылғы 6 тамыз. Жол жабдықтары — мекенді аралау тарихының қазіргі қабаты.",
+        "en": "Stairs to the cave entrance, 6 August 2018. The visitor infrastructure is a modern layer of the site’s history."
+      },
+      "credit": "Дмитрий Кошелев",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konyr_Aulie_upstairs_(center).jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 1400,
+      "height": 1050
+    },
+    "konyr-interior": {
+      "src": "/media/stories/konyr-interior.webp",
+      "alt": {
+        "ru": "Каменные своды и современная деревянная лестница внутри Қоңырәулие",
+        "kk": "Қоңырәулиенің тас төбесі мен қазіргі ағаш баспалдағы",
+        "en": "Rock surfaces and a modern timber staircase inside Konyr Aulie"
+      },
+      "caption": {
+        "ru": "Интерьер Қоңырәулие, 26 мая 2018 года. Освещение и деревянные ограждения относятся к обустройству для посетителей.",
+        "kk": "Қоңырәулиенің іші, 2018 жылғы 26 мамыр. Жарық пен ағаш қоршау келушілерге арналып орнатылған.",
+        "en": "Inside Konyr Aulie, 26 May 2018. The lighting and timber railings belong to the visitor infrastructure."
+      },
+      "credit": "Yakov Fedorov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konyr_Aulie_East_Kz.jpg",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 1400,
+      "height": 933
+    },
+    "kozy-stone": {
+      "src": "/media/kozy.jpg",
+      "alt": {
+        "ru": "Каменная кладка и силуэт мавзолея Қозы Көрпеш — Баян Сұлу",
+        "kk": "Қозы Көрпеш — Баян Сұлу кесенесінің тас қалауы мен сұлбасы",
+        "en": "The stonework and silhouette of the Kozy Korpesh–Bayan Sulu mausoleum"
+      },
+      "caption": {
+        "ru": "Мавзолей, 26 ноября 2015 года. Крупное изображение позволяет рассмотреть кладку из камня-плитняка.",
+        "kk": "Кесене, 2015 жылғы 26 қараша. Ірі суреттен жалпақ тастан қаланған қабырғаны көруге болады.",
+        "en": "The mausoleum on 26 November 2015. The large view reveals its slab-stone masonry."
+      },
+      "credit": "Mikhail Antonov / Xeofox",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kozy_Korpesh_%E2%80%94_Bayan_Sulu_mausoleum.JPG",
+      "license": "CC BY-SA 4.0",
+      "fit": "contain",
+      "width": 5166,
+      "height": 3552
+    },
+    "walikhanov-portrait": {
+      "src": "/media/stories/walikhanov-portrait.webp",
+      "alt": {
+        "ru": "Архивный портрет Шокана Уалиханова",
+        "kk": "Шоқан Уәлихановтың мұрағаттық портреті",
+        "en": "An archival portrait of Shoqan Walikhanov"
+      },
+      "caption": {
+        "ru": "Шокан Уалиханов. Портрет до 1865 года, фотограф неизвестен. В 1856 году исследователь посетил мавзолей и оставил ранние зарисовки.",
+        "kk": "Шоқан Уәлиханов. 1865 жылға дейінгі портрет, фотографы белгісіз. Зерттеуші кесенеге 1856 жылы барып, ерте суреттерін қалдырған.",
+        "en": "Shoqan Walikhanov, photographed before 1865; photographer unknown. He visited the mausoleum in 1856 and left early drawings."
+      },
+      "credit": "Автор неизвестен · Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chokan_Valikhanov_portrait.jpg",
+      "license": "Public domain",
+      "fit": "contain",
+      "width": 1077,
+      "height": 1200
+    }
+  }
+}

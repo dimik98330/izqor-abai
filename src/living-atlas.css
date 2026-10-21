@@ -1,0 +1,47 @@
+/* Selected reference: .research/immersive-story-2026-10-21/reference.png. */
+/* Landscape entrance and its map retain their existing composition. */
+@font-face{font-family:'IZQOR Story Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url('/fonts/landing/geologica-cyrillic-ext.woff2') format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}
+@font-face{font-family:'IZQOR Story Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url('/fonts/landing/geologica-cyrillic.woff2') format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:'IZQOR Story Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url('/fonts/landing/geologica-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+.app{min-height:100svh;display:flex;flex-direction:column}
+.app>main{flex:1}
+.immersive-story{--story-ivory:#fff9ec;--story-gold:#eac37d;position:relative;isolation:isolate;display:flex;align-items:flex-end;min-height:clamp(640px,74svh,880px);overflow:clip;color:var(--story-ivory);background:#123b2b;scroll-margin-top:100px}
+.immersive-story-image{position:absolute;inset:0;z-index:-3;overflow:hidden;animation:story-image-arrive 320ms ease-out}
+.immersive-story-image img{width:100%;height:100%;object-fit:cover;object-position:50% 48%;filter:saturate(1.03)}
+.immersive-story:after{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,#031c15d9 0%,#05271b91 23%,#082d1c4d 42%,#082d1c08 68%),linear-gradient(0deg,#062c2480 0%,#062c2400 33%)}
+.immersive-story-shell{width:min(100% - 208px,1320px);margin-inline:auto;position:relative;padding-block:80px 112px}
+.immersive-story-copy{max-width:650px;animation:story-copy-arrive 220ms ease-out}
+.immersive-story-eyebrow{font:500 13px/1.5 var(--landing-sans);letter-spacing:.14em;text-transform:uppercase;color:#f0c779;margin:0 0 10px}
+.page-home .immersive-story h2{font:400 clamp(68px,7.1vw,108px)/1.08 var(--landing-display);letter-spacing:-.04em;text-wrap:pretty;overflow-wrap:anywhere;color:#fffaf0;margin:0 0 15px;text-shadow:0 1px 5px #062c2426}
+.immersive-story-subtitle{font:400 clamp(20px,1.65vw,25px)/1.5 'IZQOR Story Sans',sans-serif;color:#fffdf4;margin:0 0 18px;max-width:38ch;text-wrap:pretty}
+.immersive-story-description{max-width:350px;font:300 18px/1.55 'IZQOR Story Sans',sans-serif;color:#f5f5e9;margin:0 0 32px;text-wrap:pretty}
+.immersive-story-actions{display:flex;align-items:center;flex-wrap:wrap;gap:20px 32px}
+.immersive-story-primary{min-height:56px;display:inline-flex;align-items:center;justify-content:space-between;gap:28px;padding:15px 25px;border:1px solid #eac77f;border-radius:6px;background:#eac178;color:#14281f;font:400 15px/1.5 'IZQOR Story Sans',sans-serif;text-decoration:none;transition:background-color 160ms ease-out,border-color 160ms ease-out}
+.immersive-story-primary:hover{background:#f6d798;border-color:#f6d798}.immersive-story-primary:active{background:#d9ad60}
+.immersive-story-guide{min-height:48px;display:inline-flex;align-items:center;gap:13px;padding:8px 0;background:transparent;color:#fffbed;font:300 15px/1.5 'IZQOR Story Sans',sans-serif}
+.immersive-story-guide:hover{color:#f6d798}
+.immersive-story-credit{position:absolute;right:40px;bottom:17px;max-width:calc(100% - 80px);font:400 10px/1.5 var(--landing-sans);color:#f0f0e5;text-decoration:none;text-align:right;text-shadow:0 1px 4px #062c24}
+.immersive-story-credit:hover{text-decoration:underline;text-underline-offset:3px}
+.page-home .immersive-story :is(button,a):focus-visible{outline:2px solid #f5d695;outline-offset:5px}
+.page-home .site-footer{padding:0 max(72px,calc((100vw - 1440px)/2));background:#082f27;color:#e0e8dc;border:0;font-family:'IZQOR Story Sans',sans-serif;font-weight:300}
+.page-home .site-footer>div{max-width:1440px;min-height:88px;border-top-color:#d0ddbe2e}
+.page-home .site-footer p{color:inherit;font-size:12px}
+.page-home .site-footer .wordmark .brand-lockup{width:140px;height:46px}
+html[data-footer-visible=true] .page-home .floating-guide.guide-chat-launcher{display:none}
+.page-home .dialog .memory-section{display:block;padding:30px;max-width:none;width:auto;background:#f7f3e9;color:#263e3b}
+.page-home .dialog .memory-actions{margin-top:24px}
+.page-home .dialog .memory-section h2{color:#263e3b}
+.story-scene-kozy .immersive-story-image img{object-position:50% 42%}
+.story-scene-kozy .immersive-story-copy{max-width:850px}
+.page-home .story-scene-kozy h2{max-width:18ch;font-size:clamp(54px,5.7vw,88px)}
+html[data-large=true] .page-home .immersive-story-subtitle{font-size:28px}
+html[data-large=true] .page-home .immersive-story-description{font-size:23px}
+html[data-large=true] .page-home .immersive-story-shell{padding-block:90px 110px}
+html[data-contrast=true] .page-home .immersive-story:after{background:linear-gradient(90deg,#031c15f0,#031c15c4 38%,#031c1529 75%),linear-gradient(0deg,#062c24ad,transparent 50%)}
+@keyframes story-image-arrive{from{opacity:.6}to{opacity:1}}
+@keyframes story-copy-arrive{from{opacity:.5}to{opacity:1}}
+@media(min-width:1800px){.immersive-story-shell{width:min(100% - 192px,1600px)}.immersive-story-copy{max-width:760px}.immersive-story-description{font-size:20px}.immersive-story-primary,.immersive-story-guide{font-size:17px;min-height:60px}}
+@media(max-width:1100px){.immersive-story-shell{width:calc(100% - 96px);padding-bottom:96px}.immersive-story-copy{max-width:580px}.immersive-story-description{font-size:17px}.page-home .site-footer{padding-inline:48px}}
+@media(max-width:700px){.immersive-story{min-height:720px;scroll-margin-top:88px}.immersive-story-shell{width:calc(100% - 48px);padding-block:270px 80px}.immersive-story-copy{max-width:none}.immersive-story-image img{object-position:62% 48%}.immersive-story:after{background:linear-gradient(0deg,#04251bf0 0%,#04251bc9 25%,#04251b52 54%,#04251b0d 85%)}.immersive-story-eyebrow{font-size:11px;letter-spacing:.15em}.page-home .immersive-story h2{font-size:60px;line-height:1.1;margin-bottom:17px}.immersive-story-subtitle{font-size:20px;line-height:1.5;margin-bottom:16px}.immersive-story-description{font-size:16px;line-height:1.65;max-width:37ch;margin-bottom:28px}.immersive-story-actions{gap:15px 24px}.immersive-story-primary{min-height:53px;padding:13px 20px;gap:23px;font-size:14px}.immersive-story-guide{font-size:13px;gap:10px;min-height:48px}.immersive-story-guide svg{width:23px}.immersive-story-credit{left:24px;right:24px;bottom:16px;max-width:none;font-size:9px;text-align:left}.page-home .site-footer{padding-inline:24px}.page-home .site-footer>div{min-height:110px}.page-home .story-scene-kozy h2{font-size:43px;max-width:15ch}html[data-large=true] .page-home .immersive-story-shell{padding-block:240px 86px}html[data-large=true] .page-home .immersive-story-subtitle{font-size:24px}html[data-large=true] .page-home .immersive-story-description{font-size:20px}}
+@media(max-width:380px){.immersive-story-actions{align-items:flex-start;flex-direction:column;gap:10px}.immersive-story{min-height:760px}.page-home .immersive-story h2{font-size:53px}}
+@media(prefers-reduced-motion:reduce){.immersive-story *{animation:none!important;transition:none!important}}

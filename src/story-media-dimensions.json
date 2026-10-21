@@ -1,0 +1,66 @@
+{
+  "semey-river": [
+    1024,
+    770
+  ],
+  "semey-bazaar": [
+    1400,
+    1050
+  ],
+  "abai-portrait": [
+    1085,
+    1460
+  ],
+  "abai-book": [
+    1280,
+    853
+  ],
+  "alash-document": [
+    810,
+    789
+  ],
+  "zhidebay-house": [
+    1400,
+    788
+  ],
+  "zhidebay-chests": [
+    933,
+    1400
+  ],
+  "zhidebay-memorial": [
+    864,
+    1152
+  ],
+  "borili-museum": [
+    1050,
+    1400
+  ],
+  "auezov-coin": [
+    1400,
+    1400
+  ],
+  "auezov-stamp": [
+    974,
+    1400
+  ],
+  "konyr-path": [
+    1400,
+    1050
+  ],
+  "konyr-entrance": [
+    1400,
+    1050
+  ],
+  "konyr-interior": [
+    1400,
+    933
+  ],
+  "kozy-stone": [
+    5166,
+    3552
+  ],
+  "walikhanov-portrait": [
+    1077,
+    1200
+  ]
+}

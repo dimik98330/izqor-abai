@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#103c3d"/>
+  <meta name="description" content="IZQOR — путешествие по истории и культуре области Абай. Интерактивная карта, музейные панорамы и истории на трёх языках."/>
+  <title>IZQOR — живая память земли</title>
+  <script src="%BASE_URL%load-recovery.js"></script>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet"/>
+  <style>
+    .app-startup { box-sizing: border-box; min-height: 100svh; padding: 32px; background: #f7f3e9; color: #103c3d; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; font: 16px/1.7 Arial, sans-serif; }
+    .app-startup strong { font: 36px Georgia, serif; color: #103c3d; }
+    .app-startup p { max-width: 34em; margin: 22px 0; }
+    .app-startup button { min-height: 44px; padding: 12px 20px; border: 0; border-radius: 4px; background: #dbba7d; color: #103c3d; font: inherit; cursor: pointer; }
+    .app-startup button:focus-visible { outline: 3px solid #103c3d; outline-offset: 4px; }
+    body { margin: 0; }
+  </style>
+</head>
+<body>
+  <div id="root"><div class="app-startup"><strong>IZQOR</strong><p id="startup-message" role="status">Загружаем путешествие…</p><button id="startup-reload" type="button" onclick="window.location.reload()">Обновить страницу</button></div></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>

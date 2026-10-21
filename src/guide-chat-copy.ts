@@ -1,0 +1,31 @@
+import { L } from './i18n';
+
+export const guideChatCopy = {
+  name: L('Жолсерік', 'Жолсерік', 'Zholserik'),
+  subtitle: L('Ваш гид по истории Казахстана', 'Қазақстан тарихы бойынша гидіңіз', 'Your guide to Kazakhstan’s history'),
+  welcome: L('С чего начнём?', 'Неден бастаймыз?', 'Where shall we begin?'),
+  introduction: L('Спросите об истории Казахстана, Семее или работе сайта — на русском, казахском или английском.', 'Қазақстан тарихы, Семей немесе сайтты пайдалану туралы қазақша, орысша не ағылшынша сұраңыз.', 'Ask about Kazakhstan’s history, Semey or using the site — in Kazakh, Russian or English.'),
+  language: L('Язык ответа', 'Жауап тілі', 'Answer language'),
+  place: L('Место', 'Мекен', 'Place'),
+  placeholder: L('Спросите Жолсеріка…', 'Жолсеріктен сұраңыз…', 'Ask Zholserik…'),
+  prompts: [
+    L('Чем известно это место?', 'Бұл мекен несімен танымал?', 'What is this place known for?'),
+    L('Как возникло Казахское ханство?', 'Қазақ хандығы қалай құрылды?', 'How did the Kazakh Khanate begin?'),
+    L('Когда Казахстан стал независимым?', 'Қазақстан қашан тәуелсіздік алды?', 'When did Kazakhstan become independent?'),
+  ],
+  newConversation: L('Новый разговор', 'Жаңа әңгіме', 'New conversation'),
+  close: L('Закрыть гида', 'Гидті жабу', 'Close the guide'),
+  send: L('Отправить вопрос', 'Сұрақты жіберу', 'Send question'),
+  stop: L('Остановить ответ', 'Жауапты тоқтату', 'Stop the answer'),
+  pauseBackground: L('Приостановить фон', 'Фонды тоқтату', 'Pause background'),
+  playBackground: L('Включить видеофон', 'Бейнефонды қосу', 'Play background'),
+  preparing: L('Готовлю ответ…', 'Жауап дайындап жатырмын…', 'Preparing an answer…'),
+  sources: L('Источники', 'Дереккөздер', 'Sources'),
+  general: L('Объяснение ИИ', 'ЖИ түсіндірмесі', 'AI explanation'),
+  you: L('Вы', 'Сіз', 'You'),
+  unavailable: L('ИИ-гид временно недоступен. Ниже — справка по материалам сайта, если они отвечают на вопрос.', 'ЖИ-гид уақытша қолжетімсіз. Сайтта сұраққа қатысты дерек болса, төменде анықтамалық жауап беріледі.', 'The AI guide is temporarily unavailable. Relevant site reference material is shown below when available.'),
+  retry: L('Повторить вопрос', 'Сұрақты қайталау', 'Try again'),
+  checking: L('Подключаюсь…', 'Қосылудамын…', 'Connecting…'),
+  reference: L('Справочный режим', 'Анықтамалық режим', 'Reference mode'),
+  referenceAnswer: L('Справка по материалам сайта', 'Сайт материалдары бойынша анықтама', 'Reference from site material'),
+};

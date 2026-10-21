@@ -1,0 +1,8 @@
+/* Cormorant Garamond, SIL OFL. Local file includes Latin, Cyrillic and Kazakh. */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url('/fonts/atlas/cormorant-garamond-variable.woff2') format('woff2');
+}

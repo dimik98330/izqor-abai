@@ -1,0 +1,128 @@
+/* Comp-led composition: .research/journey-design-2026-10-21/reference.png */
+.landing-container{width:min(100% - var(--landing-gutter)*2,var(--landing-shell));margin-inline:auto}
+.expedition-hero{--hero-cta:#e8c47e;--landing-sun-x:max(0px,calc((100vw - var(--landing-shell))/2 - 80px));position:relative;isolation:isolate;min-height:max(840px,100svh);background:#173a35;color:#fffaf0;overflow:clip}
+.expedition-landscape{position:absolute;inset:0;z-index:-2;overflow:hidden}
+.expedition-landscape img{width:100%;height:100%;object-fit:cover;object-position:0% 46%;filter:saturate(1.14) contrast(1.025);animation:landscape-arrive 1.5s var(--landing-ease) both}
+.expedition-hero:after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse 52% 44% at var(--landing-sun-x) 22%,#f8c66e59 0%,#efb75b21 42%,transparent 76%),linear-gradient(180deg,#182d2a40,transparent 30%,#082c2b60),linear-gradient(90deg,#142d2938,#092d2f12 78%)}
+.expedition-content{min-height:inherit;display:grid;grid-template-columns:minmax(0,.86fr) minmax(0,1.14fr);grid-template-rows:1fr auto;align-items:center;column-gap:56px;row-gap:36px;padding-block:128px 24px;animation:journey-content-arrive 700ms ease-out both}
+.expedition-copy{min-width:0}
+.expedition-copy h1{font:400 clamp(56px,5.2vw,80px)/1.1 var(--landing-display);letter-spacing:-.028em;max-width:12.6ch;text-wrap:balance;margin:0 0 28px;color:#fffdf3;text-shadow:0 2px 8px #102a2a45}
+.expedition-copy>p{max-width:385px;font-size:17px;line-height:1.8;color:#fff9ed;margin:0 0 32px;text-wrap:pretty;text-shadow:0 1px 4px #0b2a2c55}
+.expedition-actions{display:flex;align-items:center;flex-wrap:wrap;gap:16px 24px}
+.landing-button{display:inline-flex;align-items:center;justify-content:space-between;min-height:54px;padding:14px 22px;gap:22px;border:1px solid transparent;border-radius:var(--landing-radius);font:500 14px/1.5 var(--landing-sans);text-align:left;text-decoration:none;transition:background-color 160ms ease-out,color 160ms ease-out,border-color 160ms ease-out}
+.landing-button-light{background:var(--hero-cta,var(--landing-brass));color:var(--landing-ink);border-color:var(--hero-cta,var(--landing-brass))}
+.landing-button-light:hover{background:#f2d29f;border-color:#f2d29f}
+.landing-button-light:active{background:#d9b56f;border-color:#d9b56f}
+.expedition-guide{display:inline-flex;align-items:center;gap:11px;min-height:48px;padding:0;background:none;color:var(--landing-white);font-size:13px;font-weight:400}
+.expedition-play{display:grid;place-items:center;width:35px;height:35px;border:1px solid #f1efdb99;border-radius:50%;padding-left:2px}
+.expedition-guide:hover{color:var(--landing-brass)}
+.expedition-guide:hover .expedition-play{border-color:var(--landing-brass)}
+.expedition-atlas{min-width:0;scroll-margin-top:105px;container:place-explorer / inline-size}
+.landing-map{position:relative;isolation:isolate;min-width:0;margin-bottom:12px}
+.landing-place-dock{display:block;padding:0;background:transparent;color:#fff9ed;border:0;border-radius:0}
+.landing-destinations{display:flex;align-items:center;flex-wrap:wrap;gap:0 22px;min-width:0}
+.landing-destinations button{display:flex;align-items:center;min-width:0;min-height:44px;padding:10px 0;background:transparent;border:0;border-bottom:1px solid transparent;border-radius:0;color:#f5f2e8;font:500 13px/1.5 var(--landing-sans);text-align:left;text-shadow:0 1px 5px #102a2a;transition:color 160ms ease-out,border-color 160ms ease-out}
+.landing-destinations button[aria-pressed=true]{background:transparent;color:#ffe4a8;border-bottom-color:#e4c58b;border-radius:0}
+.landing-destinations button:hover:not([aria-pressed=true]){background:transparent;color:#ffe4a8}
+.page-home .landing-place-dock :is(button,a):focus-visible{outline:2px solid #f2d99e;outline-offset:4px}
+.landing-place-preview{min-width:0}
+.landing-place-content{display:grid;grid-template-columns:72px minmax(0,1fr);grid-template-rows:auto;align-items:center;gap:20px;min-width:0;margin:18px 0 0;padding-top:22px;border-top:1px solid #f6eac53b;animation:place-arrive 180ms ease-out both}
+.landing-place-photo{display:block;position:relative;min-width:0;height:80px;overflow:hidden;border-radius:3px;background:#173a35}
+.landing-place-photo>img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 35%}
+.landing-place-body{min-width:0;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;align-items:center;padding:0}
+.landing-place-caption{min-width:0}
+.landing-place-body h3{font:400 30px/1.2 var(--landing-display);letter-spacing:-.025em;margin:0 0 5px;color:#fffaf0;text-wrap:pretty;overflow-wrap:anywhere;text-shadow:0 1px 5px #102a2a}
+.landing-place-era{display:block;font-size:12px;line-height:1.6;color:#f1eddf;text-shadow:0 1px 4px #102a2a}
+.landing-place-body .landing-button{min-height:44px;padding:8px 0;gap:14px;border:0;border-radius:0;background:transparent;color:#fff7e6;font-size:12px;font-weight:500;white-space:nowrap;text-shadow:0 1px 5px #102a2a}
+.landing-place-body .landing-button:hover{background:transparent;color:#ffe4a8}
+.landing-place-body .landing-button:active{background:transparent;color:#e0bc78}
+@container place-explorer (max-width:640px){
+  .landing-place-body{grid-template-columns:minmax(0,1fr);gap:2px}
+  .landing-place-caption{min-height:0}
+  .landing-place-body .landing-button{width:auto;justify-self:start}
+}
+.expedition-bottom{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:30px;padding-top:20px;border-top:1px solid #ffffff38}
+.expedition-bottom>button{display:flex;align-items:center;gap:14px;min-height:48px;padding:0;background:none;color:var(--landing-white);font:400 12px/1.6 var(--landing-sans);text-align:left}
+.expedition-scroll{display:grid;place-items:center;flex:none;width:40px;height:40px;border:1px solid #ffffffa0;border-radius:50%}
+.expedition-bottom>button:hover .expedition-scroll{border-color:var(--landing-brass);color:var(--landing-brass)}
+.expedition-origin{max-width:60%;text-align:right;padding-right:48px}
+.expedition-image-note{font-size:11px;line-height:1.7;color:#e1e7d9}
+.expedition-map-credit{font-size:10px;line-height:1.8;margin:3px 0 0;color:#d9e1d2}
+.expedition-map-credit a{text-decoration:none;text-underline-offset:3px}
+.expedition-map-credit a:hover{text-decoration:underline;color:#fff9e8}
+.expedition-atlas:focus-visible,.region-webgl:focus-visible{outline:2px solid #f2d99e;outline-offset:6px;border-radius:4px}
+
+/* Geographic anchors and projection remain owned by RegionScene. */
+.region-scene,.region-suspense{position:relative;height:calc(clamp(370px,43svh,460px) - 62px);min-height:0}
+.region-webgl{position:absolute;inset:0;border-radius:4px}
+.region-webgl canvas{display:block;width:100%;height:100%;cursor:grab;touch-action:none;filter:drop-shadow(0 18px 15px #052b325c)}
+.region-webgl canvas:active{cursor:grabbing}
+.region-pins{position:absolute;inset:0;overflow:clip;pointer-events:none;z-index:2}
+.region-pin{position:absolute;visibility:hidden;pointer-events:auto;transform:translate(-50%,-50%);width:46px;height:46px;display:grid;place-items:center;background:none;padding:0;z-index:1;border-radius:50%}
+.region-pin-dot{width:12px;height:12px;background:#fff8e5;border:3px solid #345c4b;border-radius:50%;box-shadow:0 0 0 3px #fff3}
+.region-pin-label{position:absolute;max-width:180px;padding:8px 10px;border:0;border-radius:4px;background:#143c36ed;color:#f8f5e8;font:400 12px/1.5 var(--landing-sans);white-space:nowrap;text-align:left;pointer-events:auto}
+.pin-kozy .region-pin-label{width:170px;white-space:normal}
+.region-pin:hover,.region-pin:focus-visible{z-index:5}
+.region-pin[aria-pressed=true]{z-index:4}
+.region-pin:hover .region-pin-label{background:#244d40}
+.region-pin[aria-pressed=true] .region-pin-dot{background:#fff8d9;border-color:#fff8d9;box-shadow:0 0 0 5px #e5d9ab40}
+.region-pin[aria-pressed=true] .region-pin-label{background:#fff8df;color:#173a31}
+.region-pin-leaders{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
+.region-pin-leaders line{stroke:#ece1b7;stroke-opacity:.6;stroke-width:1}
+.region-flat{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px}
+.region-flat svg{max-width:100%;height:70%;fill:#547d69;stroke:#e3d9ac;stroke-width:.018}
+.region-flat p{max-width:40ch;text-align:center;color:#f0efe0;font-size:14px;line-height:1.7}
+.region-loading,.region-suspense{display:flex;align-items:center;justify-content:center;gap:14px;color:#e4eada;font-size:14px;line-height:1.7}
+.region-loading{position:absolute;inset:0}
+@keyframes landscape-arrive{from{transform:scale(1.025)}to{transform:scale(1)}}
+@keyframes journey-content-arrive{from{opacity:.8}to{opacity:1}}
+@keyframes place-arrive{from{opacity:.45}to{opacity:1}}
+@media(min-width:1700px){.expedition-content{column-gap:64px}.expedition-copy h1{font-size:80px}.expedition-copy>p{font-size:18px}}
+@media(max-width:1250px) and (min-width:1001px){.expedition-content{column-gap:32px;grid-template-columns:minmax(0,.86fr) minmax(0,1.14fr)}.expedition-copy h1{font-size:62px}.expedition-copy>p{font-size:16px;max-width:34ch}.expedition-actions{gap:14px 18px}.expedition-guide{font-size:12px}}
+@media(max-width:1000px){.expedition-hero{min-height:100svh}.expedition-content{grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto auto;padding-top:140px;row-gap:42px}.expedition-copy{max-width:650px}.expedition-copy h1{font-size:72px;max-width:14ch}.expedition-copy>p{max-width:440px}.expedition-atlas{width:100%;max-width:760px;justify-self:center}.region-scene,.region-suspense{height:368px}.expedition-origin{padding-right:44px}.expedition-bottom{gap:24px}}
+@media(max-width:700px){
+  .expedition-content{padding-block:122px 24px;row-gap:34px}
+  .expedition-landscape img{object-position:50% 46%}
+  .expedition-hero:after{background:radial-gradient(ellipse 90% 26% at -12% 10%,#f8c66e2e 0%,#efb75b0a 46%,transparent 82%),linear-gradient(180deg,#182d2a40 0%,#0f2c2f80 22%,#102c2f33 38%,#082c2b70 100%),linear-gradient(90deg,#142d294d,#092d2f26)}
+  .expedition-copy h1{font-size:clamp(46px,11.8vw,58px);line-height:1.12;max-width:13ch;margin-bottom:24px}
+  .expedition-copy>p{max-width:34ch;font-size:16px;line-height:1.8;margin-bottom:26px}
+  .expedition-actions{gap:14px 22px;align-items:center}
+  .landing-button{min-height:54px;font-size:14px;padding-inline:20px;gap:20px}
+  .expedition-guide{font-size:13px}
+  .expedition-atlas{scroll-margin-top:94px}
+  .landing-map{margin-bottom:14px}
+  .region-scene,.region-suspense{height:308px}
+  .region-pin-label{font-size:12px;max-width:160px}
+  .pin-kozy .region-pin-label{width:160px}
+  .region-pin:not([aria-pressed=true]):not(:hover):not(:focus-visible) .region-pin-label{display:none}
+  .landing-place-dock{padding:0}
+  .landing-destinations{gap:0 20px}
+  .landing-destinations button{font-size:13px;min-height:44px;padding:10px 0}
+  .landing-place-content{grid-template-columns:72px minmax(0,1fr);grid-template-rows:auto;gap:16px;padding-top:18px;margin-top:12px}
+  .landing-place-body{display:flex;flex-direction:column;align-items:flex-start;gap:5px;padding:0}
+  .landing-place-caption{min-height:0}
+  .landing-place-body h3{font-size:30px}
+  .landing-place-body .landing-button{min-height:44px;width:auto;white-space:normal}
+  .expedition-bottom{display:grid;grid-template-columns:1fr;gap:16px;padding-top:20px}
+  .expedition-bottom>button{font-size:12px}
+  .expedition-origin{max-width:100%;padding-right:55px;text-align:left}
+  .expedition-image-note{font-size:10px}
+  .expedition-map-credit{font-size:9px;line-height:1.9}
+}
+@media(max-width:375px){.expedition-actions{align-items:flex-start;flex-direction:column}.region-scene,.region-suspense{height:283px}}
+@media(min-width:1001px) and (max-height:850px){.expedition-content{padding-top:110px;row-gap:22px}.region-scene,.region-suspense{height:278px}}
+html[data-large=true] .page-home .expedition-copy>p{font-size:21px}
+html[data-large=true] .page-home .expedition-copy h1{font-size:clamp(50px,5vw,78px)}
+html[data-large=true] .page-home .landing-place-era,html[data-large=true] .page-home .landing-place-body .landing-button{font-size:16px}
+html[data-large=true] .page-home .landing-destinations button{font-size:18px}
+html[data-large=true] .page-home .landing-place-body{display:flex;align-items:stretch;flex-direction:column;justify-content:space-between}
+html[data-large=true] .page-home .landing-place-body h3{font-size:32px}
+html[data-large=true] .page-home .landing-place-content{grid-template-rows:auto}
+/* Keep the sunset in contrast mode; shade only the reading area. */
+html[data-contrast=true] .page-home .expedition-copy{position:relative;isolation:isolate}
+html[data-contrast=true] .page-home .expedition-copy:before{content:"";position:absolute;inset:-120px -200px;z-index:-1;pointer-events:none;background:radial-gradient(ellipse closest-side at center,#082c2be0 0%,#082c2bc7 70%,#082c2b00 100%)}
+html[data-contrast=true] .page-home .expedition-copy :is(h1,p){color:#fffdf3;text-shadow:0 2px 4px #082c2bd9}
+html[data-contrast=true] .page-home :is(.landing-place-era,.landing-destinations button){color:#fffaf0;text-shadow:0 1px 4px #082c2b,0 0 8px #082c2b}
+html[data-contrast=true] .page-home .landing-destinations button[aria-pressed=true]{background:transparent;color:#ffe4a8}
+.landing-journey.is-reduced *{animation:none!important;transition:none!important}
+@media(prefers-reduced-motion:reduce){.landing-journey *{animation:none!important;transition:none!important}}

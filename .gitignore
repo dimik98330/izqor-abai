@@ -1,0 +1,36 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local configuration and credentials; publish templates only
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+.npmrc
+
+# Local research, captures, backups and agent installations
+/.agents/
+/.research/
+/output/
+/skills-lock.json
+/tools/*
+!/tools/generate_ambient.py
+playwright-report/
+test-results/
+
+# Machine-specific editor files and logs
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
