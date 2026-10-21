@@ -28,6 +28,22 @@ The dist directory is static client code. Static-only hosting also needs a separ
 same-origin deployment of the API: uploading dist alone does not deploy this handler.
 The current local servers bind to loopback. No public deployment is claimed.
 
+## Vercel
+
+`vercel.json` configures the Vite build and Node.js functions at `/api/guide` and
+`/api/guide/status`. `server/vercel-guide.ts` keeps the function alive until the
+HTTP response finishes. The shared handler accepts both Vercel's parsed JSON body
+and Vite's raw request stream with the same validation and 96 KB limit.
+
+Set `OPENAI_API_KEY`, `OPENAI_MODEL` and `GUIDE_WEB_SEARCH` in the project's server
+environment. Set `VITE_2GIS_API_KEY` and `VITE_GUIDE_ENDPOINT=/api/guide` before the
+build. Never put the server key in a `VITE_` variable. Functions allow 60 seconds
+for an answer; the upstream timeout remains 45 seconds. Re-deploy after changing
+environment variables. Runtime rate/concurrency guards are per function instance;
+they are not a global account spending cap across serverless instances.
+
+Official runtime reference: https://vercel.com/docs/functions/runtimes/node-js .
+
 ## HTTP contract
 
 GET /api/guide/status returns { configured, webSearch }, with no credential.

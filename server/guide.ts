@@ -152,6 +152,18 @@ function reply(res: ServerResponse, status: number, value: unknown) {
   res.end(JSON.stringify(value));
 }
 async function readBody(req: IncomingMessage) {
+  // Vercel exposes a lazy, parsed body; Vite supplies the original request stream.
+  let parsed: unknown;
+  try { parsed = (req as IncomingMessage & { body?: unknown }).body; }
+  catch { throw new GuideError(400, 'invalid_json'); }
+  if (parsed !== undefined) {
+    let serialized: string;
+    try { serialized = Buffer.isBuffer(parsed) ? parsed.toString('utf8') : typeof parsed === 'string' ? parsed : JSON.stringify(parsed); }
+    catch { throw new GuideError(400, 'invalid_json'); }
+    if (typeof serialized !== 'string') throw new GuideError(400, 'invalid_json');
+    if (Buffer.byteLength(serialized, 'utf8') > MAX_BODY) throw new GuideError(413, 'request_too_large');
+    try { return JSON.parse(serialized); } catch { throw new GuideError(400, 'invalid_json'); }
+  }
   const chunks: Buffer[] = []; let size = 0;
   for await (const chunk of req) {
     size += chunk.length;
