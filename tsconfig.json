@@ -1,1 +1,1 @@
-{"files":[],"references":[{"path":"./tsconfig.app.json"}]}
+{"compilerOptions":{"rewriteRelativeImportExtensions":true},"files":[],"references":[{"path":"./tsconfig.app.json"}]}
