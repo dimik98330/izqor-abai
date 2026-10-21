@@ -8,7 +8,7 @@
 
 Исследуйте ландшафт, знакомьтесь с историей мест и задавайте вопросы проводнику Жолсерік.
 
-[Запустить проект](#запуск-на-компьютере) · [Подключить ключи](#подключение-карты-и-ai-гида) · [Решить проблему](#если-что-то-не-работает) · [Документация](#документация)
+[Открыть сайт](https://izqor-abai.vercel.app) · [Запустить локально](#запуск-на-компьютере) · [Подключить ключи](#подключение-карты-и-ai-гида) · [Документация](#документация)
 
 [![CI](https://github.com/dimik98330/izqor-abai/actions/workflows/ci.yml/badge.svg)](https://github.com/dimik98330/izqor-abai/actions/workflows/ci.yml)
 ![React 19](https://img.shields.io/badge/React-19-202c2c?style=flat-square&logo=react&logoColor=e6c78e)
@@ -217,6 +217,8 @@ npm start
 </details>
 
 ## Размещение в интернете
+
+**Рабочий сайт: [izqor-abai.vercel.app](https://izqor-abai.vercel.app).** Клиент и API гида размещены на Vercel. Первый деплой выполнен через официальный CLI; автоматическое размещение после push пока требует подключения GitHub к аккаунту Vercel.
 
 Для Vercel в репозитории подготовлены `vercel.json` и функции `api/guide.ts`, `api/guide/status.ts`. `npm start` предназначен для локального просмотра сборки.
 

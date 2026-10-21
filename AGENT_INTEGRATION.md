@@ -26,7 +26,9 @@ after changing VITE_GUIDE_ENDPOINT. A credential must never have a VITE_ prefix.
 
 The dist directory is static client code. Static-only hosting also needs a separate
 same-origin deployment of the API: uploading dist alone does not deploy this handler.
-The current local servers bind to loopback. No public deployment is claimed.
+The local servers bind to loopback. The production client and guide API are hosted
+at https://izqor-abai.vercel.app . The first deployment uses the official Vercel
+CLI; automatic deployments require connecting GitHub to the Vercel account.
 
 ## Vercel
 
