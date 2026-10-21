@@ -1,6 +1,8 @@
-# Panorama guide experiment
+# Panorama guide
 
-Branch: `codex/panorama-live-guide`. Kept in a separate worktree; no production deployment or main-branch merge.
+Developed in `codex/panorama-live-guide`, then merged into `main` and released on 2026-10-21 at https://izqor-abai.vercel.app. Release code: `fc135bf`. Unfinished local story-layout edits were preserved separately and were not included in this deployment.
+
+Vercel deployment: `dpl_G9zCBYjc3wrFWrFZ7heYuJCpwaQX` (`izqor-abai-nzhpb5p2b-12212.vercel.app`). Previous deployment retained for rollback: `dpl_HwVJe4Fb4rFtA5v2NUnY5NDt9kR6`.
 
 ## Behavior
 
@@ -29,14 +31,16 @@ Frames go to OpenAI through the existing server-only credential and fixed Respon
 - Kozy Korpesh — Bayan Sulu: linked from [Ruhani Atalemi media](https://www.ruhaniatalemi.kz/ru/media). [Working 360 tour](https://www.ruhaniatalemi.kz/static/3d/2710/3e8/98f13708210194c475687be6106a3b84/), visually verified directly and embedded in the local app.
 - [Chrome Region Capture documentation](https://developer.chrome.com/docs/web-platform/region-capture) describes the cropped self-capture mechanism.
 
-## Verification and remaining manual check
+## Verification
 
 - TypeScript check and production build passed.
 - Full Vitest suite: 90 passing tests, including HTTP validation, capture cleanup after stale permission, rejected monitor/different-tab crops, motion settling, cooldown and session budget.
 - Real provider request from the sidebar: place question answered with clickable sources.
 - Real image request through the browser's attachment control: the guide described the supplied cave-interior photograph (stone walls, wooden stairs/railings, lighting) and did not claim to see the underground lake. Verified canonical source link after tightening citation instructions.
 - 390 px layout inspected: no horizontal overflow; composer reachable by scrolling. Desktop dialog and third-party embeds visually inspected.
-- **Still requires an interactive user check:** select the current IZQOR tab in Chrome/Edge's native share picker, verify that “What am I looking at?” matches the current view, then enable automatic hints and rotate/stop the panorama. Capture lifecycle and gating have automated coverage, but a real native-picker/cropped-stream/automatic-provider run has not been completed by the agent.
+- Vercel production build passed. The public origin returns configured status, validates the new `/api/guide/view` endpoint and answers a real question from its browser UI. Text and image analysis were also checked against the deployed function before promotion.
+- Real Chrome tab capture was subsequently observed on the public origin after the native picker was approved: a 1280 × 660 cropped panorama frame reached the guide. Its answer matched the visible boardwalk, lamp and roofed building outside the cave. The sidebar was not included in the captured frame.
+- Automatic hints were enabled on the public site and produced a real image-based answer after the view settled. Automated tests separately cover the cooldown, ten-frame budget and release of rejected/stale capture streams. Browser sharing still requires the visitor to approve the current tab each session; other browsers can use screenshot attachment.
 
 ## Run locally
 
