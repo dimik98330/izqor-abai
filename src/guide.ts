@@ -36,7 +36,11 @@ export function referenceAnswer(request:GuideRequest):GuideAnswer {
   const localQuestion=/это(?:го|м|т)?\s+(?:мест|дом)|здесь|тут|this (?:place|house)|see here|(?:бұл|осы)\s+(?:мекен|жер|үй)|мұнда|осында|панорам|panoram|360/iu.test(q);
   const place=topics.places[0]??(localQuestion?places.find(p=>p.id===request.placeId):undefined);
   if(place){
-    if(/панорам|panoram|360/.test(q))return place.tours.length?sourced(text(copy.panoramaText,locale),['tours']):insufficient();
+    if(/панорам|panoram|360/.test(q)) {
+      if(!place.tours.length)return insufficient();
+      const scope=place.id==='konyr'?text(L('Для этой пещеры есть круговой обзор снаружи. Панорама подземного озера пока не найдена.','Бұл үңгірдің сыртқы айналма көрінісі бар. Жерасты көлінің панорамасы әзірге табылған жоқ.','This cave has an exterior panorama. An underground lake panorama has not yet been found.'),locale):text(copy.panoramaText,locale);
+      return sourced(scope,[place.id==='konyr'?'tour-konyr':place.id==='kozy'?'tour-kozy':'tours']);
+    }
     if(/источник|дереккөз|қайдан|source|information come/.test(q))return sourced(text(place.short,locale)+' '+text(copy.sourceIntro,locale),place.sourceIds);
     const section=place.sections[/эпос|epic|жыр/.test(q)?Math.min(1,place.sections.length-1):0];
     return sourced((topics.places.length?text(place.name,locale)+'\n\n':'')+text(section.body,locale),section.sourceIds);

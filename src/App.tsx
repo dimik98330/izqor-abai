@@ -4,6 +4,7 @@ import { ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, Bookmark, Check, Chevro
 import { places, sources, getPlace, getSource, type Place } from './content';
 import { copy, L, text, languageNames, type Lang, type CopyKey, type LocalText } from './i18n';
 import GuidePanel from './GuidePanel';
+import PanoramaGuide from './PanoramaGuide';
 import SettingsPanel from './SettingsPanel';
 import { requestRecordingStream } from './capture';
 import HomeJourney from './HomeJourney';
@@ -43,7 +44,7 @@ export default function App(){
   const [lang,setLang]=useState<Lang>(()=>{const l=stored<string>('language','ru');return ['ru','kk','en'].includes(l)?l as Lang:'ru';});
   const [large,setLarge]=useState(()=>stored('large',false)),[contrast,setContrast]=useState(()=>stored('contrast',false)),[reduce,setReduce]=useState(()=>stored('reduce',false));
   const systemReduce=useReducedMotion(),reduced=reduce||!!systemReduce;
-  const [settings,setSettings]=useState(false),[mobileNav,setMobileNav]=useState(false),[guideOpen,setGuideOpen]=useState(false),[tour,setTour]=useState<string|null>(null),[tourLoading,setTourLoading]=useState(false);
+  const [settings,setSettings]=useState(false),[mobileNav,setMobileNav]=useState(false),[guideOpen,setGuideOpen]=useState(false),[tour,setTour]=useState<string|null>(null);
   const [saved,setSaved]=useState<string[]>(()=>stored<string[]>('saved',[]).filter(id=>!!getPlace(id)));
   const [visited,setVisited]=useState<string[]>(()=>stored<string[]>('visited',[]).filter(id=>!!getPlace(id)));
   const [playing,setPlaying]=useState(false),[volume,setVolume]=useState(()=>stored<number>('volume',.3)),[voice,setVoice]=useState(false);
@@ -102,7 +103,7 @@ export default function App(){
     try{synth.speak(utterance);}catch{finish();notify(t('noVoice'));}
   }
   async function share(){try{await navigator.clipboard.writeText(location.href);notify(t('copied'));}catch{notify(location.href);}}
-  function openTour(url:string){setTourLoading(true);setTour(url);}
+  function openTour(url:string){setTour(url);}
   const navigation:[Page,CopyKey][]=[['home','journey'],['map','map'],['places','places'],['timeline','timeline']];
   const sourceResults=sources.filter(s=>(sourceCategory==='all'||s.category===sourceCategory)&&(!sourceQuery||(p(s.title)+' '+s.organization).toLocaleLowerCase().includes(sourceQuery.toLocaleLowerCase())));
   return <div className={'app page-'+page}>
@@ -146,9 +147,9 @@ export default function App(){
     <SiteFooter lang={lang} onHome={()=>navigate('home')} onSources={()=>navigate('sources')} onSettings={()=>setSettings(true)} onMemory={()=>setMemoryOpen(true)} onIntroduction={startIntroduction}/>
     <Dialog lang={lang} open={memoryOpen} onClose={()=>setMemoryOpen(false)} title={t('memoryTitle')} wide><MemorySection lang={lang} notify={notify}/></Dialog>
     {onboardingOpen&&<Suspense fallback={null}><OnboardingGuide open={onboardingOpen} lang={lang} reduced={reduced} onClose={closeIntroduction} onNavigate={navigate} onAskGuide={()=>setGuideOpen(true)} renderAvatar={(step,speaking,focusPoint)=><Suspense fallback={<span className="spinner"/>}><GuideAvatar lang={lang} focusPoint={focusPoint} step={step} reduced={reduced} speaking={speaking} compact={step!==0}/></Suspense>}/></Suspense>}
-    {!guideOpen&&page!=='map'&&<button className="floating-guide guide-chat-launcher" data-tour="guide" aria-label={p(L('Жолсерік — спросите меня о чём угодно','Жолсерік — маған кез келген сұрақ қойыңыз','Zholserik — ask me anything'))} onClick={()=>setGuideOpen(true)}><span className="guide-trigger-portrait" aria-hidden="true"><img src={asset('/media/zholserik-avatar.png')} alt="" width={144} height={168} decoding="async"/></span><span className="guide-trigger-copy"><small>{p(L('Жолсерік','Жолсерік','Zholserik'))}</small><strong>{p(L('Спросите о чём угодно','Кез келген сұрақ қойыңыз','Ask me anything'))}</strong></span><ArrowUpRight size={18} strokeWidth={1.6} aria-hidden="true"/></button>}
+    {!guideOpen&&!tour&&page!=='map'&&<button className="floating-guide guide-chat-launcher" data-tour="guide" aria-label={p(L('Жолсерік — спросите меня о чём угодно','Жолсерік — маған кез келген сұрақ қойыңыз','Zholserik — ask me anything'))} onClick={()=>setGuideOpen(true)}><span className="guide-trigger-portrait" aria-hidden="true"><img src={asset('/media/zholserik-avatar.png')} alt="" width={144} height={168} decoding="async"/></span><span className="guide-trigger-copy"><small>{p(L('Жолсерік','Жолсерік','Zholserik'))}</small><strong>{p(L('Спросите о чём угодно','Кез келген сұрақ қойыңыз','Ask me anything'))}</strong></span><ArrowUpRight size={18} strokeWidth={1.6} aria-hidden="true"/></button>}
     <Dialog lang={lang} open={settings} onClose={()=>setSettings(false)} title={t('settings')}><SettingsPanel lang={lang} large={large} contrast={contrast} reduce={reduce} volume={volume} playing={playing} narrating={voice} visitedCount={visited.length} savedCount={saved.length} placeCount={places.length} onLargeChange={setLarge} onContrastChange={setContrast} onReduceChange={setReduce} onVolumeChange={setVolume} onToggleMusic={toggleMusic} onIntroduction={startIntroduction} onReset={()=>{setVisited([]);setSaved([]);}} onClose={()=>setSettings(false)}/></Dialog>
-    <Dialog lang={lang} open={!!tour} onClose={()=>setTour(null)} title={p(place.name)+' · '+t('panorama')} wide><div className="panorama-frame-wrap">{tourLoading&&<div className="panorama-loading"><span className="spinner"/>{t('loadingTour')}</div>}{tour&&<iframe key={tour} src={tour} title={p(place.name)+' 360°'} allow="fullscreen" allowFullScreen onLoad={()=>setTourLoading(false)} referrerPolicy="strict-origin-when-cross-origin"/>}</div><div className="panorama-footer"><span>{t('tourHelp')}</span><a href={tour||undefined} target="_blank" rel="noreferrer">{t('externalTour')}<ExternalLink size={14}/></a></div></Dialog>
+    {tour&&<PanoramaGuide key={selected} lang={lang} place={place} initialTour={tour} onClose={()=>setTour(null)}/>}
     <Dialog lang={lang} open={guideOpen} onClose={()=>setGuideOpen(false)} title={p(L('Жолсерік','Жолсерік','Zholserik'))}><GuidePanel lang={lang} reduced={reduced} placeId={selected} onLanguage={setLang} onClose={()=>setGuideOpen(false)} onSelect={id=>page==='place'?navigate('place',id):setSelected(id)}/></Dialog>
     <Dialog lang={lang} open={modelOpen} onClose={()=>setModelOpen(false)} title={p(L('Қозы Көрпеш — Баян Сұлу · архитектурная схема','Қозы Көрпеш — Баян Сұлу · сәулеттік сызба','Kozy Korpesh — Bayan Sulu · architectural study'))} wide><Suspense fallback={<div className="atlas-fallback"><span className="spinner"/></div>}><ModelView lang={lang} reduced={reduced}/></Suspense></Dialog>
     <AnimatePresence>{toast&&<motion.div className="toast" role="status" initial={{opacity:0,y:reduced?0:12}} animate={{opacity:1,y:0}} exit={{opacity:0}}>{toast}<button onClick={()=>setToast('')} aria-label={t('close')}><X size={16}/></button></motion.div>}</AnimatePresence>

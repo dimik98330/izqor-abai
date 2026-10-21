@@ -23,7 +23,7 @@ export const copy = {
   close:L('Закрыть','Жабу','Close'), back:L('Назад','Артқа','Back'), next:L('Следующее место','Келесі орын','Next place'),
   previous:L('Предыдущее место','Алдыңғы орын','Previous place'), read:L('Читать историю','Тарихын оқу','Read the story'),
   panorama:L('Панорама 360°','360° панорама','360° panorama'), openPanorama:L('Войти в панораму','Панорамаға кіру','Enter the panorama'),
-  panoramaText:L('Подлинные пространства музейного комплекса. Перемещайтесь по отмеченным точкам.','Музей кешенінің шынайы кеңістігі. Белгіленген нүктелер арқылы өтіңіз.','Real spaces from the museum collection. Move between the marked viewpoints.'),
+  panoramaText:L('Осмотритесь вокруг и спросите гида о месте или выбранном ракурсе. Перемещайтесь по отмеченным точкам.','Айналаға қарап, гидтен осы жер немесе таңдалған көрініс туралы сұраңыз. Белгіленген нүктелер арқылы өтіңіз.','Look around and ask the guide about the place or a chosen view. Move between marked viewpoints.'),
   externalTour:L('Открыть на сайте музея','Музей сайтында ашу','Open on the museum website'),
   loadingTour:L('Загружается панорама…','Панорама жүктелуде…','Loading the panorama…'),
   tourHelp:L('Если панорама не появилась, откройте её в источнике.','Панорама ашылмаса, дереккөзден ашыңыз.','If the panorama does not appear, open the original tour.'),

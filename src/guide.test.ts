@@ -19,8 +19,12 @@ describe('source-based guide boundaries',()=>{
     }
   });
   it('never invents a panorama for places without a working tour',()=>{
+    const place=places.find(place=>place.id==='konyr')!, tours=place.tours;
+    try{place.tours=[];const result=referenceAnswer({question:'What can I see in the panorama?',locale:'en',placeId:'konyr'});expect(result.citationIds).toHaveLength(0);}finally{place.tours=tours;}
+  });
+  it('distinguishes the new cave exterior panorama from an underground tour',()=>{
     const result=referenceAnswer({question:'What can I see in the panorama?',locale:'en',placeId:'konyr'});
-    expect(result.citationIds).toHaveLength(0);
+    expect(result.answer).toContain('exterior');expect(result.answer).toContain('not yet been found');expect(result.citationIds).toEqual(['tour-konyr']);
   });
   it('rejects unsupported remote answers and drops unknown source IDs',()=>{
     expect(()=>validateRemoteAnswer({answer:'A claim',citationIds:['invented']})).toThrow();
